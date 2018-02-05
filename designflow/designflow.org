@@ -1,0 +1,92 @@
+#+TITLE: Model to Silicon Design Flow
+* Goals
+- Have a completed demo from Model to Hardware.
+- Reuse collateral between stages.
+  + Includes firmware
+- Customer engagement with models.
+- PVT tradeoffs with reused code. 
+
+* Hierarchy
+- Python Model
+  - C++ Firmware
+    - Functions
+    - Models
+  - SV Hardware
+    - Design
+    - Stimulus
+
+* Models
+- Use to quickly prototype solutions
+- Generate a working behavior
+- Comparison between different stages
+- High level testing
+
+
+* Firmware
+
+* Hardware
+
+* Stimulus
+- System Testing : Top level, feature testing 
+- Integration Testing : Multiple features testing
+- Unit Testing : Microtesting 
+
+* Tools
+- Python
+- Pybind11
+  - Eigen matrix library
+- Gtest
+- CMake
+- gEDA 
+- cocotb
+- Altera FPGA Suite?
+
+
+* Tasks
+** TODO Python/C++ Binding
+** TODO Python testing
+
+* Applications
+- Simple Arithmetic Unit
+- DSP Audio Processing
+  - Filter and FFT 
+- Machine Learning Neural Network Training
+  + Software training
+    * Prepared data
+    * Real time data
+    + Hardware training
+      * Prepared data
+      * Realtime data
+       
+
+
+* Components
+** Documentation
+** Model
+- Python : For initial feasibility 
+- C++    : For physical hardware feasibility
+** Design
+- Digital Design : SystemVerilog
+- Analog Design  : Spectre/Spice
+** Firmware
+- Python : High level human interaction
+- C++/C  : Lower level hardware interaction
+** Stimulus
+- Python : User interface
+- C++    : Embedded testing
+
+| Language | Component | Function |
+|----------+-----------+----------|
+| Python   | Model     | Behavior |
+| Python   | Stimulus  | Test     |
+| C++      | Firmware  | Design   |
+| C++      | Stimulus  | Test     |
+| C++      | Model     | Behavior |
+| HDL      | Hardware  | Design   |
+| HDL      | Stimulus  | Test     |
+
+
+
+
+
+https://repo.continuum.io/archive/Anaconda3-5.0.1-MacOSX-x86_64.pkg

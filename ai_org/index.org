@@ -1,0 +1,39 @@
+* Machine Learning (Supervised Learning)
+** [[./data.org][Data]]
+** [[./models.org][Models]]
+** [[./cost_functions.org][Cost Functions]]
+** [[./optimization_functions.org][Optimization Functions]]
+** [[./debug.org][Debug]]
+
+
+* Artificial Intelligence (Unsupervised Learning)
+** Topic 1
+** Topic 2
+
+
+* Courses and Classes (Raw Notes)
+** [[./courses/fast_ai_dl_course/index.org][Jeremy Howard - Fast AI Course]]
+
+* A list
+  1. Numbers
+  2. Numbers
+     * This is another list
+       * 
+
+* An equation
+\begin{equation}
+\Delta = \sum_{i=1}^N W_i (x_i - \bar{x})^2 \frac{y_i}{x_i}
+\end{equation}
+
+#+INCLUDE: "~/.emacs" src emacs-lisp 
+
+#+INCLUDE: "./helloworld.py" src python expor
+
+* Code Execution
+#+NAME: helloworld
+#+BEGIN_SRC python
+print("Hello World")
+#+END_SRC
+
+* RESULTS
+#+RESULTS:

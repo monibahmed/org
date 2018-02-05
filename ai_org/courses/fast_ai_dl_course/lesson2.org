@@ -1,0 +1,38 @@
+* Fast AI Lesson 2
+Progressive Growing of GANs for Improved Quality, Stability, and Variation
+https://arxiv.org/abs/1710.10196
+
+Snapshot Ensembles: Train 1, get M for free
+https://arxiv.org/abs/1704.00109
+
+* Gradients
+* Learning Finder 
+** Learning rate vs loss
+** Want highest learning rate without being flat. 
+** Improving learning using other momentums
+* Hyperparameters
+* Give it more data -- overfitting
+** Data augmentation
+*** Make a decision with what makes sense
+*** Move, zoom, rotate, flip
+*** Learn from different angles
+*** learn.precompute=True/False ??? 
+*** cycle_len = 1, SDG with restarts, learning rate annealing (cosine)
+*** "jump up" the learning rate to get flatter minimum. 
+*** TTA - Test time augmentation
+* Finetuning, unfreeze (does not recompute)
+** Differential learning rates
+* Confusion Matrix
+* Batchsize
+* Change architecture (resnext50)
+
+* Homework
+** TODO Learnng rates vs Cycle etc
+** TODO Dog breed Kaggle Competition (CSV File has targets)
+** TODO How many signficant figures are needed (how does this relate to log scale)
+** TODO Kaggle CLI to get data and submit results
+** TODO AWS Setup on your own account (fastai, p2xlarge)
+   
+* Kaggle Competitions to try
+
+** TODO House Prices : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard

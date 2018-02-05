@@ -1,0 +1,20 @@
+#+TITLE: Testing Python Code
+
+* Python Model Code
+This is the python model, it is a simple summation. This same code
+also includes the verification code.
+
+#+INCLUDE: "./testingyourcode.py"
+
+* Testing the code
+** unittest and unittest2
+** doctest
+** py.test
+** hypothesis
+** mock
+
+* References
+- http://docs.python-guide.org/en/latest/writing/tests/
+- http://pythontesting.net/start-here/
+- http://cocotb.readthedocs.io/en/latest/introduction.html
+

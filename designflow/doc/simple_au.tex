@@ -1,0 +1,70 @@
+% Created 2018-02-02 Fri 12:29
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Monib Ahmed}
+\date{\today}
+\title{Simple Arithmetic Unit}
+\hypersetup{
+ pdfauthor={Monib Ahmed},
+ pdftitle={Simple Arithmetic Unit},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.1 (Org mode 9.1.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Introduction}
+\label{sec:org1f9f06a}
+This is a simple AU (SAU) unit that is specifically used to walked
+through the Python to Hardware Design flow. 
+
+\section{Operations}
+\label{sec:org5b3a8f7}
+\begin{center}
+\begin{tabular}{rl}
+Opcode & Operation\\
+2-bits & \\
+\hline
+000 & NOP\\
+001 & ADD\\
+010 & SUB\\
+011 & SHIFTL\\
+100 & SHIFTR\\
+101 & AND\\
+110 & OR\\
+111 & NOP\\
+\end{tabular}
+\end{center}
+
+\section{Interface}
+\label{sec:org892b1e7}
+\begin{center}
+\begin{tabular}{lll}
+Port Name & Direction & Description\\
+\hline
+clk & input & Clock\\
+rstb & input & Reset\\
+opcode[2:0] & input & Opcode\\
+A[3:0] & input & Operand A\\
+B[3:0] & input & Operand B\\
+C[4:0] & output & Result\\
+\end{tabular}
+\end{center}
+\end{document}

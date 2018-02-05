@@ -1,0 +1,42 @@
+(require 'ox-publish)
+
+(setq org-publish-project-alist
+      '(
+	("ai_org-notes"
+	 :base-directory "~/org/ai_org"
+	 :base-extension "org"
+	 :publishing-directory "~/org/ai_org/public_html"
+         ;:html-head-extra "<link rel=\"stylesheet\" href="./css/orgmode.css"/>"
+         :with-toc nil
+	 :recursive t
+	 :publishing-function org-html-publish-to-html
+	 :headline-levels 4             ; Just the default for this project.
+	 :auto-preamble t
+	 )
+	("ai_org-static"
+	 :base-directory "~/org/ai_org"
+	 :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
+	 :publishing-directory "~/org/ai_org/public_html/static"
+	 :with-toc nil
+	 :recursive t
+	 :publishing-function org-publish-attachment
+	 )
+	("ai_org" :components ("ai_org-notes" "ai_org-static"))
+	))
+
+
+
+;; Publish with
+(org-publish-current-project) ;; While having a file in your project open
+;; OR
+;; M-x org-publish <RET> project-name <RET>
+
+(org-publish "ai_org" t)
+
+(require 'ox-twbs)
+
+(require 'package)
+(add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages") t)
+(package-initialize)
+
+(package-install "org2jekyll")

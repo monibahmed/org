@@ -1,0 +1,31 @@
+#+TITLE: Simple Arithmetic Unit
+
+* Introduction
+This is a simple AU (SAU) unit that is specifically used to walked
+through the Python to Hardware Design flow. 
+
+* Operations
+| Opcode | Operation | Mathematical      |
+| 2-bits |           | Return Value      |
+|--------+-----------+-------------------|
+|    000 | NOP       | Keeps last output |
+|    001 | ADD       | A + B     = C     |
+|    010 | SUB       | A - B     = C     |
+|    011 | SHIFTL    | A * 2 ^ B = C     |
+|    100 | SHIFTR    | A / 2 ^ B = C     |
+|    101 | AND       | A & B     = C     |
+|    110 | OR        | A (OR) B  = C     |
+|    111 | NOP       | A (AND) B = C     |
+
+* Interface
+| Port Name   | Direction | Description |
+|-------------+-----------+-------------|
+| clk         | input     | Clock       |
+| rstb        | input     | Reset       |
+| opcode[2:0] | input     | Opcode      |
+| A[3:0]      | input     | Operand A   |
+| B[3:0]      | input     | Operand B   |
+| C[4:0]      | output    | Result      |
+
+
+* Testing 

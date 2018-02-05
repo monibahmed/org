@@ -1,0 +1,7 @@
+#+TITLE: EXAMPLE PYTHON CODE
+
+* Hello World Example
+This is an hello world example to include some images.
+
+#+INCLUDE: "./helloworld.py" src python
+

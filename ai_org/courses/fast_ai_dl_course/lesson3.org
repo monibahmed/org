@@ -1,0 +1,22 @@
+* [0/6] Lesson 3
+** Convolutional Neural Networks
+** TODO Kaggle CLI
+** TODO Curlwget
+** TODO Rework the model in Keras
+** TODO Submit results to Kaggle
+** TODO Otavio's Viz ~ 46:00
+** TODO Pytorch
+** RELU
+** VGG
+** Log operations and Intuition
+
+* Precompute = True and Data Augmentation are not compatible
+* Each activation function has personalitie.
+  
+* Kaggle Competition
+
+** TODO Dog Breeds Kaggle Competition
+** TODO Planet: Understanding Amazon
+** TODO Grocery Sales Forecasting (Ecuador, Germany)
+   
+* Single-label / Multi-label 

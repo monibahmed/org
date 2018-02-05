@@ -1,0 +1,57 @@
+% Created 2018-02-01 Thu 15:00
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{Monib Ahmed}
+\date{\today}
+\title{EXAMPLE PYTHON CODE}
+\hypersetup{
+ pdfauthor={Monib Ahmed},
+ pdftitle={EXAMPLE PYTHON CODE},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.1 (Org mode 9.1.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Hello World Example}
+\label{sec:orgcd5ddb5}
+This is an hello world example to include some images.
+
+\begin{verbatim}
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Data for plotting
+t = np.arange(0.0, 2.0, 0.01)
+s = 1 + np.sin(2 * np.pi * t)
+
+# Note that using plt.subplots below is equivalent to using
+# fig = plt.figure and then ax = fig.add_subplot(111)
+fig, ax = plt.subplots()
+ax.plot(t, s)
+
+ax.set(xlabel='time (s)', ylabel='voltage (mV)',
+       title='About as simple as it gets, folks')
+ax.grid()
+
+fig.savefig("test.png")
+plt.show()
+\end{verbatim}
+\end{document}

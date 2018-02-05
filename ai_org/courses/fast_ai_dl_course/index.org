@@ -1,0 +1,12 @@
+* Jeremy Howard - Fast AI Course
+  http://course.fast.ai
+  http://forums.fast.ai
+
+* Course videos
+  http://forums.fast.ai/t/welcome-to-part-1-v2/5787
+
+
+* Lessons
+** [[./lesson1.org][Lesson 1]]
+** [[./lesson2.org][Lesson 2]]
+** [[./lesson3.org][Lesson 3]]

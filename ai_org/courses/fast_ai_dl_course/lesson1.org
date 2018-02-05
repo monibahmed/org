@@ -1,0 +1,74 @@
+
+* Lesson 1
+  http://forums.fast.ai/t/wiki-lesson-1/9398
+
+# Notes
+* Use a GPU (Nvidia)
+* Options:
+    1. crestle.com
+    2. paperspace.com (0.40/hr + $5/month) -- 
+    3. 
+
+* Paperspace Setup​
+  curl http://files.fast.ai/setup/paperspace | bash
+
+* Or stick with AWS
+  
+* Rework the lesson ipython notebooks
+
+* Explore the notebooks
+
+* Pytorch
+
+* Look at your data
+
+* Theory < Practical Code
+
+* Infinitely Flexible Function
+
+** All-purpose parameter fitting
+
+* Convolutional Neural Network
+
+* Find Learning Rate -- plot learning rate over time
+
+* Find the number of epochs
+
+*  [5/9] Homework
+** DONE Setup Tmux
+** WAITING Setup paperspace cli -- In beta stage
+** DONE Get comfortable with Jupyter and all other tools
+** DONE Run week1 code and understand it ... Play with code to understand it
+** IN-PROGRESS Try different learning rates, epochs while running code
+** IN-PROGRESS Feel free to explore week2 notebook
+** DONE Recreate notebook -- Imitate
+** TODO Apply to another data set or other images
+*** How to quickly download images from google?
+** DONE Setup environment on crestle/aws/paperspace
+
+
+
+* Tmux Notes:
+  https://gist.github.com/andreyvit/2921703
+  + tmux new -s
+  + tmux a -t myname
+  + tmux a 4
+  + tmux ls
+  + tmux kill-session -t myname
+  + tmux list-keys | less
+  + Panes ctrl-a
+    + % vertical split
+    + " horizontal split
+    + d detach from session
+    + x kill
+    + arrow keys move panes (except up/down)
+    + { } o
+    + Resizing only works left and right
+    + q
+  + Windows ctrl-a
+    + c
+    + w list
+    + n
+    + p
+    + &
+    + ,

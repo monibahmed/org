@@ -1,0 +1,4 @@
+* Tasks
+** TODO Activation Function Personalities
+   [2018-01-30 Tue]
+   [[file:~/Documents/Life/technology/fast_ai_dl_course/lesson3.org::*Each%20activation%20function%20has%20personalitie.][Each activation function has personalitie.]]
