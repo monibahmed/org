@@ -81,6 +81,9 @@
    - https://jgkamat.github.io/blog/website1.html
    - https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html
 
+* Compute
+** TODO Setup AWS for processing
+
 * [1/4] Emacs
 ** IN-PROGRESS Setup Python IDE
 ** TODO Setup C++ IDE
