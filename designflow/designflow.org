@@ -34,6 +34,7 @@
 * Tools
 - Python
 - Pybind11
+- OpenNN Library
   - Eigen matrix library
 - Gtest
 - CMake
@@ -87,6 +88,8 @@
 
 
 
-
-
-https://repo.continuum.io/archive/Anaconda3-5.0.1-MacOSX-x86_64.pkg
+* Projects
+** MNIST Data
+*** TODO Get Python Model going
+*** TODO Duplicate into C++ land
+*** TODO Develop RTL/SV Model

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared  -o python_cpp_example.cpython-36m-x86_64-linux-gnu.so CMakeFiles/python_cpp_example.dir/python_cpp_example/math.cpp.o CMakeFiles/python_cpp_example.dir/python_cpp_example/bindings.cpp.o -flto 

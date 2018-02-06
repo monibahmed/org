@@ -1,0 +1,1 @@
+/usr/bin/c++    -DVERSION_INFO=\"0.1\"    CMakeFiles/python_cpp_example_test.dir/python_cpp_example/math.cpp.o CMakeFiles/python_cpp_example_test.dir/tests/test_main.cpp.o CMakeFiles/python_cpp_example_test.dir/tests/test_math.cpp.o  -o python_cpp_example_test -rdynamic 
