@@ -1,0 +1,21 @@
+#+TITLE: Python Debugging Tutorial
+
+* Introduction
+Python provides a debugging environment to debug python scripts.
+
+* Useful commands
+The -> means the command will execute next. Here are some useful pdb
+commands.
+| Command         | Description                                       |
+|-----------------+---------------------------------------------------|
+| list 3, 7       | list the program                                  |
+| step            | steps through line by line                        |
+| next            | goes through call functions                       |
+| pp              | pretty print                                      |
+| break file:line | add breakpoint on the correspoding file/line      |
+| args            | print the argument list                           |
+| continue        | continue program execution                        |
+| jump            | jump line                                         |
+| return          | continue execution until current function returns |
+|                 |                                                   |
+

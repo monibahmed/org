@@ -84,11 +84,13 @@
 * Compute
 ** TODO Setup AWS for processing
 
-* [1/4] Emacs
+* [1/6] Emacs
 ** IN-PROGRESS Setup Python IDE
-** TODO Setup C++ IDE
+** IN-PROGRESS Setup C++ IDE
 ** DONE Find a good theme
 ** TODO Get emacs to recognize file paths and open them
+** IN-PROGRESS Enable CUA mode
+** TODO Find a better parenthesis matcher
 
 * [0/1] Interesting Stuff
 ** TODO Python to Verilog/C++ Verification type setup
