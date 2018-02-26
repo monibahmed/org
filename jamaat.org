@@ -13,19 +13,43 @@ there is only one place where member information is
 stored. Individuals that can make updates to this database are
 limited. This document serves as a guideline to the different branches
 on proper procedures.
+
+Tajneed Information is used in the following ways:
+- To share information about Huzoor's instructions, events, campaigns etc.
+- To plan and register for local and national events like Jalsa.
+- To create accurate finance budgets which help plan for various projects.
+- To pay chanda and get it recorded properly. 
   
 * Tajneed Update Process
-** Individuals
-*** Same Majlis
-If your or your family are moving locally within the same Majlis.
-1. Update your new information on the Tajneed Website must update your
-   new address with local secretary as well as online
-*ADD SITE INFORMATION*.
-*** Different Majlis
-In addition to
-** Local Nazimeem
+** Individual
+The individual Tajneed update process is straightforward. All forms
+can be found at [2] in the references section. The forms are divided
+into the following categories:
 
-** Regional and National Muhtamim 
+*** New/Change Membership Information
+If you are new to the USA, you should use form T1 to be assigned a
+Member ID Code. This code is unique to each individual.
+
+*** Change of Address
+If your or your family are moving locally within the same Majlis. You
+must update your new address with local secretary as well as
+online. You should submit Tajneed Form T2.
+
+*** Newborn Information
+If you recently had a child, you should submit form T3 to
+get a new Member Code for him/her.
+
+*** New Convert
+If someone is converting from a different faith, they must complete a
+T4 Bait form. 
+
+*** Jamaat ID Card
+To order Jamaat ID Cards, please complete the T7 form. 
+
+** Local Regional and National Secretaries
+If you are updating Tajneed information on someone's behalf, please
+contact tajneed@ahmadiyya.us.
+
 
 * Tajneed Issues
 ** An individual has lost contact with Jamaat
@@ -38,7 +62,7 @@ certain guidelines to what is considered and inactive member:
 3. *OTHER* Requirements
 
 These are delicate steps and should be taken with great care. Before
-removing an individual from the Tajneed ensure the following *REVIEW*:
+removing an individual from the Tajneed ensure the following *PLEASE REVIEW*:
 1. Contact has been made with the individual, and problems or concerns
    are highlighted. This should ideally be done with Qaid Sahib as
    well as parties involved.
@@ -47,13 +71,27 @@ removing an individual from the Tajneed ensure the following *REVIEW*:
 3. Reaching out to national level to proceed.
 4. Permission sought from Hazur.
 
-** An individual is lost and not known
-1. Proper channels used to find the individual.
-2. Contact made.
-3. *SECTION NEEDS EXPANSION*
+Relating to Khadims less active then other, Huzoor has said [1]:
+1. Active Khuddam must make sure they set high standards and are
+   regular in coming to the Mosque. You can not preach to another
+   person unless you yourself are observing what you require from them.
+2. There is no benefit to being harsh or strict - rather people should
+   be treated with love and compassion. They should be persuaded
+   rather than forced into realizing the benefits of staying close to
+   the Jamaat.
+3. It is imperative that Ahmadis pray for their fellow brothers. 
 
+** An individual has moved Auxilaries
+If someone has moved from Tifl to Khadim, or Khadim to Ansar, the
+local secretary must ensure that change is made. 
 
-* Reference and Resources
-** Tajneed Website
+* Resources
 ** Regional Nazimeen Contact
-** Nation Muhtamim Contact
+
+** National Muhtamim Contact
+
+
+* References 
+[1] Abid Khan Singapoe Diary 2013: https://www.alislam.org/library/updates/singapore-tour-september-2013-a-personal-account/ 
+
+[2] Ahmadiyya Tajneed Information: https://www.ahmadiyya.us/tajneed-membership

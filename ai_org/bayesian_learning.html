@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-02-13 Tue 14:31 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Monib Ahmed" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2017 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgd34b7ce">1. Bayesian Learning</a>
+<ul>
+<li><a href="#orgfc58027">1.1. Bayes Rules and Probability Review</a>
+<ul>
+<li><a href="#org88a4672">1.1.1. Undergraduate level probability</a></li>
+</ul>
+</li>
+<li><a href="#org134e7cd">1.2. Traditional A/B Testing</a></li>
+<li><a href="#orga143b1d">1.3. Bayesian A/B Testing</a></li>
+</ul>
+</li>
+<li><a href="#org4eaed23">2. Bayes Rule and Probability Review</a>
+<ul>
+<li><a href="#orgad97fc8">2.1. Conditional Probability</a></li>
+<li><a href="#orgb884aa7">2.2. Sensitivity and Specificity</a></li>
+</ul>
+</li>
+<li><a href="#org0c31321">3. References</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgd34b7ce" class="outline-2">
+<h2 id="orgd34b7ce"><span class="section-number-2">1</span> Bayesian Learning</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Bayesian learning is a type of A/B learning algorithm
+</p>
+</div>
+<div id="outline-container-orgfc58027" class="outline-3">
+<h3 id="orgfc58027"><span class="section-number-3">1.1</span> Bayes Rules and Probability Review</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org88a4672" class="outline-4">
+<h4 id="org88a4672"><span class="section-number-4">1.1.1</span> Undergraduate level probability</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<ul class="org-ul">
+<li>Discrete and Continuous Distributions</li>
+<li>Joint Distributions</li>
+<li>Conditional Distributions</li>
+<li>PDF, PMF, CDF</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org134e7cd" class="outline-3">
+<h3 id="org134e7cd"><span class="section-number-3">1.2</span> Traditional A/B Testing</h3>
+</div>
+<div id="outline-container-orga143b1d" class="outline-3">
+<h3 id="orga143b1d"><span class="section-number-3">1.3</span> Bayesian A/B Testing</h3>
+</div>
+</div>
+
+<div id="outline-container-org4eaed23" class="outline-2">
+<h2 id="org4eaed23"><span class="section-number-2">2</span> Bayes Rule and Probability Review</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Bayes' theorem describes the probability of an event, based on prior
+knowledge of conditions that might be related to an event. One
+application of Bayes Theorem is Bayesian inference. 
+</p>
+
+<p>
+In probability theory, an event is a set of outcomes of an experiment
+(a subset of the sample space) to which a probability is assigned. A
+single outcome may be an element of many different events and
+different events may not be equally likely. An event defines a
+complementary event (the event not occuring), and together these
+define a Bernouli trial (did the event occur or not?). 
+</p>
+
+<p>
+The sample space is finite, and any subset sample space is an
+event. However this does not work in cases where the sample space is
+infinite. 
+</p>
+
+<p>
+Defining all subsets of the sample space as events works well when
+there are only finitely many outcomes, but gives problems when the
+sample space is infinite. 
+</p>
+
+<p>
+For the standard tools of probability theory, such as joint and
+conditional probabilities, to work, it is necessary to use
+&sigma;-Algebra (a familt closed under complementation and countable
+unions of its members). 
+</p>
+
+<p>
+Bayes' theorem is stated mathematically as the following equation: 
+\[P(A|B) = \frac{P(B|A)P(A)}{P(B)}\]
+</p>
+
+<p>
+\(P(A|B)\) is a conditional probability, the likelihood of event A
+occuring given the B is true.  
+</p>
+
+<p>
+\(P(B|A)\) is a conditional probability, the likelihood of event B
+occuring given the A is true.  
+</p>
+
+<p>
+\(P(A)\) and \(P(B)\) are the probabilities of observing A and B
+independently of each other (marginal probability).
+</p>
+</div>
+
+<div id="outline-container-orgad97fc8" class="outline-3">
+<h3 id="orgad97fc8"><span class="section-number-3">2.1</span> Conditional Probability</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+Conditional probability is a measure of the probability of an event
+given that (by assumption, presumption, assertion or evidence) another
+event has occured. 
+</p>
+
+<p>
+The probability \(P(A|B)\) may or may nnot be equal to \(P(A)\). If
+\(P(A|B) = P(A)\), then the events A and B are said to be
+independent. In other words, having knowledge about either event does
+not change our knowledge about the other event.
+</p>
+
+<p>
+The probability \(P(A|B)\) is not equal to \(P(B|A)\). This relates to
+sensitivty and specificity.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb884aa7" class="outline-3">
+<h3 id="orgb884aa7"><span class="section-number-3">2.2</span> Sensitivity and Specificity</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+Sensitivity - probability of correct positive detection
+Specificity - probability of correct negative detection
+</p>
+
+<p>
+Sensitivity is the extent which true positives are not missed or
+overlooked. 
+</p>
+
+
+<p>
+Terminology:
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Terminology</th>
+<th scope="col" class="org-left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">P</td>
+<td class="org-left">Num of. Positive samples</td>
+</tr>
+
+<tr>
+<td class="org-left">N</td>
+<td class="org-left">Num of. Negative samples</td>
+</tr>
+
+<tr>
+<td class="org-left">TP</td>
+<td class="org-left">Num of. Positive hit samples (got right)</td>
+</tr>
+
+<tr>
+<td class="org-left">TN</td>
+<td class="org-left">Num of. Negative hit samples (got right)</td>
+</tr>
+
+<tr>
+<td class="org-left">FP</td>
+<td class="org-left">Num of. False Positives (false alarms)</td>
+</tr>
+
+<tr>
+<td class="org-left">FN</td>
+<td class="org-left">Num of. False Negatives (misses)</td>
+</tr>
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+
+<p>
+Equations:
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Equation</th>
+<th scope="col" class="org-left">Description</th>
+<th scope="col" class="org-left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">\(TPR = \frac{TP}{TP+FN}\)</td>
+<td class="org-left">Hit Rate, Sensitivity</td>
+<td class="org-left">hits</td>
+</tr>
+
+<tr>
+<td class="org-left">\(TNR = \frac{TN}{TN+FP}\)</td>
+<td class="org-left">Specificity</td>
+<td class="org-left">misses</td>
+</tr>
+
+<tr>
+<td class="org-left">\(PPV = \frac{TP}{TP+FP}\)</td>
+<td class="org-left">Precision</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">\(NPV = \frac{TN}{TN+FN}\)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org0c31321" class="outline-2">
+<h2 id="org0c31321"><span class="section-number-2">3</span> References</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>Events: <a href="https://en.wikipedia.org/wiki/Event_(probability_theory)">https://en.wikipedia.org/wiki/Event_(probability_theory)</a></li>
+<li>Condition probability: <a href="https://en.wikipedia.org/wiki/Conditional_probability">https://en.wikipedia.org/wiki/Conditional_probability</a></li>
+<li>Sensitivity and Specificity:
+<a href="https://en.wikipedia.org/wiki/Sensitivity_and_specificity">https://en.wikipedia.org/wiki/Sensitivity_and_specificity</a></li>
+<li>&sigma;-Algebra - <a href="https://en.wikipedia.org/wiki/Sigma-algebra">https://en.wikipedia.org/wiki/Sigma-algebra</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Monib Ahmed</p>
+<p class="date">Created: 2018-02-13 Tue 14:31</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

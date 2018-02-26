@@ -1,0 +1,148 @@
+* Bayesian Learning
+Bayesian learning is a type of A/B learning algorithm
+** Bayes Rules and Probability Review
+*** Undergraduate level probability
+- Discrete and Continuous Distributions
+- Joint Distributions
+- Conditional Distributions
+- PDF, PMF, CDF
+** Traditional A/B Testing
+** Bayesian A/B Testing
+
+* Probability Review
+** Conditional Probability 
+Conditional probability is a measure of the probability of an event
+given that (by assumption, presumption, assertion or evidence) another
+event has occured. 
+
+The probability $P(A|B)$ may or may nnot be equal to $P(A)$. If
+$P(A|B) = P(A)$, then the events A and B are said to be
+independent. In other words, having knowledge about either event does
+not change our knowledge about the other event.
+
+The probability $P(A|B)$ is not equal to $P(B|A)$. This relates to
+sensitivty and specificity.
+
+Conditional probability will sum to 1 for each branch, this is because
+the space of random variables decreases. We are given something
+happened, and this means that that probabiity is now '1'. 
+
+** Joint Probability
+As the total number of possibilities grow, joint probabilities values
+decrease exponentially. Computer have finite precision 32/64 bit. The
+sum of all possible outcomes must equal 1. 
+
+Eventually the computer will round down to 0, underflow. We can use
+log probability instead. 
+
+** Independence
+When two variables are independent, the joint becomes the multiple of
+the marginals:
+
+$$ P(A,B) = P(A)P(B)-P(A,B) $$
+
+In this case if $P(A,B)$ is zero, then the variables are indepedent. 
+
+** Sensitivity and Specificity
+Sensitivity - probability of correct positive detection
+Specificity - probability of correct negative detection
+
+Sensitivity is the extent which true positives are not missed or
+overlooked. 
+
+
+Terminology:
+| Terminology | Description                              |
+|-------------+------------------------------------------|
+| P           | Num of. Positive samples                 |
+| N           | Num of. Negative samples                 |
+| TP          | Num of. Positive hit samples (got right) |
+| TN          | Num of. Negative hit samples (got right) |
+| FP          | Num of. False Positives (false alarms)   |
+| FN          | Num of. False Negatives (misses)         |
+|             |                                          |
+
+
+Equations:
+| Equation                 | Description           | Description |
+|--------------------------+-----------------------+-------------|
+| $TPR = \frac{TP}{TP+FN}$ | Hit Rate, Sensitivity | hits        |
+| $TNR = \frac{TN}{TN+FP}$ | Specificity           | misses      |
+| $PPV = \frac{TP}{TP+FP}$ | Precision             |             |
+| $NPV = \frac{TN}{TN+FN}$ |                       |             |
+
+* Bayes Rule 
+
+Bayes' theorem describes the probability of an event, based on prior
+knowledge of conditions that might be related to an event. One
+application of Bayes Theorem is Bayesian inference. 
+
+In probability theory, an event is a set of outcomes of an experiment
+(a subset of the sample space) to which a probability is assigned. A
+single outcome may be an element of many different events and
+different events may not be equally likely. An event defines a
+complementary event (the event not occuring), and together these
+define a Bernouli trial (did the event occur or not?). 
+
+The sample space is finite, and any subset sample space is an
+event. However this does not work in cases where the sample space is
+infinite. 
+
+Defining all subsets of the sample space as events works well when
+there are only finitely many outcomes, but gives problems when the
+sample space is infinite. 
+
+For the standard tools of probability theory, such as joint and
+conditional probabilities, to work, it is necessary to use
+\sigma-Algebra (a familt closed under complementation and countable
+unions of its members). 
+
+Bayes' theorem is stated mathematically as the following equation: 
+$$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+$P(A|B)$ is a conditional probability, the likelihood of event A
+occuring given the B is true.  
+
+$P(B|A)$ is a conditional probability, the likelihood of event B
+occuring given the A is true.  
+
+$P(A)$ and $P(B)$ are the probabilities of observing A and B
+independently of each other (marginal probability).
+
+** Bayes Theorem Manipulation
+Bayes Theorem essentially says that the events going forward is
+equivalent to the events going backwards. 
+
+This is shown:
+$$P(A|B) = \frac{P(A,B)}{P(B)}$$
+$$P(B|A) = \frac{P(B,A)}{P(A)}$$
+$$P(A,B) = P(B,A)             $$
+$$P(A|B)P(B) = P(B|A)P(A)     $$
+
+** Conditional Probability and Joint Probability
+Joint probability is the probability that two events will occur
+simultaneously. Marginal probability is the probability of the
+occurence of a single event. 
+
+** Gamblers Fallacy 
+The belief that things will "even out" in the end. If you've just lost
+100 times, then you have a better chance of winning. This assumption
+is incorrect, all events are independent. It doesn't matter how many
+times you've lost alredy, your chances of losing next are the same. 
+
+** Monty Hall Problem
+Three doors, one with a car behind it. You are asked to choose a door, 
+
+Stick with your choice, then on the last choice, switch.
+
+#+INCLUDE: "/Users/monibahmed/org/tex_tikz_example.org"
+
+* References
+- Events: https://en.wikipedia.org/wiki/Event_(probability_theory)
+- Condition probability: https://en.wikipedia.org/wiki/Conditional_probability
+- Sensitivity and Specificity:
+  https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+- \sigma-Algebra: https://en.wikipedia.org/wiki/Sigma-algebra
+- Confusion Matrix:
+  https://en.wikipedia.org/wiki/Sensitivity_and_specificity
+- Monty Hall Problem: http://mathworld.wolfram.com/MontyHallProblem.html

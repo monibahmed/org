@@ -1,0 +1,14 @@
+* Sebastian Ruder Blog posts
+* Numpy for calculation, then back to pytorch.
+* Lambda's in python
+* PCA to simplify
+* What happens when fitting
+** 
+* Embeddings - Autoencoder
+** Reconstruct your own input
+* RNNs - Bidirectional 
+- Boxes
+- Circle
+- Triangle
+
+Jeffrey Hinton Paper

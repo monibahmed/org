@@ -1,6 +1,7 @@
 * Machine Learning (Supervised Learning)
 ** [[./data.org][Data]]
 ** [[./models.org][Models]]
+*** [[./bayesian_learning.org][Bayesian Learning]]
 ** [[./cost_functions.org][Cost Functions]]
 ** [[./optimization_functions.org][Optimization Functions]]
 ** [[./debug.org][Debug]]
@@ -37,3 +38,5 @@ print("Hello World")
 
 * RESULTS
 #+RESULTS:
+
+

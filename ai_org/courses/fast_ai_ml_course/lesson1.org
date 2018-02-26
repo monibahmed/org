@@ -1,0 +1,34 @@
+* Practical Machine Learning
+  http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9398
+
+
+* Forums
+  https://github.com/fastai/fastai/tree/master/courses
+  http://forum.fast.ai/c/ml1
+
+* Kaggle competitions are great for learning.
+
+* Introduction to Random Forests
+
+** Cursive Dimensionality / No free lunch theorem
+   - Theory versus Application/Practice
+   - SVMs are theory
+   - Building models on lots of columns works well
+   - NFL: No type of model that that works well for any type of data
+     set. Real world is not random (cause still exists)
+
+** Sklearn RandonForest
+   - Regressor versus Classifier
+
+** Pandas can categorize and give information
+   - Get dummies / Create numbers from categories
+   - Feather format saving
+   - Replace missing values with medians
+
+* Blue Book for Bulldozers
+
+* [0/2] Homework
+
+** TODO Install Kaggle CLI
+   
+** TODO Look through Kaggle data sets

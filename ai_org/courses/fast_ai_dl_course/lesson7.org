@@ -1,0 +1,29 @@
+* Reverse order, working backward.
+
+* Part 2 is generative modelling. 
+
+* RNN Remove history, backprop through time
+* Tokenization
+
+* Understanding LTSMs
+* Linear Interpolation
+
+Colah Blog, WILDML Blog
+
+* Callbacks
+
+
+* Kerem Turgutlu notebook
+
+* Computer Vision
+** CIFAR10 - Smaller data sets...
+** Stride
+** Padding
+** Adaptive max pooling
+** Batchnorm
+
+*CAREFUL EXPERIMENTS ARE MORE IMPORTANT*
+
+** Bigger initial Conv Layer
+** Resnet PreAct/Others (3)
+** Boosting

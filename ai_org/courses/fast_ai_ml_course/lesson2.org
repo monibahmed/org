@@ -1,0 +1,37 @@
+* Random Forests
+
+* FastAI are opinionized -- wrapped up.
+
+* Evaluation metrics
+
+* What the formula does
+
+
+$$ R^2 = 1 - \frac{SS_{res}}{SS_{tot}} $$
+R-squared can be worse then mean. 
+
+* Random Forest from scratch
+Single number that tells how good a split it. 
+
+* Bagging
+Bag of Little Bootstraps, ensembling
+Construct multiple models, so the errors are not correlated.
+Bootstrapping
+
+Build a model to tell you which variables are importnat and how they
+interact.
+
+XTreeRegressor
+
+* Some nice inbetween (hyperparameter tuning)
+
+* RF
+
+* Out of Bag Score
+
+* Grid Search
+
+
+Less correlated your trees are the better. 
+
+What are the hyperparameters???

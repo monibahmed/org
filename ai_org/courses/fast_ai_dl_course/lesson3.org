@@ -9,6 +9,8 @@
 ** RELU
 ** VGG
 ** Log operations and Intuition
+** Freezing and Unfreezing
+** Enter as many Kaggle competitions as possible. 
 
 * Precompute = True and Data Augmentation are not compatible
 * Each activation function has personalitie.
@@ -20,3 +22,4 @@
 ** TODO Grocery Sales Forecasting (Ecuador, Germany)
    
 * Single-label / Multi-label 
+** TODO Which activation function to use under each application.

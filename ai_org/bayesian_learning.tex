@@ -1,0 +1,254 @@
+% Created 2018-02-14 Wed 10:25
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{tikz}
+\author{Monib Ahmed}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={Monib Ahmed},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.1 (Org mode 9.1.5)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{Bayesian Learning}
+\label{sec:org3f147b4}
+Bayesian learning is a type of A/B learning algorithm
+\subsection{Bayes Rules and Probability Review}
+\label{sec:org00782f5}
+\subsubsection{Undergraduate level probability}
+\label{sec:orgdf81f5d}
+\begin{itemize}
+\item Discrete and Continuous Distributions
+\item Joint Distributions
+\item Conditional Distributions
+\item PDF, PMF, CDF
+\end{itemize}
+\subsection{Traditional A/B Testing}
+\label{sec:org1653e68}
+\subsection{Bayesian A/B Testing}
+\label{sec:org7370af2}
+
+\section{Probability Review}
+\label{sec:org597c699}
+\subsection{Conditional Probability}
+\label{sec:org3149781}
+Conditional probability is a measure of the probability of an event
+given that (by assumption, presumption, assertion or evidence) another
+event has occured. 
+
+The probability \(P(A|B)\) may or may nnot be equal to \(P(A)\). If
+\(P(A|B) = P(A)\), then the events A and B are said to be
+independent. In other words, having knowledge about either event does
+not change our knowledge about the other event.
+
+The probability \(P(A|B)\) is not equal to \(P(B|A)\). This relates to
+sensitivty and specificity.
+
+Conditional probability will sum to 1 for each branch, this is because
+the space of random variables decreases. We are given something
+happened, and this means that that probabiity is now '1'. 
+
+\subsection{Joint Probability}
+\label{sec:org723dfdd}
+As the total number of possibilities grow, joint probabilities values
+decrease exponentially. Computer have finite precision 32/64 bit. The
+sum of all possible outcomes must equal 1. 
+
+Eventually the computer will round down to 0, underflow. We can use
+log probability instead. 
+
+\subsection{Independence}
+\label{sec:orgb58a3fd}
+When two variables are independent, the joint becomes the multiple of
+the marginals:
+
+$$ P(A,B) = P(A)P(B)-P(A,B) $$
+
+In this case if \(P(A,B)\) is zero, then the variables are indepedent. 
+
+\subsection{Sensitivity and Specificity}
+\label{sec:org228288b}
+Sensitivity - probability of correct positive detection
+Specificity - probability of correct negative detection
+
+Sensitivity is the extent which true positives are not missed or
+overlooked. 
+
+
+Terminology:
+\begin{center}
+\begin{tabular}{ll}
+Terminology & Description\\
+\hline
+P & Num of. Positive samples\\
+N & Num of. Negative samples\\
+TP & Num of. Positive hit samples (got right)\\
+TN & Num of. Negative hit samples (got right)\\
+FP & Num of. False Positives (false alarms)\\
+FN & Num of. False Negatives (misses)\\
+ & \\
+\end{tabular}
+\end{center}
+
+
+Equations:
+\begin{center}
+\begin{tabular}{lll}
+Equation & Description & Description\\
+\hline
+\(TPR = \frac{TP}{TP+FN}\) & Hit Rate, Sensitivity & hits\\
+\(TNR = \frac{TN}{TN+FP}\) & Specificity & misses\\
+\(PPV = \frac{TP}{TP+FP}\) & Precision & \\
+\(NPV = \frac{TN}{TN+FN}\) &  & \\
+\end{tabular}
+\end{center}
+
+\section{Bayes Rule}
+\label{sec:org0c3ae02}
+
+Bayes' theorem describes the probability of an event, based on prior
+knowledge of conditions that might be related to an event. One
+application of Bayes Theorem is Bayesian inference. 
+
+In probability theory, an event is a set of outcomes of an experiment
+(a subset of the sample space) to which a probability is assigned. A
+single outcome may be an element of many different events and
+different events may not be equally likely. An event defines a
+complementary event (the event not occuring), and together these
+define a Bernouli trial (did the event occur or not?). 
+
+The sample space is finite, and any subset sample space is an
+event. However this does not work in cases where the sample space is
+infinite. 
+
+Defining all subsets of the sample space as events works well when
+there are only finitely many outcomes, but gives problems when the
+sample space is infinite. 
+
+For the standard tools of probability theory, such as joint and
+conditional probabilities, to work, it is necessary to use
+\(\sigma\)-Algebra (a familt closed under complementation and countable
+unions of its members). 
+
+Bayes' theorem is stated mathematically as the following equation: 
+$$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+\(P(A|B)\) is a conditional probability, the likelihood of event A
+occuring given the B is true.  
+
+\(P(B|A)\) is a conditional probability, the likelihood of event B
+occuring given the A is true.  
+
+\(P(A)\) and \(P(B)\) are the probabilities of observing A and B
+independently of each other (marginal probability).
+
+\subsection{Bayes Theorem Manipulation}
+\label{sec:orgcfd49f4}
+Bayes Theorem essentially says that the events going forward is
+equivalent to the events going backwards. 
+
+This is shown:
+$$P(A|B) = \frac{P(A,B)}{P(B)}$$
+$$P(B|A) = \frac{P(B,A)}{P(A)}$$
+$$P(A,B) = P(B,A)             $$
+$$P(A|B)P(B) = P(B|A)P(A)     $$
+
+\subsection{Gamblers Fallacy}
+\label{sec:org80df7fa}
+The belief that things will "even out" in the end. If you've just lost
+100 times, then you have a better chance of winning. This assumption
+is incorrect, all events are independent. It doesn't matter how many
+times you've lost alredy, your chances of losing next are the same. 
+
+\subsection{Monty Hall Problem}
+\label{sec:orgd48d985}
+Three doors, one with a car behind it. You are asked to choose a door, 
+
+Stick with your choice, then on the last choice, switch.
+
+\begin{latex}
+
+
+\tikzstyle{level 1}=[level distance=3.5cm, sibling distance=3.5cm]
+\tikzstyle{level 2}=[level distance=3.5cm, sibling distance=2cm]
+
+\tikzstyle{bag} = [text width=4em, text centered]
+\tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
+
+\begin{tikzpicture}[grow=right, sloped]
+\node[bag] {Bag 1 $4W, 3B$}
+    child {
+        node[bag] {Bag 2 $4W, 5B$}        
+            child {
+                node[end, label=right:
+                    {$P(W_1\cap W_2)=\frac{4}{7}\cdot\frac{4}{9}$}] {}
+                edge from parent
+                node[above] {$W$}
+                node[below]  {$\frac{4}{9}$}
+            }
+            child {
+                node[end, label=right:
+                    {$P(W_1\cap B_2)=\frac{4}{7}\cdot\frac{5}{9}$}] {}
+                edge from parent
+                node[above] {$B$}
+                node[below]  {$\frac{5}{9}$}
+            }
+            edge from parent 
+            node[above] {$W$}
+            node[below]  {$\frac{4}{7}$}
+    }
+    child {
+        node[bag] {Bag 2 $3W, 6B$}        
+        child {
+                node[end, label=right:
+                    {$P(B_1\cap W_2)=\frac{3}{7}\cdot\frac{3}{9}$}] {}
+                edge from parent
+                node[above] {$B$}
+                node[below]  {$\frac{3}{9}$}
+            }
+            child {
+                node[end, label=right:
+                    {$P(B_1\cap B_2)=\frac{3}{7}\cdot\frac{6}{9}$}] {}
+                edge from parent
+                node[above] {$W$}
+                node[below]  {$\frac{6}{9}$}
+            }
+        edge from parent         
+            node[above] {$B$}
+            node[below]  {$\frac{3}{7}$}
+    };
+\end{tikzpicture}
+\end{latex}
+
+\section{References}
+\label{sec:orgde29740}
+\begin{itemize}
+\item Events: \url{https://en.wikipedia.org/wiki/Event\_(probability\_theory)}
+\item Condition probability: \url{https://en.wikipedia.org/wiki/Conditional\_probability}
+\item Sensitivity and Specificity:
+\url{https://en.wikipedia.org/wiki/Sensitivity\_and\_specificity}
+\item \(\sigma\)-Algebra: \url{https://en.wikipedia.org/wiki/Sigma-algebra}
+\item Confusion Matrix:
+\url{https://en.wikipedia.org/wiki/Sensitivity\_and\_specificity}
+\item Monty Hall Problem: \url{http://mathworld.wolfram.com/MontyHallProblem.html}
+\end{itemize}
+\end{document}

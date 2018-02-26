@@ -1,0 +1,22 @@
+* Go through blogs/posts
+- Very nice posts
+
+* Collaborative Filtering
+-Embedding matrix
+
+Kaiming He Initialization
+
+* Optimizers
+- SGD 
+  - Jacobian / Hessian
+- Momentum: Take a hint, go more in that direction.
+- Adam: Momentum+ 2 pieces of momentum
+  - Adaptive learning rate, for different steps.
+  - Move the numbers much faster.
+  - Adam_w: Weight decay
+
+
+* Intuition: 
+Plot the internal gradients.
+Backpropagation is the chain rule. 
+Linear interpolate

@@ -1,0 +1,46 @@
+#-TITLE: Universal Verification Methodology
+
+* Definitions
+- Stimulus: Code that stimulates the DUT. 
+
+
+* Goal
+The main goal is to turn simulations into verification. Using a
+stimulus that is portable from various sources.
+
+* The "Three" Cs
+** Checkers
+Checkers ensure functional correctness. Checkers can be implemented
+using assertions or procedures.
+** Coverage
+Coverage provides a measure of completeness of testings.
+- Property-based coverage (cover directives)
+- Sample-based coverage (cover groups)
+** Constraints
+Constraints provide means to reach covarage goals by shaping random
+stimulus to push DUT into corner cases.
+
+* Tests and Coverage
+Features enumberated in verification plan dictate the coverage
+model. The coverage data is back-annoted from the simulator onto the
+verification plan feature by feature.
+
+
+* Feature focused testing
+* Verification Reuse
+
+* Phases
+
+* Verification Environment
+- DUT
+- DUT Interface
+- Verification Environment
+  - Transaction
+    + Sequencer: Generates a stream of transaction to be consumed by
+      the driver
+    + Driver
+  - Instantiations of Sequencer/Driver in TB
+
+
+* Easier UVM from Doulos
+http://www.doulos.com/knowhow/sysverilog/uvm

@@ -1,0 +1,25 @@
+* TODO Learning Rate Papers
+* TODO Dropout - Delete some, solves generalization. Hinton.
+** Intuition - ???
+* TODO Categorical variables
+- Binning variables? Pytorch is 32 bits
+- Scaling on continuous variables
+- Embedding matrices
+  - Unknown values
+  - Dummy variables, linear behaviors.
+- Reduces dimensionality
+* RMPSE -- Error measurement
+* TODO Understand logarithms
+* Flow
+1. Model
+2. Learner
+3. Fit
+4. 
+* Natural Language Processing
+- Language models
+- Tokenization
+- word2vec, glove
+
+* Sebastian Ruder
+
+* Complete upto Week 4

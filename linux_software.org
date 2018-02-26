@@ -1,0 +1,5 @@
+* Linux Software
+- Emacs 25
+- Conda / Python
+- SSH
+- Tmux

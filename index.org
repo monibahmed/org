@@ -84,13 +84,14 @@
 * Compute
 ** TODO Setup AWS for processing
 
-* [1/6] Emacs
+* [1/7] Emacs
 ** IN-PROGRESS Setup Python IDE
 ** IN-PROGRESS Setup C++ IDE
 ** DONE Find a good theme
 ** TODO Get emacs to recognize file paths and open them
 ** IN-PROGRESS Enable CUA mode
 ** TODO Find a better parenthesis matcher
+** TODO Buffer list and file browser
 
 * [0/1] Interesting Stuff
 ** TODO Python to Verilog/C++ Verification type setup
@@ -113,21 +114,30 @@ Raw Notes is one main file, that is then manually refiled
 ** Probability and Statistics
 *** Subtopics
 * Machine Learning / Artificial Intelligence
-** Linear Regression
-** Logisitic Regression
-** K-Nearest Neighbor
-** Support Vector Machines
-** Deep Neural Networks
-** Cost Functions
-** Learning Rate Intuition
-** Optimization Functions
+** Data Analysis
+*** Feature scaling
+*** Feature Correlation
+*** Categorical and Continuous Features
+** Model Development
+*** Linear Regression
+*** Logisitic Regression
+*** Bayes Theorem
+**** Naive Bayes
+**** Non-Naive Bayes / Hidden Markov Models
+*** K-Nearest Neighbor
+*** Deep Neural Networks
+*** Support Vector Machines
+** Optimization Algorithms
+*** Learning Rate Intuition
 *** Normal Equations
 *** Gradient Descent
 - Batch Gradient Descent
 - Stochastic Gradient Descent
 - COnjugate Gradient Descent
 *** BGFS / L-BGFS
-** Application
+** Loss / Accuracy Measurements
+*** Confusion Matrix
+** Applications
 *** Kaggle
 **** Competitions
 * Digital Design 
@@ -145,7 +155,11 @@ Raw Notes is one main file, that is then manually refiled
 ** Python
 ** Cpp
 
-
+* Learning Flow
+** Imitate / Understand
+** Practive
+** Innovate
+** Publish
 
 * Notes
 Coding is done with each topics.
