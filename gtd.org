@@ -1,17 +1,9 @@
 #+TITLE: Life: Getting Things Done
-#+AUTHOR: Monib Ahmed
+#+OPTIONS: num:nil
 
-* Tasks
-** TODO Something to do ...
-:PROPERTIES:
-:DRAFT:    TRUE
-:END:
-  [2024-03-28 Thu]
-  [[file:~/linux-setup/emacs-init.org::*Mac OS X Specifics][Mac OS X Specifics]]
-
-** TODO Another Item to do later, I guess
-:PROPERTIES:
-:DRAFT:    TRUE
-:END:
-  [2024-03-28 Thu]
-  [[file:~/org/gtd.org::*Something to do ...][Something to do ...]]
+* Capture Tasks 
+** DONE Methodology to add placeholder main notes... is main a good name?
+** TODO Move org/roam to google drive
+** TODO Setup structure on dell laptop
+** TODO Now I've forgotten what to capture
+** TODO Remove heading numbers for some org files
