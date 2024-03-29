@@ -1,0 +1,17 @@
+#+TITLE: Life: Getting Things Done
+#+AUTHOR: Monib Ahmed
+
+* Tasks
+** TODO Something to do ...
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+  [2024-03-28 Thu]
+  [[file:~/linux-setup/emacs-init.org::*Mac OS X Specifics][Mac OS X Specifics]]
+
+** TODO Another Item to do later, I guess
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+  [2024-03-28 Thu]
+  [[file:~/org/gtd.org::*Something to do ...][Something to do ...]]
