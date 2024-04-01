@@ -1,9 +1,17 @@
 #+TITLE: Life: Getting Things Done
-#+OPTIONS: num:nil
 
 * Capture Tasks 
 ** DONE Methodology to add placeholder main notes... is main a good name?
-** TODO Move org/roam to google drive
+** DONE Move org/roam to google drive
 ** TODO Setup structure on dell laptop
 ** TODO Now I've forgotten what to capture
 ** TODO Remove heading numbers for some org files
+** TODO Update project flows for next actions, these help generate momentum
+** TODO just like reference capture, create permanent notes capture
+** TODO Find a Grammarly or equivalent english checker. This will help you communicate efficiently
+** TODO Music studio setup project
+** TODO Learn Emacs-lisp
+** TODO Make q exit and kill buffer rather then having it straggle in the background
+** TODO Capture OKRs in term of questions
+** TODO Find a good capturing app for videos and podcasts, web clippings and such. The stuff Zotero won't capture efficiently
+** TODO Fix org-roam-capture for projects

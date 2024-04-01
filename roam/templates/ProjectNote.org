@@ -1,10 +1,5 @@
 #+TITLE: ${title}
 
-* Scope: 
-:PROPERTIES:
-:DRAFT:    TRUE
-:PROJECT:  TRUE
-:END:
-
+* SCOPE ${title}
 
 * References
