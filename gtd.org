@@ -15,3 +15,7 @@
 ** TODO Capture OKRs in term of questions
 ** TODO Find a good capturing app for videos and podcasts, web clippings and such. The stuff Zotero won't capture efficiently
 ** TODO Fix org-roam-capture for projects
+** TODO Checking if org capture todo works?
+** TODO Update emacs to be light or dark depending on the time of day
+** TODO Fix Org Agenda to show file or title... maybe just change the heading to be more descriptive
+** TODO Bidirectional PDF annotations in Emacs/Zotero
