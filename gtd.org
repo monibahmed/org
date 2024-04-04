@@ -19,3 +19,4 @@
 ** TODO Update emacs to be light or dark depending on the time of day
 ** TODO Fix Org Agenda to show file or title... maybe just change the heading to be more descriptive
 ** TODO Bidirectional PDF annotations in Emacs/Zotero
+** TODO Rename permanent notes to zettels, since it sounds like petals and reminds you of branches
