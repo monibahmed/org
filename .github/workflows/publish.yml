@@ -15,19 +15,14 @@ jobs:
           repository: monibahmed/monibahmed.github.io
           path: 'publish'
 
-      - name: Checkout org repository
-        uses: actions/checkout@v2
-        with:
-          repository: monibahmed/org
-          path: 'publish/org'
-
       - name: Setup Emacs
         run: |
           sudo apt update && sudo apt install emacs-nox -y
 
       - name: Build the site
         run: |
-          emacs --script ./publish/build-site.el
+          cd publish
+          emacs --script ./build-site.el
 
       - name: Push changes
         run: |
