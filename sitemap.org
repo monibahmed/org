@@ -1,0 +1,8 @@
+#+TITLE: Sitemap
+
+- [[file:index.org][Homepage: Welcome to Monib's Brain]]
+- [[file:gtd.org][Life: Getting Things Done]]
+- [[file:okr.org][Values: Your Objectives]]
+- roam
+  - [[file:roam/r-neartao_s_guide_to_the_sp404_mk2.org][- NearTao’s Guide to the SP404-mk2]]
+  - [[file:roam/r-forte_tiago_building_a_second_brain.org][Forte, Tiago - Building a Second Brain]]
