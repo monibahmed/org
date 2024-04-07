@@ -22,7 +22,6 @@ jobs:
           token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'publish'
           
-          
       - name: Setup Emacs
         run: |
           sudo apt update && sudo apt install emacs-nox -y
