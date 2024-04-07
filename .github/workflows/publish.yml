@@ -15,7 +15,6 @@ jobs:
           repository: monibahmed/monibahmed.github.io@main
           path: 'publish'
           token: $ {{ secrets.PUBLISH_WEBSITE }}
-         
           
       - name: Setup Emacs
         run: |
