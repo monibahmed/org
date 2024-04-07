@@ -9,20 +9,28 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout org repository
+      - name: Checkout github.io repository
         uses: actions/checkout@v2
         with:
           repository: monibahmed/monibahmed.github.io@main
           token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'publish'
-          
+         
+
+      - name: Checkout org repository
+        uses: actions/checkout@v2
+        with:
+          repository: monibahmed/org@main
+          token: ${{ secrets.PUBLISH_WEBSITE }}
+          path: 'publish/org'
+
       - name: Setup Emacs
         run: |
           sudo apt update && sudo apt install emacs-nox -y
 
       - name: Build the site
         run: |
-          emacs --script ./build-site.el
+          emacs --script ./publish/build-site.el
 
       - name: Push changes
         run: |
@@ -31,5 +39,5 @@ jobs:
           git config user.email github-actions@github.com
           git add .
           git commit -m "Auto-update site"
-          git push https://${{ secrets.PUBLISH_WEBSITE }}@github.com/monibahmed/monibahmed.github.io.git main
+          git push 
           
