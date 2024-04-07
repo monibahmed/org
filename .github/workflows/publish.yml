@@ -14,13 +14,6 @@ jobs:
         with:
           repository: monibahmed/org
           path: '.'
-
-      - name: Checkout monibahmed.github.io repository
-        uses: actions/checkout@v2
-        with:
-          repository: monibahmed/monibahmed.github.io
-          token: ${{ secrets.PUBLISH_WEBSITE }}
-          path: 'monibahmed.github.io'
           
       - name: Setup Emacs
         run: |
@@ -29,10 +22,6 @@ jobs:
       - name: Build the site
         run: |
           emacs --script ./build-site.el
-
-      - name: Copy generated files to monibahmed.github.io
-        run: |
-          cp -r org/public/* monibahmed.github.io/
 
       - name: Push changes
         run: |
