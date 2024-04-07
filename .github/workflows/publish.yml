@@ -12,12 +12,6 @@ jobs:
       - name: Checkout org repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/org
-          path: '.'
-
-      - name: Checkout org repository
-        uses: actions/checkout@v2
-        with:
           repository: monibahmed/monibahmed.github.io@main
           token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'publish'
