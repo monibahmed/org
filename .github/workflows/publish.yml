@@ -19,7 +19,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: monibahmed/monibahmed.github.io
-          token: ${{ secrets.REPO_TOKEN }}
           path: 'monibahmed.github.io'
           
       - name: Setup Emacs
@@ -28,7 +27,6 @@ jobs:
 
       - name: Build the site
         run: |
-          cd org
           emacs --script ../build-site.el
 
       - name: Copy generated files to monibahmed.github.io
