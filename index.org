@@ -3,7 +3,7 @@
 
 The Static Starting Point for my Website and Brain Dump
 
-Initial Commit ***PRODUCTION BRANCH***
+Initial Commit ***FINAL BRANCH***
 
 
 [[file:./okr.org][Objectives and Key Results]]
