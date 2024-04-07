@@ -1,9 +1,9 @@
 (require 'ox-publish)
 (setq org-publish-project-alist
       '(("org-notes"
-         :base-directory "./org"
+         :base-directory "."
          :base-extension "org"
-         :publishing-directory "."
+         :publishing-directory "./publish"
          :recursive t
          :publishing-function org-html-publish-to-html
          :headline-levels 2             ; Just the default for this project.
@@ -13,7 +13,7 @@
          :auto-preamble t)
 
         ("org-static"
-         :base-directory "./org"
+         :base-directory "."
          :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
          :publishing-directory "./files"
          :recursive t
