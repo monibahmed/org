@@ -14,7 +14,9 @@ jobs:
         with:
           repository: monibahmed/monibahmed.github.io
           path: 'publish'
-
+          token: $ {{ secrets.PUBLISH_WEBSITE }}
+         
+          
       - name: Setup Emacs
         run: |
           sudo apt update && sudo apt install emacs-nox -y
