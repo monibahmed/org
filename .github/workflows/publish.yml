@@ -15,13 +15,13 @@ jobs:
       - name: Checkout org repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/org
+          repository: monibahmed/org.git
           path: 'org'
           
       - name: Checkout github.io repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/monibahmed.github.io
+          repository: monibahmed/monibahmed.github.io.git
           path: 'org/publish'
           
       - name: Setup Emacs
