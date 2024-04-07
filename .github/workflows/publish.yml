@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: monibahmed/monibahmed.github.io
+          token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'monibahmed.github.io'
           
       - name: Setup Emacs
@@ -42,4 +43,5 @@ jobs:
           git commit -m "Auto-update site"
           git push
         env:
-          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          REPO_TOKEN: ${{ secrets.PUBLISH_WEBSITE}}
+          
