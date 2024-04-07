@@ -12,14 +12,13 @@ jobs:
       - name: Checkout github.io repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/monibahmed.github.io@main
+          repository: monibahmed/monibahmed.github.io
           path: 'publish'
-         
 
       - name: Checkout org repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/org@main
+          repository: monibahmed/org
           path: 'publish/org'
 
       - name: Setup Emacs
