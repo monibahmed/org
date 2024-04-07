@@ -1,5 +1,0 @@
-#+TITLE: ${title}
-
-* SCOPE ${title}
-
-* References

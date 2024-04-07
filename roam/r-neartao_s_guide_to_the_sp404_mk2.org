@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       12D39D6D-FA63-4461-AFBD-68CA9EE0172D
+:ROAM_REFS: @NearTaoGuideSP404mk22022
+:END:
+#+TITLE:  - NearTao’s Guide to the SP404-mk2
+
+<refnote
+* References
+[cite:@NearTaoGuideSP404mk22022]

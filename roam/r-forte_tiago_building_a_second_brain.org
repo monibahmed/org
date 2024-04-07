@@ -1,0 +1,880 @@
+:PROPERTIES:
+:ID:       53B8EF43-DC71-49B5-A74D-B76422333037
+:ROAM_REFS: @forteBuildingSecondBrain2022
+:END:
+#+TITLE: Forte, Tiago - Building a Second Brain
+#+SEQ_TODO: CAPTURE ORGANIZE
+
+* ORGANIZE Building a Second Brain so you can Structure your Knowledge
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+* Importance of Structure in Your Digital Life
+*
+** How often have you tried to remember something important and felt it slip through your mental grasp? 
+A lot of times, sometimes I have a good idea and it’s gone by the time I’m ready to write it down
+
+** considered “knowledge workers”—professionals for whom knowledge is their most valuable asset 
+Knowledge is all over the place, supposed knowledge you have to have a way to decipher and get to the truth
+
+** I learned that creating new things is what really matters 
+April 5, 2024  
+
+** starting each project with a stated goal 
+April 5, 2024  
+
+** you’ll inevitably begin to notice patterns and connections between them 
+April 5, 2024  
+
+** when you’re getting ready to create something 
+You spit have a project in mind
+
+** Instead of empowering us, this deluge of information often overwhelms us. 
+Information comes too quickly for us to process it. We need a mechanism to shower it down and give ourselves the chance to process it. We may not be about to process it now, but can we store it in such a way that it can be processed by our future selves when the time is right?
+
+** Think of your Second Brain as the world’s best personal assistant. 
+What does a PA do? That would help you organize your day, get you the information you requested. Be reliable and trustworthy, dependable and timely
+
+** but it hasn’t led anywhere 
+What is the purpose of getting that knowledge? Do OKRs help with this?
+
+** No one questions the importance of having physical spaces that make us feel calm and centered 
+April 5, 2024  
+
+** desire to create—to bring to life something good, true, or beautiful 
+Like music, or new design or algorithms. Or workflows, efficiencies
+
+** knowledge begins with the simple, time-honored practice of taking notes. 
+Not reading or watching, by taking notes you take the first step into making the knowledge yours
+
+** Move Quickly, Touch Lightly 
+April 5, 2024  
+** Every idea has an “essence”: the heart and soul of what it is trying to communicate. 
+This in ZKM is called a Zettel. If you can create a network a notes which are your understanding of the essence of the idea, you’re learning
+
+** It’s time for us to upgrade our Paleolithic memory. 
+Not upgrade, we need to augment it, enhance it, make more better use of technology than moral degradation
+
+
+
+
+** What Would This Look Like If It Was Easy? 
+
+** mysterious aspect of the creative process 
+** We spend countless hours reading, listening to, and watching other people’s opinions about what we should do, how we should think, and how we should live, but make comparatively little effort applying that knowledge and making it our own.
+We consider the knowledge our own once we’ve watched something, consumed something but we can’t have a serious conversation without forgetting the facts. We are faking it, but do we ever make it?
+
+** We collect and show off information, we have intention of learning, but our attention span prohibits us and there is too much glittery stuff.
+* Capture, Organize, Distill, Express (CODE)
+** writing about one’s inner experiences led to a drop in visits to the doctor, improved immune systems, and reductions in distress
+April 5, 2024  
+** Capture: Keep What Resonates 
+What should you capture?
+
+** stripping away the unnecessary so that only the essential remains 
+You decide what is unnecessary, this is part of internalizing
+
+** usually do this when I have free time during breaks or on evenings or weekends 
+So initial consumption is casual, second is when you want a break from a task
+
+** organizing by project was the most natural way to manage information 
+Is organizing by project the most natural way?
+
+** How to Avoid Keeping Too Much 
+How much to capture?
+
+
+** our goal should be to “capture” only the ideas and insights we think are truly noteworthy 
+
+* Choosing Digital Tools (PARA Structure)
+
+** Structure
+*** Archives 
+April 5, 2024  
+
+
+*** The promise of PARA is that it changes “getting organized” from a herculean, never-ending endeavor into a straightforward task to get over with so you can move on to more important wor
+** Tools
+*** Web clippers 
+April 5, 2024  
+
+*** Choosing a Notetaking App 
+What should be the features of a note taking app?
+
+*** Making Highlighting Difficult 
+April 5, 2024  
+
+
+** With the PARA system, every piece of information you want to save can be placed into one of just four categories
+April 5, 2024  
+
+** save content you come across 
+April 5, 2024  
+
+** digital notes apps have four powerful characteristics 
+Multimedia
+Open-ended
+Informal
+Action oriented
+
+** it is sometimes worth adding a third layer of highlighting 
+Sometimes you need to do additional passes of the note
+
+* Unsorted 
+
+** In which project will this be most useful? 
+Would this be objectives for me? Remember, todos, tasks, projects and objectives
+
+** extract only the most salient, relevant, rich material and save it as a succinct note 
+Only the parts that resonate?
+
+** four main capabilities of a Second Brain will actively work for you 
+What’s in the second brain’s resume ( should I call him Brian? Brian the brain …)
+
+** Our brain should help solidify our personal ideas and create connections between those ideas. If the ideas are in the future, it shoots help incubate those ideas and when needed prove us the knowledge so we can evolve our ideas further
+
+** life is constantly pushing and pulling us away from our priorities 
+Life is Alloway pulling us away from the things we want to do
+
+** productivity or creativity 
+A workspace should provide both?
+
+** making an impact on someone or something that matters to you. 
+April 5, 2024  
+
+** In the professional world: 
+You’re expected to know your material, so you need to know your notes, and you need to elaborate and collaborate on them. Your productivity depends on effectively using your notes. 
+
+** Currently your notes are in your head or meeting notes, you need a more effective system to access notes, since all tests on the workplace are “open book”
+
+** don’t make organizing your Second Brain into yet another heavy obligation 
+April 5, 2024  
+
+** sparks of inspiration 
+Add bits and pieces that you think will help you move that protect along
+
+** you need to be able to quickly find just the main takeaways 
+April 5, 2024  
+
+** How to Protect Your Most Precious Resource 
+April 5, 2024  
+
+** To properly take advantage of the power of a Second Brain, we need a new relationship to information, to technology, and even to ourselves.
+We need to form a a relationship with our system.
+
+** separate capture and organize into two distinct steps: 
+April 5, 2024  
+
+** Digital content is endlessly malleable, so you don’t have to commit to any decision forever 
+April 5, 2024  
+
+** just look inside for a feeling of pleasure, curiosity, wonder, or excitement, and let that be your signal 
+You’ll feel it as you consume the information. It’ll connect with you emotionally.
+
+** Progressive Summarizing is not a method for remembering as much as possible—it is a method for forgetting as much as possible
+April 5, 2024  
+
+** More likely, some of it will be relevant now, but most of it will become relevant only at some point in the future.
+The information coming at you may not be all relevant now, but it may become relevant in the future. We need to have a way of storing the information so we can access it in the future.
+
+** Projects have a couple of features 
+April 5, 2024  
+
+** quotes from podcasts 
+April 5, 2024  
+
+** don’t get caught in the trap of perfectionism 
+It’s not about having the best or most perfect tools and flows, have something reliable and build upon those
+
+** add an “executive summary” at the top of the note with a few bullet points summarizing the article in my own words
+This becomes your Zettel? Using your pens words you make the idea yours
+
+** By taking that small extra step of putting a note into a folder (or tagging itIII) for a specific project 
+April 5, 2024  
+
+** Inspiration is one of the most rare and precious experiences in life 
+April 5, 2024  
+
+** Digital notes aren’t physical, but they are visual 
+Turning your thought into something physical that you can interact with, helps solidify the ideas
+
+** Discoverability 
+April 5, 2024  
+
+** caretaker to seed the plants, trim the weeds, and shape the paths winding through them 
+You need to maintain your digital garden
+
+** Choosing Capture Tools 
+Where is the content coming from?
+
+** if a piece of content has been interpreted through your lens, curated according to your taste, translated into your own words, or drawn from your life experience, and stored in a secure place, then it qualifies as a note.
+A note needs to be personal and tired to your experience
+
+** Practice capturing new notes, organizing them into folders, and moving them from one folder to another. 
+April 5, 2024  
+
+** powerful advantages 
+As container has its advantages
+
+** Your notes will be useless if you can’t decipher them in the future, or if they’re so long that you don’t even try.
+This is something you’ve noticed. A lot of the notes in your notebooks are not accessible now, so did you take good notes?
+
+** Popularized in a previous period of information overload 
+Is human behavior cyclical?
+
+** Organizing by actionability counteracts our tendency to constantly procrastinate and postpone our aspirations to some far-off future
+April 5, 2024  
+
+** she takes out a foldable file box and labels it with the name of the project 
+Collecting everything relevant into the box
+
+** we can choose to consume information that adds value to our lives and consciously let go of the rest 
+Consume just enough information that adds value to our lives and conscience let the rest go. No more collecting or needlessly worrying about when you’ll need that information again
+
+** Three Most Common Mistakes of Novice Notetakers 
+April 5, 2024  
+
+** digital archive of your most valuable memories, ideas, and knowledge to help you do your job, run your business, and manage your life without having to keep every detail in your head.
+Use technology efficiently to manage your life, create a physical structure to store valuable information.
+
+** specific, clear outcome that needs to happen in order for them to be checked off 
+April 5, 2024  
+
+** parts of YouTube videos 
+April 5, 2024  
+
+** remembering, connecting, and creating. 
+For knowledge work you must remember first, so that you can create connections between ideas and then generate or create new ideas
+
+** using bullet points to encourage yourself to make this executive summary succinct 
+Billet points are what Huzoor likes too
+
+** PARA guides you in quickly sorting your ideas according to what really matters: your goals. 
+Use the concept of organizing and sorting but not the structure
+
+** piece of information that isn’t necessarily inspiring, but you know it might come in handy in the future 
+April 5, 2024  
+
+** By keeping diverse kinds of material in one place, we facilitate this connectivity and increase the likelihood that we’ll notice an unusual association.
+Yes, by physically seeing the connections in your knowledge, you can notice patterns and associations
+
+** the degree to which a piece of content or information can be found in a search of a file, database, or other information system
+Hire quickly can you find what you’re looking for?
+
+** insight you’ve begun to capture and organize them in a space where you can do your best thinking 
+Go from captured items to sobering actionable
+
+** Creating a Knowledge Bank 
+April 5, 2024  
+
+** Technology doesn’t just make notetaking more efficient. 
+Technology gives us the ability for our notes to flow us, be accessible at our fingertips and be easily cataloged and searched
+
+** Distill—Find the Essence 
+April 5, 2024  
+
+** a way to put projects on hold and revisit them later 
+April 5, 2024  
+
+** sharing your own ideas, your own story, and your own knowledge with others 
+April 5, 2024  
+
+** you made a book of your own, one stamped with your personality 
+Your own personality is okay, but you want to leave simmering behind for the whole world
+
+** Everything in a kitchen is designed and organized to support an outcome—preparing a meal as efficiently as possible
+April 5, 2024  
+
+** organized 
+Everything accessible that is required to continue momentum
+
+** tempting to try to create a perfect hierarchy of folders up front to contain every possible note you might ever want to capture
+Sold you have a hard rigid structure for your notes? Or something more malleable and fleeting? Your mind is not rigid, so why make your organization structure rigid?
+
+** highlight way too much 
+April 5, 2024  
+
+** As I look back, my notes were as important in finding relief as any medicine or procedure 
+Your previous notes are not useless, they will help you move forward, you just need to trust your previous self and keep evolving
+
+** Areas 
+April 5, 2024  
+
+** The Surprising Benefits of Externalizing Our Thoughts 
+April 5, 2024  
+
+** Their Second Brain evolves from being primarily a memory tool to becoming a thinking tool 
+As your library of ideas grows, you start seeing connections. You can use this to start developing new and fill in gaps between connections
+
+** digital map of your notes that can be zoomed in or out depending on how many details you want to see 
+April 5, 2024  
+
+** need to always be wary of accumulating so much information that we spend all our time managing it 
+Instead of creating cool stuff with it
+
+** Is It Surprising? 
+April 5, 2024  
+
+** This tendency is known as recency bias.4 We tend to favor the ideas, solutions, and influences that occurred to us most recently, regardless of whether they are the best ones.
+Recency bias, when your latest idea is the greatest idea in the world. Why act upon it now, why not wait until it’s fully incubated?
+
+** Paradoxically, the more notes they collect, the less discoverable they become 
+Exactly, how many notes are good enough? Experience?
+
+** what to do with all this valuable material you’ve gathered 
+April 5, 2024  
+
+** The challenge for the rest of us is how to apply this same lens to the work we do every day. 
+April 5, 2024  
+
+** Your brain is no longer the bottleneck on your potential, which means you have all the bandwidth you need to pursue any endeavor and make it successful
+By offloading data structuring and storing the information becomes more accessible, the potential bandwidth you have for developing your ideas increases
+
+** It was designed to last 
+Do it was an evolving book
+
+** Dig down through the boxes archaeologically 
+You get the opportunity to reflect and revise. Did you get to your goals, what could you have done differently?
+
+** habit of continuously force-feeding ourselves more and more information 
+Rather than force feeding or consuming information, we should try to connect it to projects and actionability. Maybe it will fit into connections with other Zettels, and you can utilize further on another project
+
+** Instead of randomly scribbling down notes on pieces of paper, hoping we’ll be able to find them later, we can cultivate our very own “knowledge vault” so we always know exactly where to look.
+My notes are scribbled on notebooks, at least they are some where. But if do need to setup my knowledge vault
+
+** Completed Projects Are the Oxygen of Your Second Brain 
+April 5, 2024  
+
+** Into the box she puts anything and everything related to the project 
+April 5, 2024  
+
+** when you focus on taking action, the vast amount of information out there gets radically streamlined and simplified
+You can remove noise from the signal
+
+** Remember that notes are not authoritative texts 
+April 5, 2024  
+
+** When I was forgetful, it always remembered. When I lost my way, it reminded me where we were going. When I felt stuck and at a loss for ideas, it suggested possibilities and pathways.
+Can you compound your knowledge over time? Can you find a partner that will keep pushing your momentum forward?
+
+** there is a standard that you want to uphold in each of these areas 
+April 5, 2024  
+
+** remember information you’ve written down in your own words 
+April 5, 2024  
+
+** They realize that they have a lot of knowledge on a subject and decide to turn it into something concrete and shareable
+April 5, 2024  
+
+** I knew that someday I might 
+You have an intuition, you might means that internally it’s a direction you want to go
+
+** single organizing system 
+April 5, 2024  
+
+** conflicts with your existing point of view 
+April 5, 2024  
+
+** the jobs that are most likely to stick around are those that involve promoting or defending a particular perspective
+Automation is becoming more and more prevalent, we are needing more and more visionaries, setting directions
+
+** The Progressive Summarization Technique 
+April 5, 2024  
+
+** integrated into my daily life 
+Your system should integrate
+
+** expand our definition of “knowledge. 
+Define knowledge
+
+** Hence a wealth of information creates a poverty of attention… 
+April 5, 2024  
+
+** a movie as emerging straight out of the mind of a screenplay writer or director, when in fact it depends on collecting and refining source material
+You keep grinding the source material until you have gold
+
+** container requires no effort to identify, to share with others, and to put in storage when it’s no longer needed
+April 5, 2024  
+
+** no way to live your life 
+Add to your life experience, you gain confidence and communication skills
+
+** we naturally use digital tools to extend our thinking beyond the bounds of our skulls 
+We need to use technology productive to help our endeavors
+
+** The first is that people need clear workspaces to be able to create 
+April 5, 2024  
+
+** project as open-ended as this one started the same way as all the others, with her goals 
+A project has goals
+
+** Distill: Find the Essence 
+How do these steps fit into ZKM?
+
+** Highlighting Without a Purpose in Mind 
+April 5, 2024  
+
+** Information is the fundamental building block of everything you do. 
+Imagine if you could recall and act on any prices of information you had consumed over your life. All those courses, connecting and reconnecting ideas, ideas generating more ideas. A positive feedback loop.
+
+** include any topic you’re interested in gathering information about 
+April 5, 2024  
+
+** significant evidence that expressing our thoughts in writing can lead to benefits for our health and well-being
+April 5, 2024  
+
+** CODE is a map for navigating the endless streams of information we are now faced with every day 
+Code is as MAP. As you get more information in you need to process it. Meaning you have to capture it, and organize it so it fits into your actions. Next you have to dial it so your future self can utilize it and then express it as part of a project
+
+** We end with a drawing that is nothing but a single, continuous stroke, which somehow still manages to capture the very essence of the bull
+This is a Zettel, that drawing is what is expressed, but the internalization of the stroke is the Zettel. 
+
+** When he needs to recreate it he can start with this internal stroke and build up from there. To remember you know to break it down and to create you need to build up and practice
+
+** Now Picasso can start with this General stroke and start adding more details as he please and have many variations of the Bull
+
+** completion of your active projects 
+April 5, 2024  
+
+** Ebook apps 
+April 5, 2024  
+
+** If it feels like the well of inspiration has run dry, it’s because you need a deeper well 
+Or you need to replenish that well with more ideas?
+
+** I didn’t save the entire article—only a few key excerpts 
+Initial testing filter, capture the provinces that resonate
+
+** I had exactly what I needed for my current work immediately on hand 
+Have you experienced this before? Whatever you’re working on now is the most important … recency bias?
+
+** What are the questions I’ve always been interested in? 
+April 5, 2024  
+
+** Here’s the surprising truth: you are already doing most of the work required. 
+April 5, 2024  
+
+** How to Create Notes for an Unknown Future 
+April 5, 2024  
+
+** Studies have shown that the environment we find ourselves in powerfully shapes our thinking 
+A productive workspace lets energy flow
+
+** you shift as much of your time and effort as possible from consuming to creating 
+April 5, 2024  
+
+** come up with new ideas, solve novel problems, and communicate with others effectively 
+Coming up with solutions to problems, coming up with new ideas and communicate them effectively will help our productivity
+
+** They keep the whole system nourished, fresh, and primed for action 
+April 5, 2024  
+
+** personal mantra 
+A goal must assign to your internal mantra or values. This will keep your momentum going. Your values should be tracked by objectives?
+
+** distill your notes down to their essence 
+April 5, 2024  
+
+** takes time and effort to distill your notes 
+April 5, 2024  
+
+** we go to work five days per week, but spend more than one of those days on average just looking for the information we need to do our work
+The more time we spend looking for information, the less time we have to execute on it.
+
+** includes any item from the previous three categories that is no longer active 
+April 5, 2024  
+
+** escape what I call the “reactivity loop”—the hamster wheel of urgency, outrage, and sensationalism 
+April 5, 2024  
+
+** We will quickly be exhausted and overwhelmed if we try 
+We are plagued by information overload and recent bias. We end up collecting content thinking it will be helpful in the future, but when that future comes we can never find what we are looking for
+
+** absorb the proportions and shapes into his muscle memory 
+This is distilling the reference and practicing with it
+
+** As the amount of information we have access to grows, such experiences are becoming more and more common.
+The experience of forgetting, since new things are always attracting our attention. How many ideas have we actually executed on? Are we just living in our heads. By watching some videos, do we really consider ourselves experts?
+
+** How PARA Works 
+April 5, 2024  
+
+** folders, cloud storage drives 
+April 5, 2024  
+
+** a digital notetaking app 
+Accessible anywhere, can hold different types of media
+
+** bold the main points within the note 
+Take notes inside of your notes
+
+** organizes information based on how actionable it is, not what kind of information it is. 
+Organize your information by actionable items?
+
+** identified the kinds of questions you want your Second Brain to answer 
+OKRs should track this in your second brain
+
+** It follows directions, makes helpful suggestions, and reminds you of what’s important to you. 
+Can we integrate AI to do this as well?
+
+** require a bit more refinement to turn them into truly valuable knowledge assets 
+They require you to handle them to make them into Zettels.
+
+** digital workspace 
+Can a digital workspace make you feel a certain way?
+
+** actions—evaluate, share, teach, record, post, and lobbyVI—are synonyms for the act of expression 
+April 5, 2024  
+
+** Learning was treated as essentially disposable, with no intention of that knowledge being useful for the long term.
+College knowledge may have helped for short term testing, but longer term you’ve missed making the bigger connections
+
+** To look for the path of least resistance and make progress in short steps 
+April 5, 2024  
+
+** anchor keeping me connected to my original impulse 
+When capturing initial goals, you want to feel grounded to the project. There can be multiple goals
+
+** convey the core message in just a sentence or two. 
+April 5, 2024  
+
+** Express—Show Your Work 
+April 5, 2024  
+
+** Every bit of energy we spend straining to recall things is energy not spent doing the thinking that only humans can do: inventing new things, crafting stories, recognizing patterns, following our intuition, collaborating with others, investigating new subjects, making plans, testing theories.
+We need to spend our energy more wisely, rather doing mundane tasks that a computer can do, we should focus on generating and executing on ideas. 
+
+** That’s what I want my BASB/ZKM to do. Generate and execute on ideas, not just get stuck in the rat hole of recalling information and then getting mentally exhausted. 
+
+** My system should help me execute, and generate new ideas.
+
+** Where Do I Put This? 
+April 5, 2024  
+
+** what you would want to capture more of 
+April 5, 2024  
+
+** keep only what resonates in a trusted place that you control 
+When something resonated, it connects to you on an intuitive level.
+
+** simplicity masks the effort that was needed to get there 
+April 5, 2024  
+
+** The only problem is that you’re often consuming it at the wrong time. 
+Let’s try to change, no let’s change the way we consume information
+
+** Projects 
+April 5, 2024  
+
+** excerpts from online articles or web pages 
+April 5, 2024  
+
+** incredible capabilities of technology—searching, sharing, backups, editing, linking, syncing between devices,
+April 5, 2024  
+
+** while doing a search or browsing the notes within a folder 
+He’ll as this not to his network … the party back to the original source is clear. He gets a good view from advice and can drive down like a Hawk. Hawks have good eyes from above. 
+
+** The Hawk amplify is useful nebular they fly high up Tracking their prey, and swoop down
+
+** the subject of “Psychology” is far too broad to be useful 
+Don’t file notes in something to broad
+
+** Curator’s Perspective—that we are the judges, editors, and interpreters of the information we choose to let into our lives
+April 5, 2024  
+
+** Only when we declutter our brain of complex ideas can we think clearly and start to work with those ideas effectively.
+When are brains are focused, and not distracted we can process our ideas
+
+** Can we process multiple complex ideas? Probably not we need to simplify them and then connect them to other ideas that were probably complex to begin with as well
+
+** Your job as a notetaker is to preserve the notes you’re taking on the things you discover in such a way that they can survive the journey into the future.
+A good not need to survive the journey into the future. As you consume material, you’ll have flowering and reference notes. You should make it easier for your future self to discover them and make better use of them when the time is right.
+
+** garden of knowledge full of familiar, winding pathways, but also secret and secluded corners 
+April 5, 2024  
+
+** You can publish a simple website now, and slowly add additional pages over time. 
+Put in the placeholder, or shell. So all you have to do is fill in the content
+
+** knowledge building block”—a discrete unit of information interpreted through your unique perspective and stored outside your head.
+Knowledge is the building block of your professional life, make the knowledge yours. 
+
+** As you build your structure use knowledge building blocks that you’ve forged so the structure is strong
+
+** avoid creating lots of empty containers 
+April 5, 2024  
+
+** creative raw material 
+April 5, 2024  
+
+** How can I make this as useful as possible for my future self? 
+April 5, 2024  
+
+** The Power of Thinking Small 
+April 5, 2024  
+
+** The practice of writing down one’s thoughts and notes to help make sense of the world has a long legacy
+Writing with the pen, teaching you what you knew not … the pen allowed us to get our thoughts down and onto as medium that gave us a holistic picture and allowed us to make connections. Is Category Theory all about connections?
+
+** you are always trying to place a note or file not only where it will be useful, but where it will be useful the soonest
+April 5, 2024  
+
+** Organize—Save for Actionability 
+How do I organize for Actionability?
+
+** also our understanding of ourselves and what makes us tick 
+Would that be wonderful, learning more about yourself and what makes you move
+
+** because when you drop the merely good parts, the great parts can shine more brightly 
+April 5, 2024  
+
+** The Building a Second Brain system will teach you how to 
+Collect, organize and search through your knowledge. Using as reliable system, connect your knowledge together. A reliable system should help you relax and do some of your best thinking. 
+
+** Use technology to enhance our cognitive abilities, so that we can more efficiently move through our goals. 
+
+** they have a beginning and an end 
+April 5, 2024  
+
+** voice memos 
+April 5, 2024  
+
+** Remembering, Connecting, Creating 
+How does this tie into a note taking app?
+
+** visiting a note again 
+Network node
+
+** such as a psychology paper you’re writing or a presentation you’re preparing 
+What a contrived example … How would I know I would do a presentation on psychology?
+
+** Is It Useful? 
+April 5, 2024  
+
+** In its most practical form, creativity is about connecting ideas together, especially ideas that don’t seem to be connected.
+This I’ve heard before, creativity is connecting unrelated ideas together. 
+
+** What’s the difference between knowledge and ideas?
+
+** The most important factor in whether your notes can survive that journey into the future is their discoverability—how easy it is to discover what they contain and access the specific points that are most immediately useful
+April 5, 2024  
+
+** where to go when it’s time to execute or create 
+This is the goal, to jump in and create
+
+** Capture—Keep What Resonates 
+What more could be added?
+
+** knowledge building blocks can also be combined into something much greater—a report, an argument, a proposal, a story
+You use KBBs to build up arguments, ideas and projects
+
+** A KBB should be easily searchable and combinable. If there is a piece missing, you should know what it looks like so you can fill it in. 
+
+** Simplicity like legos to bring complex structures
+
+** PARA is a dynamic, constantly changing system, not a static one. Your Second Brain evolves as constantly as your projects and goals change, which means you never have to worry about getting it perfect, or having it finished.
+Why his PARA dm doesn’t work for me, it’s too rigid and it’s not how my brain thinks. Too much ambiguity with the role of the structure. I need to setup something more intuitive
+
+** the security to venture out and take risks 
+April 5, 2024  
+
+** Express: Show Your Work 
+How do you excited your learning to the world? Why should you express?
+
+** Unlike modern readers, who follow the flow of a narrative from beginning to end, early modern Englishmen read in fits and starts and jumped from book to book
+Going through multiple books is okay, loaves crumbs behind to help you pick up where you left off
+
+** Organizing Information Like a Kitchen—What Am I Making? 
+April 5, 2024  
+
+** act gives her a sense of purpose 
+Which container for you achieves this purpose?
+
+** Organize: Save for Actionability 
+How should you organize your notes?
+
+** Over-Highlighting 
+April 5, 2024  
+
+** explosive growth in the complexity of our lives 
+Life is being more and more complex. This explosion will continue into your children’s lives, teach them what you have learned. At least you’ll leave something good behind.
+
+** A project-centric way of working comes naturally in the creative and performing arts 
+April 5, 2024  
+
+** excerpts from emails 
+April 5, 2024  
+
+** They use their digital notes to save facts and ideas that they would have trouble recalling otherwise 
+April 5, 2024  
+
+** Zooming In and Out of Your Map of Knowledge 
+April 5, 2024  
+
+** organizing is to get too perfectionistic, treating the process of organizing as an end in itself 
+April 5, 2024  
+
+** most valuable kinds of information to keep is personal information—your own thoughts, reflections, memories, and mementos
+April 5, 2024  
+
+** All these formats can be combined in a way that would be impossible in the physical world. 
+Multiple formats versus a single format of a notebook
+
+** To enhance the discoverability of your notes, we can turn to a simple habit you probably remember from school: highlighting the most important points
+In ZKM it would be to capture the most important points
+
+** Organizing for Action 
+April 5, 2024  
+
+** Knowing how they were going to be putting ideas to use gave them a powerful lens for seeing which ones were worth the trouble of writing down.
+April 5, 2024  
+
+** Your Second Brain becomes like a mirror, teaching you about yourself and reflecting back to you the ideas worth keeping and acting on. Your mind starts to become intertwined with this system, leaning on it to remember more than you ever could on your own.
+Your second brain becomes an extension of your first brain, a relationship that fosters collaboration, creativity and reflection. You double your processing power and effectively control the data flow
+
+** capturing the parts that resonated with him in a notebook 
+Were these fleeting notes or something more formal?
+
+** The pieces was fleeting but then they were turned into more permanent notes as the book evolved. Can we do this with git? Evolve a set of fleeting notes to reference notes?
+
+** a way to look back on her past victories 
+April 5, 2024  
+
+** What is the point of knowledge if it doesn’t help anyone or produce anything? 
+April 5, 2024  
+
+** They drew on their notebooks in conversation and used them to connect bits of knowledge from different sources and to inspire their own thinking.
+They drew, made the conversation and topics their own
+
+** Instead of organizing ideas according to where they come from, I recommend organizing them according to where they are going
+April 5, 2024  
+
+** commitment 
+If you’re working time on collecting and organizing you’ll be more committed
+
+** The best way to organize your notes is to organize for action, according to the active projects you are working on right now
+Organize your notes in terms of action, C
+
+** create a lot more work later on when you have to figure out what all that information means 
+April 5, 2024  
+
+** Human capital includes “the knowledge and the knowhow embodied in humans—their education, their experience, their wisdom, their skills, their relationships, their common sense, their intuition.”1
+Human capital is 5-10x more than physical capital. If you can add AI, then you can increase another 2-10x.
+
+** various ongoing areas we’re responsible for 
+April 5, 2024  
+
+** corral the jumble of thoughts tumbling through your head and park them in a waiting area for safekeeping
+April 5, 2024  
+
+** The ideas they’ve captured begin gravitating toward each other and cross-pollinating. 
+April 5, 2024  
+
+** you are building up a map of the best ideas found in your Second Brain 
+April 5, 2024  
+
+** PARA can be used everywhere 
+Don’t use his use his PARA, think parachute
+
+** We have a natural bias as humans to seek evidence that confirms what we already believe, a well-studied phenomenon known as “confirmation bias.”
+April 5, 2024  
+
+** Having a Second Brain where lots of ideas can be permanently saved for the long term turns the passage of time into your friend, instead of your enemy.
+We fear losing a as good idea, beggar we are good at forgetting. Our second brain is better at holding the information we needed for longer periods of time without eroding it. 
+
+** That information will only be as good as we initially capture it
+
+** You distill your message down to the key points and action steps 
+Write it like an email or a request, most important information on the top
+
+** Capturing notes without an effective way to organize and retrieve them only leads to more overwhelm 
+April 5, 2024  
+
+** How can we decide what to save when we have no idea what the future holds? 
+April 5, 2024  
+
+** paradoxically 
+Is this part of human nature?
+
+** broke down each scene according to five key criteria 
+Distilling down to main ideas
+
+** true value of a simple container: it is easy to use, easy to understand, easy to create, and easy to maintain
+How do I do this digitally?
+
+** Works learning the 404 or Digitakt be a box worthy project? Or a task?
+
+** It’s so easy to endlessly delay and postpone the experiences that would so enrich our lives 
+Just imagine if you had your notes in ZKM now, what your experiences would be like. Involve your kids so they start early.
+
+** Think of it as the combination of a study notebook, a personal journal, and a sketchbook for new ideas 
+Your second brain should assist you in making connections, bounce ideas off and sketch out potential projects
+
+** identifying the structure of your work and life 
+April 5, 2024  
+
+** works on that project 
+What is a project and are there multiple complexities. Can simple projects be called tasks or? Maybe complexity can be described by Todo, Task and Project
+
+** A task would be cleaning up my desk, followed by another task of connecting up wires for my home studio. This could all go into a project or objective. 
+
+** For levels of hierarchy?
+
+** Organizing for action gives you a sense of tremendous clarity, because you know that everything you’re keeping actually has a purpose
+April 5, 2024  
+
+** Your notes only solve the problem of rediscovering those sources when you need them 
+April 5, 2024  
+
+** It is about optimizing a system outside yourself, a system not subject to your limitations and constraints, leaving you happily unoptimized and free to roam, to wonder, to wander toward whatever makes you feel alive here and now in each moment.
+A system that companies your own brain. If your brain is good at connecting information, then give it a map to look at. If you can hear Melodie’s, then give it a synth.
+
+** Resources 
+April 5, 2024  
+
+** leading to further ideas 
+April 5, 2024  
+
+** The Four Steps to Remembering What Matters 
+How do you implement Remembering, Connecting and Creating into your notes?
+
+** Picasso is starting by building up detail so that he has more options to choose from when it comes time to take some away
+The building up of detail is adding to reference notes.
+
+** need to use multiple platforms to move your projects forward 
+April 5, 2024  
+
+** contradict each other and don’t necessarily support what we already believe 
+Can you use AI to change your bias?
+
+** It takes supporting material. 
+To move a vision or direction forward you need supporting material, evidence, long term thinking to support the idea
+
+** you highlight the main points of a note, and then highlight the main points of those highlights, and so on, distilling the essence of a note in several “layers.”
+April 5, 2024  
+
+** dropping all my notes and files into a folder for whichever project 
+April 5, 2024  
+
+** Approach to Capturing 
+What and how should you capture based on actionability?
+
+** four-part method called “CODE”—Capture; Organize; Distill; Express. 
+April 5, 2024  
+
+** metaphors that make up our own source material 
+Make the material yours
+
+** Designing a Space for Your Ideas 
+April 5, 2024  
+
+** You gain confidence in what you know only when you know that it works. Until you do, it’s just a theory. 
+All Excerpts From
+
+** Forte, Tiago. “Building a Second Brain.” Atria Books, 2022-06-14. Apple Books. 
+This material may be protected by copyright.
+
+* References
+[cite:@forteBuildingSecondBrain2022]
