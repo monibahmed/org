@@ -15,13 +15,13 @@ jobs:
       - name: Checkout org repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/org.git
+          repository: monibahmed/org
           path: 'org'
           
       - name: Checkout github.io repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/monibahmed.github.io.git
+          repository: monibahmed/monibahmed.github.io
           path: 'org/publish'
           
       - name: Setup Emacs
@@ -34,6 +34,7 @@ jobs:
           emacs --script ./build-site.el
 
       - name: Push changes
+        token: ${{ secrets.PUBLISH_WEBSITE }}
         run: |
           cd org/publish
           git config user.name github-actions
