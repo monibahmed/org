@@ -14,6 +14,13 @@ jobs:
         with:
           repository: monibahmed/org
           path: '.'
+
+      - name: Checkout org repository
+        uses: actions/checkout@v2
+        with:
+          repository: monibahmed/monibahmed.github.io
+          path: 'public'
+          
           
       - name: Setup Emacs
         run: |
@@ -25,7 +32,7 @@ jobs:
 
       - name: Push changes
         run: |
-          cd monibahmed.github.io
+          cd public 
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
