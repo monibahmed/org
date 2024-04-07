@@ -12,14 +12,14 @@ jobs:
       - name: Checkout org repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/org@main
+          repository: monibahmed/org
           path: 'org'
           token: $ {{ secrets.PUBLISH_WEBSITE }}
           
       - name: Checkout github.io repository
         uses: actions/checkout@v2
         with:
-          repository: monibahmed/monibahmed.github.io@main
+          repository: monibahmed/monibahmed.github.io
           path: 'org/publish'
           token: $ {{ secrets.PUBLISH_WEBSITE }}
           
