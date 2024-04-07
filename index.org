@@ -1,0 +1,10 @@
+#+TITLE: Homepage: Welcome to Monib's Brain
+
+
+The Static Starting Point for my Website and Brain Dump
+
+Initial Commit ***TESTING BRANCH***
+
+[[file:./okr.org][Objectives and Key Results]]
+
+[[file:gtd.org][Getting Things Done]]
