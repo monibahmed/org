@@ -13,7 +13,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: monibahmed/monibahmed.github.io@main
-          token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'publish'
          
 
@@ -21,7 +20,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: monibahmed/org@main
-          token: ${{ secrets.PUBLISH_WEBSITE }}
           path: 'publish/org'
 
       - name: Setup Emacs
