@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       2C750130-0F6D-4AFD-9957-664821160AEC
+:ROAM_REFS: @ahrensHowTakeSmart2022
+:END:
+#+TITLE: Ahrens, Sönke - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
+
+* SCOPE Taking Smart Notes is Writing, and Writing is all Matters
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+- Writing is all that matters
+- Writing is a dynamic process not a linear one
+- Dynamic processes need simpler structures and flows
+- A system must allow for multiple dynamic processes to run in parallel
+- Build a note taking system with automatic elaboration, reflection and review
+
+** Structure of Note Taking
+- Top-Down and Bottoms-Up approach
+- Collect notes for long-term and show relationships
+  
+** Workflow of Note Taking  
+- Establish a positive feedback loop
+- Enable parallel processing of multiple resources
+
+
+
+* References
+[cite:@ahrensHowTakeSmart2022]

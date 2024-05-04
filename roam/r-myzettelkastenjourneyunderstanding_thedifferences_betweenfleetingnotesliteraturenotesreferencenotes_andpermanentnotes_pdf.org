@@ -1,0 +1,34 @@
+* SCOPE Explains the difference between f-notes, r-notes and z-notes
+:PROPERTIES:
+:CUSTOM_ID: scope-explains-the-difference-between-f-notes-r-notes-and-z-notes
+:draft: TRUE
+:END:
+
+
+“The idea behind this note-taking method was that it could help you understand and learn what you read better and help you create articles effortlessly” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 1](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=1&annotation=5N47H6HH)) What kind of effortlessly are we talking about? ZKM is not automated way of understanding, it's a different and more efficient way of processing your reading. Remember writing is still important
+
+“Luhmann et al., 1987, 154f” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 2](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=2&annotation=V63PMPV2)) “I only do what is easy. I only write when I immediately know how to do it. If I falter for a moment, I put the matter aside and do something else.”
+
+“Fleeting notes are notes of the thoughts you get when reading something.” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 2](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=2&annotation=NBBQVICD)) These are the thoughts that you have when you read something. They are fleeting so you have to get them down quickly, and review them soon
+
+“you need to process these notes and explain what you captured further” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 2](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=2&annotation=DJ67UB76)) So the first step is to capture, then review? Then process?
+
+“processing your fleeting notes is when you start to generate even more new ideas and connect existing ideas to new ones” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 2](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=2&annotation=7VTW44DZ)) Benefit: you process your notes later so you have some gap between the reading and processing helps you think and elaborate on those notes So now you go from capturing f-notes, to processing f-notes.
+
+“helps with thinking but makes it permanent” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 3](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=3&annotation=FFZFLKXG))
+
+“capturing them can also give context to what you were thinking” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 3](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=3&annotation=7Z3AHZQF))
+
+“Literature notes are the ideas of the author, explained in your own words” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 3](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=3&annotation=AJ8TSGF9)) I'll call literature, references notes. They are the ideas explained in your own words
+
+“You only understand something fully if you can explain it to yourself” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 3](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=3&annotation=N274RSQP)) reference notes will be the point where you can explain concepts to yourself, these will start getting more permanent
+
+“Taking fleeting notes and processing them showed me evidence of my thinking while reading and helped me understand the ideas better” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 3](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=3&annotation=EBGXNAK2))
+
+“A permanent note is a declarative statement made out of your reference notes, literature notes, and fleeting notes” ([“My_{ZettelkastenJourneyUnderstandingtheDifferencesbetweenFleetingNotesLiteratureNotesReferenceNotesandPermanentNotes}.pdf”, p. 4](zotero://select/library/items/Q5LIS97U)) ([pdf](zotero://open-pdf/library/items/AMTIG5KP?page=4&annotation=UTTTMIU9)) Is this something you believe?dd details
+
+* References
+:PROPERTIES:
+:CUSTOM_ID: references
+:END:
+[cite:@My_Zettelkasten_Journey_Understanding_the_Differences_between_Fleeting_Notes_Literature_Notes_Reference_Notes_and_Permanent_NotesPdf]

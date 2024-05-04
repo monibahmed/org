@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       03276E5F-FB46-4001-A3FF-C8065D090455
+:ROAM_REFS: @bradberryEmotionalIntelligence
+:END:
+#+TITLE: Bradberry, Travis - Emotional Intelligence 2.0
+
+* SCOPE How to handle your emotions
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+
+* References
+[cite:@bradberryEmotionalIntelligence]

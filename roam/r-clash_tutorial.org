@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       68430642-E378-49D9-BCE8-2AE3C02A740A
+:ROAM_REFS: @ClashTutorial
+:END:
+#+TITLE:  - Clash.Tutorial
+
+* SCOPE How do you development Hardware in Clash
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+Using Haskell and Clash to develop hardware gets you a big gain in productivity
+
+
+* References
+[cite:@ClashTutorial]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9AD7EF45-770B-415C-9B50-A5A72E1B1A97
+:ROAM_REFS: @ClashTutorialPdf
+:END:
+#+TITLE:  - Clash.Tutorial.Pdf
+
+* SCOPE Using Clash to Develop Hardware
+
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+add details
+
+
+* References
+[cite:@ClashTutorialPdf]
