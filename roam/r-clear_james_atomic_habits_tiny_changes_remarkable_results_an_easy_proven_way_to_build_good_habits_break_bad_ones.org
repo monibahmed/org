@@ -1,0 +1,161 @@
+:PROPERTIES:
+:ID:       DEB3F60D-8D3A-4ABB-AAB0-6B38E479844F
+:ROAM_REFS: @clearAtomicHabitsTiny2018
+:END:
+#+TITLE: Clear, James - Atomic Habits: Tiny Changes, Remarkable Results : An Easy & Proven Way to Build Good Habits & Break Bad Ones
+
+* SCOPE How Habits Shape our Lives
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+Clear shares a plan for building better habits, using science to establish his conclusions. The back-bone of his model are the Cue, Craving, Response, and Reward loop and how behavior can affect this change.  
+
+* Reference Notes
+** Power of Atomic Habits
+Atomic means small, but powerful units that can provide immense amounts of energy. Habits are routine or activities performed regularly and automatically. Habits are something that you do every day, and are pulled towards doing. Even though sometimes you may not want to. 
+
+It is easy to underestimate the importance of small changes and overestimate the value of big sweeping changes. We try to convince our selves that massive changes in life require massive action. But the reality is that even 1% of change accumulated overtime, even though it's unnoticeable, is far more impactful when compounded overtime. The different a tiny change can make is greater then the amount of change one big sweeping change can make. One percent worse every day for makes you three percent worse, and one percent better everyday makes you thirty-eight percent better, over the course of a year. It's like money an investing. Do the math! As you compound over a longer period of time, the value of good habits becomes apparent.
+
+We try to make changes, everyone is trying to evolve and improve, as a society it is apparent that this has been happening. However we are still impatient and if we don't see big sweeping results, we quickly fall back into previous haits, that seemed to be working better then our new experiments. We have to convince ourselves to stick to the new changes, or figure out why they will not work, beyond excuses.
+
+The outcomes or results of change are lagging events versus what you are changing now. You may not see the value of exercise now but you will after a few weeks, and even more after a few months, then a few more after a few years. Your knowledge has more critical mass as you work through your learning. [cite:@newportGoodTheyCan2012] If you want to see where your life will end up, all you have to do is compound your investment that you're putting in now.
+
+Ultimately life success product is the compounding of daily habits and not once-in-a-while life transformations, where we think we can try a revolution against our previous selves. The current trajectory of your choices should be far more concerning then your current results. You can change or shift a trajectory more easily, by a few degrees, rather then doing a stop and full reverse. Time will magnify the margin between success and failure, if you keep multiplying something, then multiply the good and not the bad.[cite:@bradberryEmotionalIntelligence2009]
+
+*** Habits Compound
+
+Good habits build up as you compound the interest, and similarly bad habits compound, knowing what to concentrate on is crucial to life, and knowing how habits work and how to design them is a crucial skill. Here are some generic habits that compound:
+- Productivity Compounds Positively : Making something easier to do that is done often compounds over time and over the number of people doing it.
+- Knowledge Compounds Positively : Learning something new everyday and continuing learning adds to your knowledge, but also elaborates on the previous knowledge you've built up.
+- Relationships Compound Positively : People reflect your behavior back to you, the more you get along and help others, the more they'll ask you for help. Being nice in each interaction and thoughtful about people will compound back to you.
+- Stress Compounds Negatively : Frustration, anger, weight of responsibilities can have negative emotional and health effects. Learn to deal with these in a positive way.
+- Negative Thoughts Compound Negatively : The more you think about yourself negatively, the more you add to the those thoughts. It's like going into a black hole and not being able to come back out.
+- Outrage Compounds Negatively : As you get angrier, so do the people around you. Behaviors should be handled in a more positive manner, and desired outcomes better thought out.
+
+Progress is slow, ice has a melting point, and even then it melts slowly. But building up to a certain point to see the momentum pick up is required to make a major change. Habits appear to make no difference, but we have to wait for the changes to cross the critical threshold to notice new levels of performance. Even if it doesn't feel like it's going anywhere, the compounding process is still happening. Like the tree that you plant that doesn't do anything for a year or two, because its all growing underneath and establishing it's roots. To make a meaning change habits need to persist! Building habits or any skill require your to pass the "Plateau of Latent Potential".
+
+The Plateau of Latent Potential is a curve that shows how results happen over time. In the beginning you see that you're not making much progress, and not going as fast as you can, and are disappointed. You think your results should be higher then what you're actually seeing, after a while you start noticing even higher gains and at one point your results surpass your expectation. This takes time, like a stonecutter, who keeps banging away at the stone, and you see nothing happens, and then suddenly on that last strike, the stone breaks. It wasn't that last blow, but the cumulative effect of all the other blows before that.
+
+Breaking a bad habit is like up-rooting a powerful oak within us, and building a good habit is like cultivating a delicate flower and nurturing it one day at a time. 
+
+*** Focus on the System to Achieve Results
+It's not the goals you set and try to achieve, rather what system you have in place to get to that goal. Like physics, is your system using the path of least action to get to the result? The amount of energy you spend on your system will affect the outcome. Goals are about the outcome you want to achieve, and systems are the processes that get you those results.
+
+If you ignored your goals and just focused on the system, would you still be successful? What would that success look like? [cite:@newportGoodTheyCan2012]. If your activity already has a inherent goal assocaited with it, then yes, you would see the results if you just focused on the system. A coach that focuses on bettering practice each day, would ultimately see a championship. However, goals are still good for setting a direction, if a direction is not provided, but a system is the best way to make progress. Focusing too much on the goals and what success looks like is a time sink. Here are a few problem with goals:
+1. Winners and Loser have the same goals
+   Each team, each player has winning on their minds, but the team and player with a better practice system, that compounds overtime will win. It's usually a small marginal difference that determines the winner.
+2. Achieving a goal is a temporary change:
+   After you've lost that eight pounds, you stop and then it slowly creeps up. The goal was achieved, but with a system that was not sustainable. In order for the change to be more permanent, you need to solve the problems in the system. 
+3. Goals restrict your happiness:
+   You have a mental picture of what achieving that goal looks like, and either you achieve that goal and realize there's another mountain to climb, and you're not happy. Or you fail to meet that goal, and that leaves you disheartened to try again. Establishing a efficient system would leave you with an excitement to stick with the goal, and that will make you happy. As you see progress, you'll be happy, even though the goal hasn't happened yet.
+4. Goals are at odds with long-term progress:
+   When you push yourself towards that one goal, what do you do afterward achieving it? The long term thinking should be about a cycle of continuous improvement, like how Kobe Bryant worked on his layups. Ultimately its the process through the system that will keep your momentum going towards progress.
+
+*** A System of Atomic Habits
+Changing your habits requires you to change your systems. Habits repeat because of there role in the the system. Change the system and your habits will change. You do not rise to the level of your goals, which is unsustainable, but you fall to the failures of your systems.
+
+Atomic habits are about tiny changes and how they are part of a larger system. Just like atoms build up molecules that build up the physical world, so do you habits build you up and the results you are able to achieve.
+
+** Habits Shape your Identity
+You'll probably be in the same place next year, if you don't improve your daily habits. This is because when we try to change, we either change the wrong thing, or we change our habits in the wrong way. Changes sometimes start to feel like a hassle.
+
+When we try to change based on our outcomes, which prompts us to change our system, which ends up changing our identity. We may end up not agreeing with the change in identity and subconsciously we'll develop a block and encounter push bask. If instead we focus on changing our identity first then our process will change accordingly and then our outcomes. The direction of change matters when trying to change a habit.
+
+Outcomes are about what you get, processes are about how you get them, and identity is about what you believe. All three have to be in agreement for a long lasting, and acceptable change. Make an identity change, adopt the characteristic of that identity. "No thanks, I'm not a smoker", instead of "No thanks, I'm trying to quit." One is based on an outcome and another based on what you want to be. If someone wants to lose weight they think about the outcome, less pounds on the scale, rather they should think how they want to look at themselves. There old identity sabotages the outcome they want to achieve.
+
+Behind every system of actions, there is a system of beliefs. /I believe ZKM will help me retain my knowledge/. Behavior that cause friction with your self identity will not last. It's hard to change your habits if your underlying beliefs are not changed accordingly. Become a "I am", rather then "I will". This will motivate you to make the habit a part of your life. The more you reflect on your identity, the more motivated you'll be to change it positively and maintain the habits that support that identity.
+
+Your behaviors are the reflection of your identity, and what you do reflect the type of person you are, not on others but on yourself as well. Adopt a new identity, so your new behavior can align. You make it simple by assuming the role you want your identity to take. As more deeply something is tied to your identity, the more difficult it is to change (like you gender). Identity can be something inherited by the communities you are a part of or it can be inside of you, both bring different aspects, and you may want to change both.
+
+One practical way of changing your identity is to change what you do. Each page you write, you are a writer. As you build up momentum, you become closer to that identity. Works the other way to, every time you lie, your identity assumes the role of a liar. What you become is based on a majority vote not all for nothing. To change, decide what you want to be, and prove it to yourself with small wins. You can start thinking from the outcome, but work backwards to come to the change in identity. You want to understand people better? Become someone who understands and connects with people. Ask, "What type of person could write a book", make a list of traits and adopt those. "What would a musician do? What would a healthy person eat" Make the small change in your behavior, and use small wins to build up that identity.
+
+Your identity emerges out of your habits, so to change habits change the identity. 
+
+** Build Better Habits
+If you want to repeat behaviors, then make the consequences satisfying. If a behavior has an unsatisfying consequence then it is less likely to be repeated. Your brain builds up behaviors based on these feedback loops. There is a feedback loop, that drives human behavior. We try, and fail, then try differently and with practice, we succeed. Eventually the extra useless movements fade away, and we're left with a automatic habit. Habits are simple reliable behaviors to recurring actions in our spaces. As the movement become more automatic, the level of activity in the brain goes down, meaning, its become easier to sustain that movement. This reduces cognitive load and allows you to allocate attention to other tasks. Habits do not restrict freedom, but create it. As tasks takes a shorter amount of time and become automatic, they allow you to think about other interesting items, and get to them sooner. If you don't create habits, you'll have less freedom. If you're always forces to make decision about simple tasks, you'll have less time for freedom. Questions like:
+- When should I work out?
+- Where should I play the guitar?
+- Where do I pay the bills?
+
+Having a habit of going to a place, to do an activity, and when to do it, will give you more freedom! When your habits are dialed in and the basics are handled, then your mind is free to create and focus on new challenges. Building habits now allow you to create more in the future.
+
+Habit building can be divided into for steps:
+- Cue : triggers your brain to initiate a behavior. The cue is first indication of a reward, as you mind scan the environment and makes connections internally and externally. Assume externally you see some Twinkies, that would be the cue.
+- Craving : The Twinkies generate a motivation, but what you crave is not the habit, its what will change the ctate from cue to craving. You do not want to turn on the television, you want to be entertained.
+- Response : The actual action or thought of the habit you perform. 
+- Reward : The end goal of every habit, the satisfaction of your cravings. They reinforce actions that are worth repeating.
+
+This four step process is not something that happens occasionally, but is alive and running every moment you are alive. This process runs in parallel, meaning, multiple cues and trigger multiple cravings. To change these habits, we divide the problem into two stages, the problem phase where you realize something needs to change and the solution phase where you take action and achieve change. To change a habit, ask yourself, how can I: 
+
+| Create a Good Habit | Break a Bad Habit    |
+|---------------------+----------------------|
+| Make it obvious     | Make it invisible    |
+| Make it attractive  | Make it unattractive |
+| Make it easy        | Make it difficult    |
+| Make it satisfying  | Make it unsatisfying |
+|---------------------+----------------------|
+
+However, remember that every goal you set will fail if it goes against your human nature.
+        
+*** Make Habits Obvious
+The human brain is designed to predict and detect patterns, it's always scanning the surroundings for information. With practice you can pick up on cues that are causing a habit loop to fire. 
+
+The brain looks for patterns in spaces, time or energy (like flickering) lights. Using practice you can predict outcomes without thinking about them -- this is experience. A cue doesn't have to be apparent to trigger a habit loop. Our responses to cues become invisible the more we do them, we have to start with awareness.
+
+Two techniques that can be used to build awareness are "Pointing and Calling" and the "Habits Scorecard/Tracker". Using more of your senses you point and call what you are about to do, this enables you to catch and act on the problems, before something goes wrong like Subway conductors. You can retrospect point and call as well after you have done an action, so backtrack more details for next time.
+
+The second tool is to make a list of daily habits, and look for the effective habits, and remove the ineffective ones overtime. A list could include what steps you take in your morning routine, or other times of the day you are trying to change.
+
+**** Starting New Habits
+A way to start a new habit is using implementation intention. You've done this by using the Lifetime App to schedule your workouts, so you have a push to show up and work out. Essentially what you are doing is planning your implementation intention. The simplest for of implementation intention is to say, "When X happens, I will do Y." Or in the Lifetime case, you said, "I will [energy], at [time], in [space]". The goal is to get in repetition and not get derailed.
+
+***** Habit Stacking
+One cause and effect, leads to another set of cause and effect. This is called the Diderot effect. A chain reaction of changes. In terms of habits a cue can trigger a rewards, which in turn will trigger another cue. This is called habit stacking. You could say, "After [current routine], I will [new habit]". The key is to one behavior at your are already doing, into another behavior that you want to do. Essentially a positive version of the Diderot effect. No matter which strategy you use, the key to repeating a new habit is in the cue. You cure should have the same frequency as your desired habit. The specificity in "I will..." statements is important, the cue has to be specific and the response has to be specific as well. 
+
+**** Use Environment not Motivation
+Using space is a crucial aspect to habit creation. For example, placing water bottle in various areas around the cafeteria, will likely increase water consumption. Similarly, your habits depend on the room and what's in front of you. Behavior is function of a person in an environment $ B = f (P, E) $. The room or space creates obvious choices for you to act on. For this reason, a change in the room or your space can have a big shift on your behavior. You don't want to be a slave to inefficient distraction in your space, you want to architect your space to be efficient.
+
+Using spaces and environments we are more likely to notice cues. Design your environment to make cues for preferred behaviors more desirable. To remember to take you medicine or vitamins, place them next to where you get water from. To play the guitar more, put it centrally, to exercise more, put your gym clothes out. Making cues a big part of your environment help you push more persistent habits, you can typically use a few visual cues to help with behavior change. Sprinke triggers throughout your surroundings to make your choices easier, making better decisions is easier with easier triggers.
+
+The context of your cue is important, context is time and space, or energy, because your cues are associated with your surroundings. We mentally assign our habits to the location, like the office or the gym. You can train yourself to link a habit to a space. *Stop thinking about your environment as a place to store objects, rather think about your relationship to those objects, and how you would like to interact with them.* How you interact with a a space, make habits easier. Habits are easier to change in a new space or environments, creating new spaces or re-arranging a space is okay. Moving your TV out of your room if you have problems sleeping at night. You can figure out your behavioral biases in certain spaces by using habit trackers.
+
+You should try to architect your space so you shape your habits, ideally you want "one space, one use", creating a separation of spaces helps you separate a separation of behaviors.
+
+Don't mix context of habits -- when you mix contexts the easier ones win out -- like waking up and doing the easiest things first. Can you really exercise with a treadmill in the living room with a TV? You can do the same for digital spaces, using different devices for different activities. Spaces for focus and relaxation, sleep etc, behaviors become easier when its easier to walk away from a space. A stable environment which has everything in place (for a proper relationships with your space) make an environment where habits can easily form. 
+
+**** Habits and Self Control
+Self discipline is not determining factor for success, success is being able to control the structures of our lives. Spending less time in tempting situations, it's easier to use self-control when you have to use it less. Creating discipline not just in energy but in time and space. Making habits easier in your environment is easier if you make the the context less friction. Further bad habits are easier to chain, too much sleep causes you to eat more, or binge watching TV makes you more lethargic and you end up sleeping more. 
+
+You can break a habit, but once it's been formed, it's easier to fall into the groove. It's easy to get tempted by the habit, so using will-power to overcome the temptation is not a good strategy. You can not stick to your positive habits in a negative environment. Reducing exposure to a bad habit is a better strategy.
+
+This is essentially the opposite of the first Law of Behavior Change. Rather then making it obvious you make it invisible. Removing cues for habits you want to eliminate from your life is a better strategy, then over-powering it with brute force will. This is the secret to self-control. 
+
+
+
+
+*** Make Habits Attractive
+**** Make Habits Irresistible
+**** People Shape your Habits
+**** Find and Fix Bad Habits
+
+*** Make Habits Easy
+**** Walk Slowly
+**** Employ Least Effort
+**** Prevent Procrastination
+**** Make Good Habit Paths less resistive
+
+*** Make it Satisfying
+**** Rule of Behavior Change
+**** Stick with Good Habits
+**** Using Accountability
+
+*** Taking Habits Further
+**** Where Talent Comes From
+**** Goldilocks Rule for Building Motivation
+**** Downsides of Good Habits
+**** Making Habits Last
+
+
+* References
+[cite:@clearAtomicHabitsTiny2018]

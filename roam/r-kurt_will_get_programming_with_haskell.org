@@ -1,0 +1,100 @@
+:PROPERTIES:
+:ID:       4C466A32-1D62-4F3D-9315-1548B7181C1F
+:ROAM_REFS: @kurtGetProgrammingHaskell2018
+:END:
+#+TITLE: Kurt, Will - Get Programming with Haskell
+
+* SCOPE Haskell Programming
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+Getting Started with Haskell Using:
+- Functions
+- Types
+- Contexts
+- Code Organization
+
+
+
+
+* Reference Notes
+All Haskell programs are compiled so you need to have a main. Simple stuff with other programs languages is harder to do in Haskell. For example I/O in Haskell is a fairly advanced topic, even ad-hoc debugging is usually impossible. Using print statements is Haskell is not the correct way to debug. However after you gain experience, you'll get to be obsessed with correctness, and work as you expect.
+
+Using the compiler for correctness, and using types to mathematically reason out programs that will work as expected. If you can guarantee correct construction at compile time, it's an efficiency increase. Writing modular code is recommended in most languages but in Haskell it's essential for writing code and troubleshooting it.
+
+** Functional Programming
+In imperative programming you provides a sequence of instruction to a computer in order to make it behave a certain way. In functional programming, you use more mathematical notions of computation to solve a problem.
+
+Let's start with a function $f$, which takes a parameter $x$ and maps it a value $y$. $$ f(x) = y $$ 
+
+Function in Haskell must three rules:
+1. All functions must take an argument
+2. All functions must return a value
+3. Every time a function is executed with the same argument, it must return the same value. (Referential Transparency)
+
+Lambda calculus represents everything as functions, true and false are functions, even all integers can be represented as functions. As everything is a function, this makes mathematics a sound model for programming. If you can mathematically prove out your abstractions, you can eliminate a whole class of bugs. You are essentially programming in mathematics, with can be proven with equal signs. Programs are safe when you expect them to behave exactly the way you reason about them. Mathematics doesn't allow you to change states of other variables, in other programming languages you can change the state of other variables, this makes it hard to reason about code.
+
+For example reverse(), this can behave differently based on different programming languages. Haskell doesn't allow side-effects, all Haskell functions only take arguments and return values. Does reverse() change the list in the variable, or does it return a reversed list or does it return None? Haskell functions leads to code that is dramatically easier to predict behavior.
+
+Haskell thinks about variables as definitions, variables in programming is to clarify your code and avoid repetition. You can't change the definition of a variable once assigned.
+
+#+begin_src haskell
+  calChange owed given = if change > 0
+    then change
+    else 0
+    where change = given - owed
+
+  calChange 20 10
+#+end_src
+
+#+RESULTS:
+
+Notice that a where clause lets you control the scope of variables.
+
+If you use the GHCi interpreter does allow you to reassign variable.
+
+** Lambda Functions, Partial Applications and Closures
+In Haskell, you can define functions without a name, call Lambda Functions. Lambda functions are the minimum possible function, they take a value and return a value, that's all. Essentiall they are used once, in a single context. Lambda function are useful but exist only for a short whiles
+
+Because Haskell is based on Lambda Calculus, there is a recurring theme that you can build up everything if you wanted. Lambda functions are an expression, a self-contained piece of code, all on its own. You can use overwrite variables using Lambda Functions.
+
+Whenever you create a new function, you create a new scope, which is the context in which the scope in which the variable is defined. You can also use Lambda Functions as arguments.
+
+#+begin_src haskell
+  ifEven f x = if even x
+    then f x
+    else x
+
+  inc n = n + 1
+  double n = n * 2
+  square n = n ** 2
+
+  ifEvenInc n = ifEven inc n
+  ifEvenTriple n = ifEven (\x -> x * 3) n 
+#+end_src
+
+#+RESULTS:
+
+You get to reuse functions that already exist and are available. You can also define functions to pass in as arguments. You can also create closures to capture the function getting passed in.
+
+#+begin_src haskell
+  genIfEven f = (\x -> ifEven f x)
+#+end_src
+
+
+** First-Class Functions
+Function in Haskell, just like in mathematics, can be passed around like other values. Function can be used as arguments and be returned as values from other functions. Having the ability to pass functions around makes it easier to perform the desired behavior.
+** Returning Functions
+Functions can also be returned from other functions.
+#+begin_src haskell
+
+#+end_src
+
+** Operator Precedence
+Functions are always evaluated first, then operators, this avoids having to use a large number of parentheses. 
+
+* 
+
+* References
+[cite:@kurtGetProgrammingHaskell2018]

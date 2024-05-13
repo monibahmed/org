@@ -5,7 +5,6 @@
 #+TITLE:  - Clash.Tutorial.Pdf
 
 * SCOPE Using Clash to Develop Hardware
-
 :PROPERTIES:
 :DRAFT:    TRUE
 :END:

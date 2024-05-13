@@ -5,10 +5,17 @@
 #+TITLE: Forte, Tiago - Building a Second Brain
 #+SEQ_TODO: CAPTURE ORGANIZE
 
-* ORGANIZE Building a Second Brain so you can Structure your Knowledge
+* CAPTURE Building a Second Brain so you can Structure your Knowledge
 :PROPERTIES:
 :DRAFT:    TRUE
 :END:
+
+
+;; Define top-downs and bottom-up approach
+Top-downs approach is to start with a goal and work backwards to the steps needed to achieve that goal. Bottom-up approach is to start with the steps and work up to the goal.
+
+;; Define the importance of structure in your digital life
+the importance of structure in your digital life is to help you organize your thoughts, ideas, and information in a way that makes it easy to find and use. Without structure, it can be difficult to keep track of everything you need to remember, and you may find yourself feeling overwhelmed by the sheer volume of information you have to deal with. By creating a structure for your digital life, you can make it easier to stay organized, focused, and productive, and you can ensure that you have everything you need at your fingertips when you need it.
 
 * Importance of Structure in Your Digital Life
 *

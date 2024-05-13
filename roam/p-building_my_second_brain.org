@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       23E6DB6D-DFA5-4EFD-879F-9473A7B3D87D
+:END:
+#+TITLE: Building My Second Brain
+
+* SCOPE Using Digital Tools can I Build a Mirror of my Brain?
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+
+* References
+[cite:@HowUseFolgezettel2023]
+[cite:@25EmotionalIntelligence2022]
+
+[cite:@ClashTutorialPdf; @bradberryEmotionalIntelligence; @digitalsNewClashFPGA2020]
