@@ -4,7 +4,7 @@
 :END:
 #+TITLE: Clear, James - Atomic Habits: Tiny Changes, Remarkable Results : An Easy & Proven Way to Build Good Habits & Break Bad Ones
 
-* SCOPE How Habits Shape our Lives
+* How Habits Shape our Lives
 :PROPERTIES:
 :DRAFT:    TRUE
 :END:
@@ -88,6 +88,7 @@ Habit building can be divided into for steps:
 
 This four step process is not something that happens occasionally, but is alive and running every moment you are alive. This process runs in parallel, meaning, multiple cues and trigger multiple cravings. To change these habits, we divide the problem into two stages, the problem phase where you realize something needs to change and the solution phase where you take action and achieve change. To change a habit, ask yourself, how can I: 
 
+|---------------------+----------------------|
 | Create a Good Habit | Break a Bad Habit    |
 |---------------------+----------------------|
 | Make it obvious     | Make it invisible    |
@@ -132,30 +133,204 @@ You can break a habit, but once it's been formed, it's easier to fall into the g
 This is essentially the opposite of the first Law of Behavior Change. Rather then making it obvious you make it invisible. Removing cues for habits you want to eliminate from your life is a better strategy, then over-powering it with brute force will. This is the secret to self-control. 
 
 
-
-
 *** Make Habits Attractive
-**** Make Habits Irresistible
-**** People Shape your Habits
-**** Find and Fix Bad Habits
+The modern food industry is a good example of this Law. Making unhealthy options attractive makes them more likely to become habits. In photos, to exaggerate features that are important to us, drive us towards excessive negative habits. If you want to increase the odds that a behavior will occur, you need to make it attractive, make them irresistible. Making habits more enticing, requires us to understand what cravings are.
 
+
+**** Make Habits Irresistible
+Dopamine in the brain indicates when a craving is occurring. If you inhibit the dopamine-releasing parts of the brain, the ability to experience pleasure still remains, but the desire dies. By inhibiting dopamine, you don't want the craving anymore, even though it would please you. Habits are a dopamine driven feedback loop. Dopamine plays a major role in motivation, learning, memory, and voluntary movement. Dopamine is not only released when you experience pleasure, but also when you anticipate it. It is the acticipation of the reward -- not the fulfillment of it -- that gets us to take action. The brain system that anticipates a reward is the same one that experiences it. This is the reason why anticipation of an experience feels better that attaining it. Your brain has more neural circuitry for wanting rewards rather than liking them /Like buying stuff.../. The wanting centers of the brain are larger then the liking centers of the brain. 100% of the brain is working towards a want, but only 10% when something is acquired and liked. With the brain allocating so much processing to wants, this proves desire drives behavior. Every action is driven by the anticipation that precedes it, a craving leads to a response.
+
+***** Temptation Bundling
+You're more likely to find a behavior attractive if you get to do your favorite things at the same time, combine the two. Temptation bundling is doing something that needs to be done combined with something you want to do. Using statement like, "After [a habit], I will [something that needs to be done], after [the the thing that needs to be done], I will [behavior I like]". 
+
+
+**** People Shape your Habits
+One of the deepest human desires is to belong, we don't choose our earliest habits, we imitate them. Society's invisible rules guide our behavior each day. And they become embedded in your mind, and become invisible. Often habits of culture, society, and other influences are followed without thinking, questioning or remembering. They sweep us along. Going along with a group take the least amount of energy. We imitate behaviors of our close ones, of crowds and of powerful people. 
+
+1. Using proximity we can make habits more attractive, the closer we are to someone, the more likely we are to imitate their habits. We imitate the qualities and practices of those around us. An effective strategy is to join a culture where your desired behavior is normal behavior. New habits become more achievable if you see them exhibited constantly. Your culture sets your expectation for what is normal, surround yourself with people who have the habits you want, and you'll rise together. Sustaining a habit is easier when you are with a tribe, it transforms a personal quest into a shared on. Your identity becomes part of something bigger. I am a musician, become we are musicians. Friendship, community and support have behaviors last over the long run.
+2. Whenever we are unsure how to act, we start looking at what everyone else is doing. It's usually a smart strategy to follow the crowd, that's why we use Yelp, Amazon Reviews and other rating systems. The evidence is in the numbers. Complying to the norms of a group often leads to acceptance of the group. We'd rather be wrong with the crowd rather then be right and all by ourselves. The human mind seeks out how to get along with others. You can go against the crowd, but it's uncomfortable, and it takes extra energy. When changing habits, fitting in with the culture make some habits attractive, and others unattractive.
+3. We are drawn towards behaviors that earn us respect, approval, admiration and status. Power opens up more opportunities, and we worry less about the mundane stuff. If a behavior gets approval or respect we are attracted to it, if a behavior lowers our status, we avoid that behavior. We are continually wondering, "What will others think of me?" and we alter our behaviors based on the answer. 
+
+**** Find and Fix Bad Habits
+To eliminate cravings, reframe each cue associated with the behavior to give it new meaning. Use statements like "You think you need [behavior to be changed], but you're not [bad behavior] because [logical reason to avoid behavior]" /Use this for nail biting/. Just change your mind about the behavior and you can probably change the habit. 
+
+Every behavior is caused by a craving, which has a deeper, underlying motive. Some motives include winning social acceptance, reducing uncertainty, achieve higher prestige and status. Others include conserving energy, connecting with others and so on. A craving is just a specific manifestation of a deeper underlying motive. At a deeper level you want to redice uncertainty and relieve anxiety, or to become socially acceptable. Looking at various products that are habit forming, you'll see an underlying human need, for example Facebook, Instagram Youtube, video games. You habits are modern day versions of old vices.
+
+However there are many ways to to address the smae underlying motive. Your current habits are not necessarily the best way to fulfill the underlying desire. You're just using methods that are easily available, and you keep coming back to them due to comfort. Everytime you perceive your brain runs a simulation about what to do next. Your simulation is based on previous experience and you find a response that worked well in the past. This all happens in a few seconds, even though life may feel reactive, it's actually more predictive /How so, you're cues and cravings are more reactive?/. Our behavior is mostly based on these predictions. These predictions lead to a feeling, a craving, and we convert those feelings to behaviors.
+
+A craving is a sense of missing, and a desire to change your internal state. Desire in the difference in state you are in now, and what you want to achieve. Even the tiniest action is motivated to feel differently then what you feel in the moment. When our emotions and feelings are impaired, we lose the ability to make decision (Ahrens, Will-Power). When ever a craving successfully addresses a motive, you develop a craving to do it again. Habits become attractive when we associate them with positive feeling.
+**** Reprogram your Brain 
+Associating hard habits with positive experiences make them more attractive. Using words or phrases like "You *get* to" versus "You /have/ to ", works to shift your mind set into a adopting a better habit. You transition from seeing these as behavior burdens to seeing them as opportunities. In reality, both versions are true and you can find evidence for any version you choose. Reframing your habits to highlight their benefits rather than drawbacks is a fast way to reprogram your mind and make habits attractive. Creating a motivation ritual, in which you simply associate the habit with something you enjoy, is a good way to adopt a hard habit. The ritual will be working, if its putting you in the correct mental state to perform that habit. 
 *** Make Habits Easy
 **** Walk Slowly
+It's easy to get bogged down trying to find the optimal plan for change, /don't plan, have a system (Ahrens)/. We get focused on what is the best approach that we never take action or enough action. Experience is a good teacher. Being in motion and taking action are two different mind-sets. Being in motion and planning, strategizing and learning are good, but don't produce results. Actionable behaviors deliver an outcome. Sometimes motion is needed to setup the initial system for producing actions, but if motion never leads to results, then its a waste. Sometimes we need to do it, to learn or process something, other times we do it because it makes us feel like we are progressing. You want to delay failure and keep up the mirage of working towards the goal. It's easy to be in motion and convince your self you're making progress.
+
+Motion makes you feel like you are getting things done, but really you're in a almost permanent preparation mode to get something done. It stays in your head and you live it through like you've done it already. Problem is, with preparation and motion, you use the same amount of energy without getting any results.
+
+If you want to master a behavior, the key is repetition not perfection. Perfection in your head is not the same as repetition that start mediocre. Mediocre repetition is deliberate practice and produces better actions. You don't need to map out every feature of a new habit, you just need to practice it.
+
+Walks slowly, and get your repetitions in, rather then standing still and planning.
+**** Time needed to form a new habit
+Behaviors become more automatic through repetition, this is called long-term potentiating. Repeating habits lead to clear physical changes in the brain, musicianship leads to physical movements, and mathematics leads to computation and calculations. Both are like muscles of the body, they adapt to regular exercising and if they are not used, they atrophy when abandoned.
+
+All behaviors follow a similar trajectory from deliberate and effortful practice to automatic behavior, where the ability to perform a certain behavior without thinking about it. This shape is in the learning curve, and the truth is that these curves are based on frequency not time. Meaning how often you do a behavior with decrease the amount of time needed to master a behavior.
+
+The question is not about how many repetitions you do, but rather the rate of repetitions. The frequency makes a difference, you need to string together enough successful attempts until the behavior is firmly embedded and the behavior become automatic. 
+
 **** Employ Least Effort
+We are motivated to be lazy and to do what is convenient. Using this to our advantage will lead to less energy usage. The human law of least effort states that when deciding between two options, you will naturally gravitate towards the option that requires the least amount of work. Every action requires a certain amount of energy, and the more energy required, the less likely it will occur. Start tracking these behaviors that fill up your life and you'll see you take the path of least resistance. Habits like scrolling, and checking emails and other constant /"in motion"/ things are done with the least amount of effort.
+
+When we want to change our behavior, we see the habit as being an obstacle to achieving what we want. The obstacles require more energy and we tend to fall back into our old habits. There is too much friction between you and your desired habits /Create systems that alleviate this/. Making behaviors really easy, will get you to do them. We are certainly capable of doing hard things, but too much hard work will cause you to give in. On tough days its crucial to have as many things working for you as possible, on normal days it's still crucial to have as many things working in your favor. Life will naturally throw challenges your way, the less friction you face, the easier it will be to face challenges that require more amounts of energy. The idea behind this is to make it easy to do, not only do easy things. 
+****  Achieve More with Less Effort
+Either you can crank up the pressure and force more water out, or remove the bends in the hose. Pumping yourself up with motivation is hard, and requires a lot of effort. Practicing environment design to make actions easier is one way. Choosing a place to practice a habit is crucial. Like Japanese cars companies, finding and removing friction will help subtract wastes effort and add value. By subtracting effort, we are saving our time and energy, so we expend less. Text messages reduce the friction of mailing something, even emailing.
+
+Priming your environment is a way to get a place ready for a habit, by "resetting the room" before finishing, allows you to easily come back to that place and revisit the behavior. /Like the TV room, or music studio/. Ideally when you walk into a room, everything should be in its right place. This little behavior at the end, reduces the friction and prevents unwanted behavior. Imagine making a change like this in every room, every wanted behavior in the room would be easy to do. 
+
 **** Prevent Procrastination
-**** Make Good Habit Paths less resistive
+You can prevent procrastination by using the two minutes rule. Researcher have shown that a habit, even though small, can shape the actions you take for minutes or hours afterwards. Habits are like highway ramps, they lead you down a path and then you just keep moving. There are key times, that usually shape a good part of the time afterwards. You check your phone for two minutes, and end up spending endlessly scrolling for twenty. You sit down to find something to watch on TV and you just end up watching trailers. You eat a snack before dinner, and then you realize you've over eaten. You habits follow you without thinking and they determine the choices you make when you are thinking.
+
+Everyday, there are a handful of moments that deliver a bigger impact, and these are decisive moments. /Look at the Good Day, Bad Day tree/. You can use decisive techniques to make options available for your future self. You options are constrained by what's available, what's easiest, they are shaped by the first choice. We are limited by where our habits lead us, each day is made up of decisive moments, and these choices stack up. Habits are a entry point to the routine, habits are not the end point, they're getting into the car, not maneuvering on the highway.
+**** The Two Minute Rule
+When you start a new habit, the entry point should take less then two minutes to execute. The idea is to make your habit as easy as possible to start. The new habit should not feel like a challenge, the actions following may be challenging, but the first two minutes should be easy. A gateway or entry point habit leads you down a productive path.
+
+To figure out your decisive moments that will lead to a productive session, you should map out your goals /Not goals, but actions/ on a scale from "very easy" to "very hard". Writing one sentence is easier, then writing one paragraph, and putting on your gym clothes is easier then doing a hard workout. /Once you get the ball rolling and the momentum going, you're on the highway/. The point is to master the habit of showing up and if you fail to show up, you can't master the finer details of what you're trying to learn. Don't engineer a perfect habit from the start, start easy on a more consistent basis. /Reading Namaz, requires a two minutes Wudhu, however leading Namaz requires more then two minutes to do .../ As you master the art of showing up, the first two minutes become part of the ritual for the larger routine. This is the ideal way to master a new skill, the more you ritualize the beginning of a process, the more likely it become that you slip into a state of deep focus that is required to create. You may not be able to automate the whole process, but you can make the first action mindless. Make it easy to start and the rest will follow. In short your habit can only last one hundred and twenty second.
+
+As you go through the routine, the secret is to stay below the point where it feels like work. This way you create a craving for next time, and look towards doing that routine. The best place to stop is when you're feeling good. This way you build up a enticing reason to start up again. Strategies like this work because they reinforce your identity and what you want to build it to. If you just show up to the gym five days in a row for even two minutes, you're reinforcing your identity. You're taking small actions that confirm your identity and the person you want to become.
+
+At some point the two minute rule will naturally scale up to your ultimate goal. Don't go for perfection in the beginning, go for consistency, Taking smaller versions of the behavior in the beginning allows you to start small and then advance to an more intermediate level and ultimately to your goal. Eventually you'll end up where you want to be, while still keeping your focus on the first two minutes.
+
+By focusing on an easy two minute ritual, you don't deplete will-power and should be able to do more. Nearly every life goad can be transformed into a two-minute ritual. I want to live a healthy life -> I need to stay in shape -> I need to exercise -> I need to change into my workout clothes /I need to sign up for a class/. I want a happy marriage -> I need to be a supportive partner -> I should do something that helps her everyday -> I should make the beds everyday 
+
+**** Make Good Habit Paths Inevitable and Bad Habits Impossible
+Sometimes success is less about making good habits easy and more about making bad habits harder. Using a commitment device locks in a choice in the present that controls your actions in the future. Commitment devices are useful because they enable you to take advantage of good intentions before you fall victim to temptation. For example, leaving your wallet at home so you don't grab fries on they way, or buying individually wrapped food, so you don't overeat. The key is to change the task such that it requires more work to get out of the good habit then to get it started. You would have to go home and grab your wallet to get fries. Commitment devices increase the odds that you'll do the right thing when the craving hits.
+
+Another way to break a bad habit is to make it impractical to do, increase the friction until you don't even have the option to act. Some action, like install a cash register, pay off over and over again. The onetime choices require a little bit of effort upfront but create increase value over time. /That's what you want your system to do, like in music./
+
+Use technology to help build systems, so you can automate the dumb stuff. When you automate your life, you spend less effort on the tasks machines can not do. Each behavior we hand over, free up our time and energy to pour into creation and growth. Technology works against us as well, binge-watching, Facebook, instagram etc take away the time you're saving. When you remove the mental candy from the environment, it becomes easier to eat the healthy stuff. Automation also saves from having to use will-power. 
+
+Commitment devices, strategic onetime decisions and technology all create an environment of inevitability. They help create a space where good habits are not just an outcome you hope for, but an outcome virtually guaranteed. 
 
 *** Make it Satisfying
+We are more likely to repeat a behavior when the experience is satisfying. This is a natural response, we want to continue behaviors that feel good. If a experience is not satisfying, then we have little reason to repeat it. The Cardinal Rule of Behavior Change is that what is rewarded is repeated and what is punished is avoided. Positive emotions cultivate habit and negative emotions destroy them. When looking to change our behaviors we must make it satisfying, we need to look for immediate satisfaction. 
+
+We used to live in a immediate-return environment, because we expect our actions to immediately lead to outcomes. You are constantly focused on the present or very near future. Modern society is a delay-return environment, finance have a delay, career has a delayed return, this is against human evolution. We wait for doctor's appointments and airline flights. The world around us is changing into a delay-return environment, but human nature has changed very litte. /is that why people get anxious when waiting?/. The way your brain evaluates rewards is inconsistent across time, you naturally value the present more then the future. A reward that is certain now, is worth more then one possibly in the future.
+
 **** Rule of Behavior Change
+Our bias towards instant gratification causes problems. The brain prioritizes immediate rewards, the consequences of bad habits are delayed while the rewards are immediate. When the brain prioritizes the present moment, you can't rely on good intentions or planning, your planning for you future self where you envision yourself in a certain way. It's easy to see the value in taking action with long-term benefits, since we all want to be a better version of ourselves. However, when the moment arrives, instant gratification wins, you choose the present you, and going against this tendency require will-power, perseverance and grit, which we all run out of. Most people know that delaying gratification is a wise approach, but in a decisive moment, this doesn't matter.
+
+The best way to make behavior change satisfying is to add a little bit of immediate pleasure to habits that pay off in the long-run, an a little bit of pain to the ones that don't. The feeling of success is a signal that your habit paid off, and the effort was worth it. We think that ideally a good habit would be a reward in itself, but only when habits feel worthwhile are they repeated. In the beginning you need a reason to stay on track, and that's why immediate rewards are needed. They keep you moving, while the delayed rewards accumulate in the background.
+
+The ending of a behavior is vital, because we remember it as it lingers. You want to the ending of your habit to be satisfying, so you come back to it. Using reinforcement, you can use the process of immediate reward to increase the rate of the behavior. Reinforcement can also help you avoid habits, you can start rewarding yourself by when you avoid habits. Like skipping tacos, while waiting for Kumon to end will get you $5 towards something bigger you want. /What do you want, is the questions.../. It is important that you select short-term rewards that reinforce your identity rather then onces that conflict with it.
+
+Eventually, when the intrinsic rewards kick in, you'll be less concerned about the immediate rewards, your identity itself will become the reinforcer. The more the habit becomes a part of your life, the more you'll end up following through. However it takes time for the evidence to accumulate and a new identity to emerge. Immediate reinforcement encourages motivation in the short term while you're waiting for long-term rewards. Habits need to be enjoyable to last, using will-power to suffer through making a habit is not the correct approach. 
+
 **** Stick with Good Habits
+Making progress is satisfying, and having visual measures provide clear evidence of your progress. As a result, you are reinforcing your behavior by adding immediate satisfaction to that behavior. Visual measurement can come in the form of journals, loyalty cards, progress bars or pages in a book. Using a habit tracker is a good way of measuring your behaviors. /After reading, you need to pull out actionable items/.
+
+A habit tracker is a siimple way to measure whether you did a habit. The most basic is a calendar where you cross off each day you stick to you routine. /Can I use this for my morning routines?/. Carrying a small booklet with your virtues in it, and tracking those day by day is useful too.
+
+Further, when you have started tracking, use the "don't break the chain" mantra to continue the habit. Be sure to do that behavior everyday and continue it. This will require the least amount of energy to keep the momentum going. When you do break the chain, record how you feel and what anxiety it has causer
+
+Continuing with habit tracking, which makes habits obvious, attractive, and satisfying.
+ 1. Habit tracking is obviously obvious, as recording your actions creates a trigger satisfaction of completion as well as can be a trigger to initiate your next one. Habit tracking keeps you honest as you can have a distorted view of you own behavior. /Spend energy on making your life better, not doing the things you want to do. Doing the things you want to do, should take no will-power or pushing, it's something you want to do... that's the goal/. Measuring is one way of keeping yourself honest, overtime the evidence is in front of you and it shows you the trend. 
+ 2. Habit tracking is attractive, as the most effective form of motivation is progress. When we see that we are moving forward, we become more motivated to continue moving. /The momentum builds up/. This can become an addictive, and effect motivation. This helps push you forward on a bad day as well. Since you can still need to fulfill the visual need to track the habit. You'll end up doing it.
+ 3. Habit Tracking is satisfying, as tracking in itself becomes the reward. It's satisfying to cross off things on your list, and watch the results grow as you track them over time.
+
+Habit tracking create visual cues that build up momentum that you don't want to lose and feel satisfying when you've physically marked it off. Many people resist the idea of tracking and measuring, /but this is how you measure progress/. It looks like your now creating two habits, one the actual habit and another the tracking itself. It's easier to say "I'll remember it...". Tracking isn't for everything, there's no need to track and measure everything in your life. However we can make tracking easier /like your weighing machine/
+
+First we can make measuring automatic, like your steps or weight, etc. Secondly, manual tracking should be for important behaviors. Tracking one habit completely is better then track 10 sporadically. Last of all, track each habit as it occurs, don't remember it, just write it down. /use a notebook to track your habits/. The dark side of tracking a habit is that we become driven by the number, rather then the purpose behind it. Once we stop tracking the habit, do we stop doing it? We want to win at every game we play, and if we optimize for measuring, then we have to keep the measuring habit up for continuing the habits we're measuring. /So is measuring a good idea?/ Measurement is only useful when it guides you and adds context to the larger picture, not when it consumes you. In our data-driven world we tend to overvalue numbers and under-value anything that is difficult to quantify.
+
+No matter how you measure your improvement, habit tracking does offer a simple way to make your habits more satisfying. Each measurement shows evidence that you're moving in the right direction. /But is measuring correct? Or should you have a system where measurement is not needed, and the work drives you/. 
+
+Now it is inevitable that life will interrupt your habits at some point. Perfection is not possible, something will happen. However when this happens use the simple rule: never miss twice. You can't be perfect, but you can avoid a second lapse./A Momin is never but twice from the same snake/. The first mistakes doesn't ruin you, missing one is an accident, its missing the second that can start a spiral. This is what distinguishes the winners and losers. Once in a while bad day shouldn't stop the whole train. When successful people fail they rebound quickly.
+
+Don't fall into a all or nothing cycle with our habits, the problem is not slipping up, but thinking that if you can't do it perfectly then you shouldn't do it at all. Even a small amount /2 minutes/ is enough to add to your identity. Just showing up on your bad days, helps you more then a loss. If you start with 100 and get a 50% gain, you end up with $150. But a 33% loss will set you back to $100. Lost days hurt you more than successful days help you. By even doing 25%, you still have gains to overcome the loss of not doing the habit /work this out.../. The main point is that a lower performance reaffirms your identity. 
+
 **** Using Accountability
+Just like we are more likely to repeat an experience when the ending is satisfying, we are also more likely to avoid an experience when the ending is painful. /Is this why music is so hard for me?/ If a failure is painful, it gets fixes /or avoided?/ The more immediate the feedback from the mistake the more you'll learn from it. When the consequences are severe, people learn quickly. We repeat bad habits because they serve us and are not painful. You can increase the speed of punishment for bad habits, there can't be a gap between action and consequence. As soon as actions incur an immediate consequence, behavior begins to change. If you do use punishment though, the strength of punishment should match the relative strength of the behavior you're trying to change. Behavior shifts with punishment only work if the punishment is painful enough and enforced. The more tangible, and immediate the consequence, the more likely it is to change the behavior.
+
+One way to add an immediate cost to any habit, is to create a habit contract. Just like laws and regulations drive our driving behaviors, and culture norms drive our social behaviors, a habit contract states yours commitment to a particular habit, and what the punishment is if you don't follow through. Then you find two accountability partners and have them sign off on the contract /really? it's private though/. However to make the habit unsatisfying, you need to make them painful in the moment. Simply having a accountability partner is useful, someone that you account for and they account for you. If you let them down, then you've broken your promise to them. As we are always trying to present our best selves to the world, and we care about the opinions of others, we can use this as a punishment. And this can work as a good driven for changing a behavior. 
 
 *** Taking Habits Further
 **** Where Talent Comes From
+The secret of maximizing success is to choose the right field of competition. Habits that align with your natural inclinations /learn about yourself/ are easier to perform and stick with. Genes can not be easily changed and are fixed, our environment determine the suitability of our genes and the utility of our natural talents. When our environment changes the qualities that determine success do so as well. This is true for physical and mental characteristics. Genes do not determine your destiny, they determine your areas of opportunity. Areas where your are like to be genetically successful are the areas that will excite you and match your skills.
+
+Your personality traits help determine where you have a likelihood of being successful. The big five traits that break down behavior are:
+- Openness to experience - are you curios and inventive, or cautious and consistent
+- Conscientiousness - organized and efficient, or spontaneous
+- Extroversion - outgoing and energetic or solitary and reserved
+- Agreeable - friend and compassionate or challenging and detached
+- Neuroticism - anxious and sensitive or confident, calm and stable
+
+The five characteristics have biological underpinnings. Our genes determine these behaviors based on the higher tendencies of different chemicals in our bodies. Our genes nudge our habits in a certain direction, and these deeply rooted tendencies towards certain behavior are easier for some people than others. Choose the habit that best suit you, not the one that is most popular. Habits need to be enjoyable, and satisfying.
+
+In theory you can enjoy almost anything, but in reality some things will come easier to you. People who seem talented tend to be more competent genetically at the task. Pick the right behavior and press will be easy, picking the wrong habit and life will be a struggle /like your current failure in music, what is the root behavior that's not aligning with you tendencies?/
+
+How do you find the right behavior? When a behavior is satisfying, its the right behavior. But how do we find the right behavior? The most common approach is to use trial and error. Life is short and you can't try all behaviors. We can use the explore and exploit trade-off technique to find the right behavior. In the beginning of a new activity there should be a period of exploration, the goal here is to try as many possibilities. After the initial exploration, shift your focus on the best solution, but keep experimenting occasionally, the proper balance depends on success. If you're successful then exploit, exploit, exploit. If your choice leads to failure, then continue exploring. The divide between exploiting and exploring should be 80/20. Getting some results is most important as it provides instant feedback whether you're successful or not. As you explore different options, there are a series of question that you can ask yourself. Like, "What feels like fun?", "What makes me lose track of time?", "Where do I get greater returns that the average person?" or "What comes naturally to me?". We all have limited time, and exploring and exploiting provides us a balance and exposes opportunities that are favorable to us.
+
 **** Goldilocks Rule for Building Motivation
+The human brain loves a challenge, but only if it is within an optimal zone of difficulty. Playing a sport with someone who is your equal would challenge you differently, then playing against a professional. The Goldilocks Rules says that the challenge that is just manageable in difficulty is the optimal challenge.
+
+The Goldilocks Rules states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard, not too easy, just right. On one side there is boredom, and on the other side their is failure. Right in the middle is the Goldilocks Zone. Keeping behaviors as easy as possible allows you to stick with them, thus challenging you just enough. Once you start a behavior, then small advancements keep you engaged. Hopefully hitting that flow state.
+
+Improvement is a delicate balance, between challenging and becoming boring or tending towards failure. Behaviors need to remain novel for them to stay attractive and satisfying. Boredom is the greatest villain on the quest for self-improvement. Successful people feel the same lack of motivation as everyone else, but the difference is they still find a way of showing up /showing up is the first step to successful behaviors/. The more practice you get the more you will master. When the outcome become expected, we get bored, and that stops satisfying us. Behaviors that provide continual novelty tend to be repeated. Variable rewards cause anticipation, video games and slot machine have variable rewards. The pace of the rewards varies. This variance leads to greater spikes of dopamine, enhances memory recall and accelerates habit formation.
+
+You need just enough winning to experience satisfaction and just enough wanting to experience a craving. 
+
 **** Downsides of Good Habits
+As you form habits, you become less sensitive to feedback and your fall into mindless repetition. It become easier to let mistakes slide, your habits may not be improving your skill, rather declining them. Master is behaviors and deliberate practice. As certain skills become automatic, more skills need to be added to achieve mastery. Narrowing your focus and deliberately practicing allows you to continue advancement.
+
+Establish a s system for reflection and review. Instant feedback is the first step, but as you plateau, taking time to reflect and review presents opportunities to improve. Without review and reflection we can make excuses and lie to ourselves. R&R allows us to determine whether we are performing better or worse. Having weekly, quarterly, yearly reviews make for continued improvement.
+
+When beliefs collide with making a new identity, behavior forming becomes harder. The tighter we cling to our identity the harder it becomes to grow. One solution is to avoid making a single aspect of your identity more prominent. You're essentially putting all your eggs in one basket. The hard and stiff will be broken, the soft and supple will prevail.
+
+Reflect and review to make sure you are choosing /the middle path/.
+
 **** Making Habits Last
+Commit to tiny, sustainable unrelenting improvement. 
+
+* Research
+** How do I increase Dopamine?
+Increasing dopamine levels can be beneficial for improving mood, motivation, and focus. Here are several strategies that can help boost dopamine naturally:
+
+Diet and Nutrition
+
+    Eat Protein-Rich Foods: Foods high in tyrosine, an amino acid that the body uses to produce dopamine, include chicken, turkey, fish, eggs, dairy, soy products, and legumes.
+    Consume Probiotics: Probiotic-rich foods like yogurt, kefir, and sauerkraut may help increase dopamine production in the gut, which is connected to the brain via the gut-brain axis.
+    Eat Bananas: Bananas are a good source of vitamin B6, which plays a role in dopamine synthesis.
+
+Lifestyle Changes
+
+    Regular Exercise: Physical activity, especially aerobic exercise, can increase dopamine levels. Activities like running, swimming, or even walking can be beneficial.
+    Get Enough Sleep: Poor sleep can reduce dopamine receptor sensitivity. Aim for 7-9 hours of quality sleep per night.
+    Practice Meditation and Mindfulness: Meditation can increase dopamine levels and improve overall mental well-being.
+    Engage in Enjoyable Activities: Hobbies and activities that you enjoy can boost dopamine production.
+
+Mental and Emotional Health
+
+    Set and Achieve Goals: Accomplishing small tasks and setting achievable goals can release dopamine.
+    Spend Time in Nature: Being outdoors and getting sunlight exposure can help increase dopamine levels.
+    Social Interaction: Positive social interactions and spending time with loved ones can boost dopamine.
+
+Supplements (Consult a healthcare professional before starting any new supplements)
+
+    Tyrosine: As a precursor to dopamine, tyrosine supplements can help increase dopamine levels.
+    Vitamin D: Adequate vitamin D levels are important for dopamine production.
+    Magnesium: Magnesium plays a role in dopamine regulation and can be taken as a supplement if needed.
+    Curcumin: Found in turmeric, curcumin can cross the blood-brain barrier and increase dopamine levels.
+
+Avoid Negative Influences
+
+    Limit Sugar Intake: Excessive sugar can lead to dopamine dysregulation.
+    Avoid Addictive Substances: Drugs, alcohol, and other addictive substances can deplete dopamine over time.
+    Manage Stress: Chronic stress can negatively affect dopamine levels, so finding effective stress management techniques is important.
+
+Implementing these strategies can help maintain healthy dopamine levels and improve overall well-being. If you have specific health concerns or conditions, it is always best to consult with a healthcare provider.
 
 
 * References
 [cite:@clearAtomicHabitsTiny2018]
+
+# Local Variables:
+# jinx-local-words: "reframe"
+# End:

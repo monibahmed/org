@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       7ED9D42C-4D0A-44A0-8FC0-1232AB830BFB
+:END:
+#+TITLE: Find Musical Workflow
+
+* Find a Musical Workflow
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+Find a DAW that does most of this:
+
+| Feature         | Ableton Live | Logic Pro      | Renoise    | Reason     | External Tools |   |
+|-----------------+--------------+----------------+------------+------------+----------------+---|
+| MIDI Sequencing | x            |                |            |            |                |   |
+| Audio Chopping  | x            |                |            |            |                |   |
+| Plugin Hosting  | x            | No VST3        | -VST3 MIDI | -VST3 MIDI |                |   |
+| Synths          |              |                |            |            |                |   |
+| Mixing          |              | +Mixer/Control |            |            |                |   |
+| Effects         |              |                |            |            |                |   |
+| Synths          |              |                |            |            |                |   |
+|                 |              |                |            |            |                |   |
+
+
+** Logic Pro X
+*** Plugin Hosting
+Quick key to show/hide plugins, but its all plugins. Can't customize based on track
+** Ableton Live
+*** Plugin Hosting
+VST3 (Full), able to browse tracks and selectively arrange plugin windows
+** Renoise
+*** Effects
+Effect hosting is track based, not instruments based, so you can have clean and effect sounds all together.
+That means, that each track is separate DSP chain. Can't affect the whole chain. This is the same thing as Live track one affected and another unaffected. But Ableton only provides audio routing, Renoise does MIDI+Audio, so you can have multiple versions trigger off of different MIDI
+
+
+* References
+

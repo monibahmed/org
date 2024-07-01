@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       4FCB11E3-1A18-4F67-9FC6-B074B475B6FC
+:ROAM_REFS: @rabbiTahsinulQuran1st
+:END:
+#+TITLE: Rabbi, Fazle - Tahsinul Quran(1st Half)
+#+OPTIONS: toc:nil
+#+LANGUAGE: en
+#+HTML_DOCTYPE: html5
+#+HTML_HEAD: <meta charset="utf-8">
+#+HTML_HEAD: <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Naskh+Arabic:wght@400;700&display=swap" rel="stylesheet">
+#+HTML_HEAD: <style>
+#+HTML_HEAD: body { font-family: 'Noto Sans', sans-serif; direction: ltr; }
+#+HTML_HEAD: .arabic { font-family: 'Noto Naskh Arabic', serif; direction: rtl; }
+#+HTML_HEAD: </style>
+
+* Huroof-e-Tahaji
+
+* Sifaat-e-Laazim
+** No Opposites
+| Sifaat Lazimah     | Description                                                                                     | Examples      |
+|--------------------+-------------------------------------------------------------------------------------------------+---------------|
+| Safir (الصفير)      | A whistling sound produced by the passage of air through a narrow opening.                      | ز, س, ص     |
+| Qalqalah (القلقلة)    | An echoing or bouncing sound produced when the letter has a sukoon (not carrying a vowel).      | ق, ط, ب, ج, د |
+| Leen (اللين)         | A soft sound produced by the letters و and ي when they are sakin and preceded by a fatha.       | و, ي          |
+| Inhiraf (الانحراف)   | A deflection or deviation in the sound direction, caused by the tongue.                         | ل, ر          |
+| Tafashshy (التفشي)  | The spreading of sound across the mouth.                                                        | ش            |
+| Istitalah (الاستطالة) | The lengthening of the sound along the tongue.                                                  | ض            |
+| Ghunna (الغنة)       | A nasal sound, present in the letters م and ن when they are pronounced with a certain emphasis. | م, ن          |
+** With Opposites
+
+| **Sifaat Lazimah**         | **Opposite Sifaat Lazimah** | **Description**                                                                                                                                   | **Examples**               |
+|----------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| **Hams (الهمس)**           | **Jahr (الجهر)**            | Hams: Whispering sound, no vocal cord vibration.<br>Jahr: Vocal cords vibrate.                                                                     | Hams: ف, ح, ث, ش, س, خ, ص, ك, ت <br>Jahr: ب, د, ج, ر, ز, ض, ط, ظ, ع, غ, ق, ل, م, ن, و, ي, أ, ء |
+| **Shiddah (الشدة)**        | **Rikhawah (الرخاوة)**      | Shiddah: Complete stoppage of sound flow.<br>Rikhawah: Continuous flow of sound.                                                                   | Shiddah: أ, ج, د, ط, ب, ك, ق, ت <br>Rikhawah: ث, ح, خ, ذ, ز, س, ش, ص, ض, غ, ف, ظ |
+| **Ist'ila (الاستعلاء)**    | **Istifal (الاستفال)**      | Ist'ila: Elevation of the tongue towards the roof of the mouth.<br>Istifal: Lowering of the tongue.                                                | Ist'ila: خ, ص, ض, غ, ط, ق, ظ <br>Istifal: The remaining letters |
+| **Itbaaq (الإطباق)**       | **Infitah (الانفتاح)**      | Itbaaq: Constriction between the tongue and the roof of the mouth.<br>Infitah: Absence of this constriction.                                       | Itbaaq: ص, ض, ط, ظ <br>Infitah: The remaining letters |
+| **Idhlaq (الإذلاق)**       | **Ismat (الإصمات)**         | Idhlaq: Pronounced quickly, typically at the tip of the tongue or lips.<br>Ismat: Articulated with more effort, typically not pronounced quickly. | Idhlaq: ف, ر, م, ن, ل, ب <br>Ismat: The remaining letters |
+| **Tafkheem (التفخيم)**     | **Tarqeeq (الترقيق)**       | Tafkheem: Heavy or thick sound.<br>Tarqeeq: Light or thin sound.                                                                                   | Tafkheem: خ, ص, ض, غ, ط, ق, ظ <br>Tarqeeq: The remaining letters |
+
+
+
+* Makharij
+| **Makharij (مخارج)**        | **Description**                                                                                  | **Examples**         |
+|-----------------------------|--------------------------------------------------------------------------------------------------|----------------------|
+| **Al-Jawf (الجوف)**         | Empty space in the mouth and throat, used for the long vowels (alif, waw, yaa).                  | ا, و, ي              |
+| **Al-Halq (الحلق)**         | Throat: divided into three parts:                                                               |                      |
+|                             | - Aqsal-Halq (أقصى الحلق): deepest part of the throat.                                          | ء, ه                 |
+|                             | - Wasat-al-Halq (وسط الحلق): middle part of the throat.                                         | ع, ح                 |
+|                             | - Adna-al-Halq (أدنى الحلق): closest part of the throat.                                        | غ, خ                 |
+| **Al-Lisan (اللسان)**       | Tongue: various parts of the tongue touching different areas of the mouth.                      |                      |
+|                             | - Aqsal-Lisan (أقصى اللسان): deepest part of the tongue.                                        | ق, ك                 |
+|                             | - Wasat-al-Lisan (وسط اللسان): middle of the tongue.                                           | ج, ش, ي              |
+|                             | - Haafat-al-Lisan (حافة اللسان): side of the tongue.                                            | ض                    |
+|                             | - Taraf-al-Lisan (طرف اللسان): tip of the tongue.                                               | ل, ن, ر              |
+|                             | - Between the tip and the sides of the tongue.                                                  | ث, ذ, ظ              |
+|                             | - Between the tip of the tongue and the upper front teeth.                                      | ت, د, ط, ز, س, ص     |
+| **Ash-Shafatain (الشفتان)** | Lips:                                                                                           |                      |
+|                             | - Inner part of both lips touching each other.                                                  | ب                    |
+|                             | - Inner part of the bottom lip touching the edges of the top front teeth.                       | ف                    |
+|                             | - Outer part of both lips touching each other.                                                  | م, و                 |
+| **Al-Khayshum (الخيشوم)**   | Nasal cavity, producing the nasal sounds.                                                       | Ghunnah (غنة): م, ن  |
+* Maddat
+| **Type of Madd**              | **Description**                                                                                                                                      | **Example**                    | **Length**            |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----------------------|
+| **Madd Asli (مد أصلي)**       | Natural elongation where a letter of Madd (ا, و, ي) is not followed by a Hamzah (ء) or a Sukoon (ْ). Also known as Madd Tabee'ee (مد طبيعي).           | قال, يقول, قيل                 | 2 counts (حركات)      |
+| **Madd Badl (مد بدل)**        | A Hamzah (ء) followed by a letter of Madd (ا, و, ي).                                                                                                  | آمن, إيمان, أوتوا              | 2 counts (حركات)      |
+| **Madd 'Ewad (مد عوض)**       | Replacement elongation applied at the end of a word when a Tanween Fathah (ــًـ) is followed by a stop.                                               | كتابًا                         | 2 counts (حركات)      |
+| **Madd 'Aridh Lis-Sukoon (مد عارض للسكون)** | Temporary elongation due to a Sukoon caused by stopping at the end of a word.                                                                  | العالمينْ                      | 2, 4, or 6 counts     |
+| **Madd Laazim (مد لازم)**     | Mandatory elongation when a letter of Madd is followed by a permanent Sukoon, divided into Kalimee and Harfee:                                        |                                  |                       |
+| - Kalimee Muthaqqal           | A letter of Madd followed by a consonant with Shaddah (ّ) within a word.                                                                              | الطآمّة                        | 6 counts (حركات)      |
+| - Kalimee Mukhaffaf           | A letter of Madd followed by a non-Shaddah consonant within a word.                                                                                   | آلآن                           | 6 counts (حركات)      |
+| - Harfee Muthaqqal            | A letter of Madd followed by a consonant with Shaddah (ّ) within a disjointed letter at the beginning of some Surahs.                                  | الم (in the start of Surahs)   | 6 counts (حركات)      |
+| - Harfee Mukhaffaf            | A letter of Madd followed by a non-Shaddah consonant within a disjointed letter at the beginning of some Surahs.                                       | ص, ق                           | 6 counts (حركات)      |
+| **Madd Munfasil (مد منفصل)**  | A letter of Madd at the end of a word followed by a Hamzah (ء) at the beginning of the next word.                                                     | في أنفسكم                     | 2, 4, or 5 counts     |
+| **Madd Muttasil (مد متصل)**   | A letter of Madd followed by a Hamzah (ء) within the same word.                                                                                       | السمآء                         | 4 or 5 counts         |
+| **Madd Farq (مد الفرق)**      | Occurs in words where a Hamzah is followed by another Hamzah separated by a Madd letter (used to distinguish between different meanings).             | ءآلذكرين, ءآلله                | 6 counts (حركات)      |
+| **Madd Leen (مد لين)**        | A Yaa or Waw Sakinah preceded by a letter with a Fathah.                                                                                            | خوف, بيت                       | 2, 4, or 6 counts     |
+* Notes
+In Arabic phonetics, the tongue plays a crucial role in the articulation of many sounds. The **Makharij (مخارج)** or articulation points of the tongue are categorized into specific areas. There are a total of **ten specific articulation points** on the tongue, which can be grouped into four main regions. Here are the details:
+
+** 1. Aqsal-Lisan (أقصى اللسان) - Deepest part of the tongue
+- **Qaaf (ق)**: The deepest part of the tongue touching the soft palate.
+- **Kaaf (ك)**: Slightly in front of the Qaaf, the deepest part of the tongue touching the hard palate.
+
+** 2. Wasat-al-Lisan (وسط اللسان) - Middle of the tongue
+- **Jeem (ج)**: The middle part of the tongue touching the hard palate.
+- **Sheen (ش)**: The middle part of the tongue touching the hard palate.
+- **Yaa (ي)**: The middle part of the tongue touching the hard palate (when it is not a vowel).
+
+** 3. Haafat-al-Lisan (حافة اللسان) - Side of the tongue
+- **Daad (ض)**: The sides of the tongue touching the upper molars.
+
+** 4. Taraf-al-Lisan (طرف اللسان) - Tip of the tongue
+- **Laam (ل)**: The tip of the tongue touching the area slightly behind the upper front teeth.
+- **Noon (ن)**: The tip of the tongue touching the area slightly behind the upper front teeth.
+- **Raa (ر)**: The tip of the tongue touching the area slightly behind the upper front teeth.
+- **Between the tip and the sides of the tongue**:
+  - **Thaa (ث)**: The tip of the tongue touching the edges of the upper front teeth.
+  - **Dhaal (ذ)**: The tip of the tongue touching the edges of the upper front teeth.
+  - **Zhaa (ظ)**: The tip of the tongue touching the edges of the upper front teeth.
+- **Between the tip of the tongue and the upper front teeth**:
+  - **Taa (ت)**: The tip of the tongue touching the upper front teeth.
+  - **Daal (د)**: The tip of the tongue touching the upper front teeth.
+  - **Taa (ط)**: The tip of the tongue touching the upper front teeth.
+  - **Zay (ز)**: The tip of the tongue touching the upper front teeth.
+  - **Seen (س)**: The tip of the tongue touching the upper front teeth.
+  - **Saad (ص)**: The tip of the tongue touching the upper front teeth.
+** Another View
+Certainly! Here’s an updated table including more detailed characteristics of Arabic letters, covering **Shiddah (شدة)**, **Tawassut (توسط)**, **Rikhawah (رخاوة)**, **Jahr (جهر)**, **Hams (همس)**, as well as **Isti'laa (استعلاء)**, **Istifaal (استفال)**, **Itbaaq (اطباق)**, **Infitaah (انفتاح)**, **Idhlaaq (إذلاق)**, **Ismaat (اصمات)**, **Qalqalah (قلقلة)**, **Leen (لين)**, **Inhiraaf (انحراف)**, **Tafashshy (تفشي)**, **Istitaalah (استطالة)**, **Ghunnah (غنة)**, and **Takreem (تكرير)**.
+
+### Comprehensive Characteristics of Arabic Letters
+
+| Characteristic         | Definition                                                                                             | Letters                                                                |
+|------------------------+--------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------|
+| **Shiddah (شدة)**      | Strength; letters with complete stoppage of airflow, creating a "strong" sound.                        | أ, ب, ت, ج, د, ق, ك, ط                                                 |
+| **Tawassut (توسط)**    | Intermediateness; letters with partial stoppage of airflow, creating a "moderate" sound.               | ل, ن, ع, م, ر                                                          |
+| **Rikhawah (رخاوة)**    | Softness; letters with continuous airflow, creating a "soft" sound.                                    | ث, ح, خ, ذ, ز, س, ش, ص, ض, ظ, غ, ف, هـ, و, ي (when not a vowel)      |
+| **Jahr (جهر)**         | Voicing; letters pronounced with vocal cord vibration, creating a "strong" sound.                      | أ, ب, ج, د, ذ, ر, ز, ض, ط, ظ, ع, غ, ق, ل, م, ن, و, ي (when not a vowel) |
+| **Hams (همس)**        | Whispering; letters pronounced with airflow and minimal vocal cord vibration, creating a "soft" sound. | ف, ح, ث, هـ, ش, خ, ص, س, ك, ت                                        |
+| **Isti'laa (استعلاء)**   | Elevation; letters pronounced with the back of the tongue raised towards the roof of the mouth.        | خ, ص, ض, غ, ط, ق, ظ                                                  |
+| **Istifaal (استفال)**   | Lowering; letters pronounced with the tongue lowered.                                                  | All letters not in Isti'laa                                            |
+| **Itbaaq (اطباق)**      | Covering; letters pronounced with the tongue making full contact with the roof of the mouth.           | ص, ض, ط, ظ                                                           |
+| **Infitaah (انفتاح)**    | Separation; letters pronounced without full contact between the tongue and the roof of the mouth.      | All letters not in Itbaaq                                              |
+| **Idhlaaq (إذلاق)**     | Fluency; letters pronounced with ease and fluency.                                                     | ف, ر, م, ن, ل, ب                                                       |
+| **Ismaat (اصمات)**     | Restraint; letters pronounced with some degree of effort or restraint.                                 | All letters not in Idhlaaq                                             |
+| **Qalqalah (قلقلة)**     | Echoing; letters that produce an echo-like sound when pronounced with Sukoon (silence).                | ق, ط, ب, ج, د                                                          |
+| **Leen (لين)**          | Softness; letters pronounced with ease when preceded by a Fatha.                                       | و, ي                                                                   |
+| **Inhiraaf (انحراف)**   | Deviation; letters pronounced with a deviation or turning.                                             | ل, ر                                                                   |
+| **Tafashshy (تفشي)**   | Spreading; letters pronounced with the sound spreading in the mouth.                                   | ش                                                                     |
+| **Istitaalah (استطالة)** | Lengthening; a letter pronounced with lengthening along the tongue.                                    | ض                                                                     |
+| **Ghunnah (غنة)**       | Nasal; letters pronounced with nasalization.                                                           | م, ن                                                                   |
+| **Takreem (تكرير)**     | Repetition; a letter pronounced with a slight rolling or repetition.                                   | ر                                                                      |
+
+This comprehensive table includes a broad range of characteristics along with the associated Arabic letters, providing a detailed overview of their phonetic properties.
+** Summary:
+The tongue has ten specific Makharij (articulation points) that are grouped into four main regions, each contributing to the pronunciation of different Arabic letters.
+
+
+* References
+[cite:@rabbiTahsinulQuran1st]
