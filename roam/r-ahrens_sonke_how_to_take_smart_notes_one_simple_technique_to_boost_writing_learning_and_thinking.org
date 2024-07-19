@@ -4,26 +4,434 @@
 :END:
 #+TITLE: Ahrens, Sönke - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking
 
-* SCOPE Taking Smart Notes is Writing, and Writing is all Matters
-:PROPERTIES:
-:DRAFT:    TRUE
-:END:
+* Why do we Write?
 
-- Writing is all that matters
-- Writing is a dynamic process not a linear one
-- Dynamic processes need simpler structures and flows
-- A system must allow for multiple dynamic processes to run in parallel
-- Build a note taking system with automatic elaboration, reflection and review
+Everybody writes, and writing plays a central role in learning, studying and research. Writing takes a role in our every day life, in the Quran its write "Qalam". If writing is so important, then why do we struggle with it? It creates anxiety when we have to write a speech, or a letter or even an email.
 
-** Structure of Note Taking
-- Top-Down and Bottoms-Up approach
-- Collect notes for long-term and show relationships
-  
-** Workflow of Note Taking  
-- Establish a positive feedback loop
-- Enable parallel processing of multiple resources
+Writing is not just about style, structure or citing correctly, nor is it about getting past psychological hurdles, and will-powering it. Failure in writing is a result of failure in organizing your notes.
+
+However if we take notes systematically, we won't have pressures during deadlines or make mistakes. Taking notes, or writing should provide immediate feedback on the topic under discussion, and if we've understood it or not.
+
+The question is why should we stare at a blank page, when we have to write about a topic, what can we do different now, so that in the future when we have to write going from a blank page to a finished paper will be more relaxed and fluent. Writing does not start with a blank page, and the key to successful writing is preparation. The most important indicator to success is not intelligence, but what they do in there everyday work.
+
+What makes a significant difference is how much self-discipline and self-control one uses to approach writing. And this is not easy to with willpower alone. We need a system (Atomic Habits), that does not rely on will power alone, which is a resource that depletes quickly and doesn't leave room for improvement in the loing term.
+
+We can make it easier to overpower our lack of our discipline and control by creating an environment that makes the process interesting, meaningful and well-defined. Have a meaningful and well-defined task beats will power everytime. It not about having willpower, but not having to use willpower to set yourself up for success.
+
+*  What is writing?
+Writing is the medium in which ideas are conveyed. Medium comes in multiple forms, videos, talks, lectures, and of course books. But it all starts with writing. If the information coming in is scattered and decentralized, then why do we take so much time to categorize and structure it into topics ir some other ordering?
+
+Writing requires a overarching workflow, using tools of note taking to not force yourself to do anything you don't feel like. Writing requires a good structure or workflow that allows you to seamlessly move from one task to another. It also relieves you from the burden of remembering and keeping track of everything, so you stop holding everything in your head and focus on what is important. By breaking down amorphous tasks into smaller and clearly separated tasks, you can focus on one at a time, and complete it.
+
+A good structure enables flow. the state in which you get so completely immersed in your work that you lose track of time and can just keep going as the work becomes effortless. This helps us get over procrastination and stay motivated. The problem is not about finding interesting topics or tasks, its about problematic workflows that take charge of us and we lose control (Newport).
+
+Having a clear structure is also completely different from making plans about something. Plans are good for closed-tasks, but for open-ended tasks, they create unnecessary pressure when we have to adjust our steps because of certain insights. When we veer off-track we have a nagging feeling in the back of our head, that tells us, but we want to follow the thread of insight we've just found. To keep going with the plan, you have to utilize willpower.
+
+It is a misunderstanding that the only alternative to planning is aimless direction. The challenge is to structure the workflow in a that insights and new ideas become the driving force that push us forward, not the plan or to-do list. The structure allows us to flows and the insight pushes us along.
+
+After implementing a system, you should be able to peek over you own discipline and access a pool of ever-increasing information, that allow you to combine different ideas in intelligent ways with the aim of generating new ideas (Newport, spaces). You shouldn't stay within the boundaries of a particular topic or become over-confident and get caught up in confirmation bias. *Research Imposter Syndrome and "Fake it til you make it".* Insights don't come easy and writing is not only for proclaiming opinions, but writing is actually the main tool to discover insights worth sharing.  
+
+Writing is the best facilitator for thinking reading learning and generating news ideas. Notes build up while you do these activities. Writing allows you to build up extensive ideas, if we write it down we understand it better. 
 
 
+# 1a - What is a Good System for Better Writing?
+
+Complex systems are hard to use, a system that is not being utilized is a clear indicator to an inefficient system. A system should be able to allow you to organize, connect and generate new ideas. Complexity is an issue to implementing a usable system. The best way to deal with complexity is to keep things as simple as possible. The simplicity of a structure allows complexity to build up.
+
+A simple system needs almost no preparation time, and starts working right away. To implement a efficient system we need to implement two well proven ideas. The first idea is to form a structure, in this case a Slip-Box. The second idea is to build habits around using that structure. You'll be tempted to be drawn back to your old ways, and the system may seem unnecessary. The new way may seem artificial and not intuitive. This is normal, it will feel natural as you push a larger volume of work through it. Routines are a part of the interlocked process between structure and work flow. Trusting your system will take time and habit.
+
+Writing aims at generating insight, but is never a linear process. Allen's GTD provides a holistic perspective that is the key to organization, but it does not define open-ended objective, where the insight it not clear and the next steps are not known. Making a connection between ideas and the dynamic response of those are not a given.
+
+A more holistic perspective would be to organize ideas as they come in, and know that everything is taken care of. Neglected bits will often nag us until they become urgent.
+
+When it comes to writing, all steps must be linked in a way that enables us to go seamlessly from one task to another, but still be separate enough to allow us the flexibility to explore what needs to be explored in a certain situation. Only if you trust your system (Allen), will your brain be like water. This is why we need a writing system that is comprehensive as GTD but open-ended to allow exploration.
+
+# 2 - What do you need to do?
+
+Imagine you have a rough draft that is already fully developed, all that is needed is editing which is as focused well defined task. Something that could take as few days
+
+Now imagine you have to generate a rough draft, it would make it a lot easier if you had fully developed ideas, arguments, quotes, pages and references in front of you. All you have to do is focus on turning the string arguments into a text. As you spot missing argument you can fill them in. You also have the flexibility to add and rearrange to make your arguments more concrete. This toorequires a as different kind of focus but not to the level that learning a new text. \
+\
+The goal of smart notes is exactly this, assemble notes and bring them into order, turn the notes into drafts, review it and publish. Turning your connected notes into linear text. So writing your notes is the main work, reading and conveying that reading to your thoughts is the main work. All you have to do is have your pen in your hand while you read. Writing accompanies the main work. \
+\
+\
+Take fleeting notes, that capture every idea that pops into mind. They serve a a reminder of what is in your head. They all go to the inbox and are processed later. A simple Notebook or your phone or anything really can serve as a place to capture them. \
+\
+Take literature notes, whenever you read something makes notes about the content. Make a relationship with the material and connect it to your own thinking and writing. Be precise, selective and your own words. Keep these with your references in your reference system  
+
+Take permanent notes in your slip-box everyday and think how they connect with your own research, thinking and ideas. Looking at your slip box, develop the ideas not just collect them. Does this information contradict, correct, support or add to what you already have in your slip box? Can you combine idea to generate new ideas? Are there more questions that need answering?
+
+Use exactly one more for each idea using complete sentences, disclose your sources using references, and be precise and clear as possible. 
+
+Adding notes to your slip box by filing them behind one or more related notes, adding links to the related notes. Index and search the notes so you can find entry points to certain topics. 
+
+Develop your topics, questions and research projects from the bottom up from with your slip box. If there is something missing, read more to challenge, strengthen, change and develop your arguments. Flow your interests to generate more insight. Don’t brainstorm look into the slip box and see where chains are doing and write about those. Don’t cling to ideas (avoid bias) and write about more promising ideas. The more you read and the more you think the more notes you’ll collect and generate new ideas and questions. It’ll be likely that your interest has changed and that’s what insight and as dynamic system does. 
+
+Aftersomeone you’ll have developed ideas far enough to decide on a topic to write about, with will be based on what you have, not on a unfounded hunch or feeling. Copy the ideas into an outline and bring them into order. If you see missing links go back to reading and not taking to improve your arguments and their structure. 
+
+Turn your notes into a rough draft, transform your notes into simmering coherent and embed in the context of your arguments. Detect holes in your arguments and research those. Edit and proofread your draft  
+
+ 
+
+This is as parallel system, you never work in just one idea. As we keep many questions in our minds, we can develop multiple ideas at the same time. Chances are this will affect not only your writing, but also your intellectual growth. You may read papers that seem writing, but they might still contain some interesting thoughts that are with keeping for the future. Probability is low that the information you need will present it self, so capture your notes for the future (Tiago). Don’t let them go to waste. 
+
+A typical work will consist of reading, taking notes and building connections, which will spark new ideas. You should read what is necessary for the work you are doing, but you will still encounter a lot of other ideas, accidental encounters make up the much of what we learn. Each added bit of information is as contribution to our future understanding. Follow different lines of thoughts at the same time. If you get stuck focus on another ideas and wait until you see how to proceed further. It is helpful to interleave thoughts together as this provides flexibility and you don’t have to start over again. 
+
+
+
+# 2a - Luhmann's Goals:
+
+Luhmann realized that his note taking was not effective, and that notes not only existed in one context but also in other contexts. He realized that his collection notes were greater then the sum of their parts. As he worked through is Slip-Box he was constantly generating more ideas than he was able to write about. Even hard work became fun, because the system aligned with his intrinsic goals and he felt in control. The best way to maintain the feeling of being in control is to stay in control.
+
+The nature of writing is insight-oriented, and the questions change are material turns out to be very different from what we imagined it or new ideas emerge, which might change the perspective of what we do.
+
+Luhmann focused on the important things in front of him, and was quickly able to pick up where he left off and stay in control of the process, because the structure allowed him to do so.
+
+We too need to work in a system that is flexible enogh to accomodate our work rhythm and lessen resistance so we can avoid using will-power. The right workflow allows us to move freely and flexibly between different tasks and levels of thinking.
+
+You need an external system, because if you don't have a place to organize your thoughts, ideas or collected facts, or have an idea of how to embed it in your daily routines, that higher intelligence will not allow you to compensate for.
+
+This is a simple idea and people do not expect much from simple ideas, but that simple ideas are where complex ideas take form.
+
+# 2b - The Slip-Box:
+
+There are two slip-boxes, one for bibliographical references, which contained the references and brief notes on the content of the literature *(this could be Zotero for me, but…).* A main slip-box which in which you collect and generate ideas, mainly in response to what you read.
+
+Whenever you read something you write the brief note against the bibliographic reference. Then shortly afterwards, take a look at your brief notes and think about the relevance for your own thinking and writing. Then write these ideas in the main slip-box.
+
+Write down your ideas, comments and thoughts on a new card, using only one card for each idea. The idea would be a complete thought using complete sentences, and linked back to the reference. Write towards existing notes in the slip-box.
+
+Keep reference notes brief, but use full sentences and explicit references to literature notes from where you're drawing material from. Don't just copy from one to another, but transition from one context to another.
+
+When ever you add a note, check the slip-box for other relevant notes and make possible connections between them. This way you develop your ideas from the bottom up. The last element is to making the Slip-Box index able and searchable.
+
+We need a reliable and simple external structure to think in that compensates for the limitation of our brains. (Tiago)
+
+# 3 - Everything you need to have
+
+# The Tools you will need
+
+Focus on the essentials that you will need, and don’t complicate things unnecessarily. Avoid getting clogged with unnecessary distractions and complicating your workflow. With a complicated system, when things don’t work with the arrangement it becomes difficult to get anything done.
+
+In a complicated system, when you stumble upon an idea and think it mught connect to something else, you get caught up in the which of the different pieces of a complicated system you should utilize. Where did you save something, and which idea are you looking for? Every little step turns into a chore and you lose momentum. Be careful about adding new techniques because they’ll disrupt the momentum. In short keep it simpler, so you have to think less about it.
+
+The slip box is not a technique, but the over-arching workflow, that is stripped away from distractions. The slip-box provides an external scaffolding in which to hold your ideas. Good tools do not add features, but reduce distractions from the main work, which for us is thinking. The main objective of the slip-box is to help with tasks that your brain is not good at, like storing, organizing and accessing a big chunk of information.
+
+To have an undistracted mind to think with and a reliable collection of notes to think in, is all we need. Everything else is clutter.
+
+You need:
+- Pen and Paper
+- Reference manager
+- Slip-box
+- Editor
+
+You need something to capture your ideas, something that should not require you multiple steps to write it down. The are meant to be temporarily. Everything should end up in a single place, a central inbox.
+
+A reference system has two purposes: to collect your references and takes notes during your reading. You should have the ability to add notes to each reference entry.
+
+The slip-box is where the the linking and referencing will be done. This will be your second brain for making connections and generating ideas.
+
+The editor is where your writing for projects will happen.
+
+# 4 - A Few Things to Keep in Mind
+
+Getting and setting up the tools should not take you more than 5-10 minutes, because of their simplicity. Tools are only as good as your ability to work with them. We need to put thought into the tools we use, so we avoid making a graveyard for our notes.
+
+The slip-box works, and modern psychological insights about learning, creativity and thinking are showing us why it works.
+
+
+
+# 5 - Writing is the only thing that matters
+
+For students, *how they learn in school… In school the answers are in the back of the book.*
+
+Studying is the research and nobody starts from scratch. Studying is about gaining insight that cannot be anticipated and will be shared, knowledge is not private. If writing is the medium of research and studying nothing else than research, then only writing counts.
+
+You do not read less, because its the main source of material. You still continue to do the same things as before But you do it differently now, with a tangible purpose that you should learn. You quickly learn to distinguish good-sounding arguments from actual good one.
+
+Since writing is the medium of studying, there is no reason to not write, and treat writing as the only thing that counts.
+
+Reading becomes focused as well, you know you can not write everything down and if you can’t rephrase what you have written, then feedback is provided that you don’t understand it. You have to turn it into something new deliberately.
+
+Deliberate practice is the only serious way of becoming better at we we do. Focusing on writing will improve your reading, thinking, and other intellectual skills just by focusing on writing.
+
+
+# 6 - Simplicity is Paramount
+
+Big transformations do not start with and equally big idea. Simplicity builds up complexity, and a big transformation happens with small ideas. When we try to integrate a new technique without changing the structure and routine, we end up failing. We fail to see the perspective that makes the technique useful in which situation.
+
+When we align the technique to the perspective, then advantages become apparent, and second-order effects come into play. These second-order effects contribute to a self-enforcing positive feedback loop.
+
+Working towards how a piece of information in an immediate sense leaves you with a lot of disconnected note, and you are forced to remember the connection when you tr to recall them. Then you resort to brainstorming, looking internally to come up with ideas. Under this system you organize by topic and topics are placed in different structures.
+
+In ZKM, you don’t store information based on categories, but rather the context where you would like to stumble upon them again (Tiago). Rather then placing them in chronological order, like a scientific notebook, you transform the into your ZKM to make them connect based on context. Every note is standardized into the same format and stored in the same structure. The use of these notes are for insight and expression.
+
+The slip box grows that more notes you add into it and thus increasing in value. As each note adds mass and adds connections to the slip box. The slip box is organized from the bottom up, taking the question into account. To achieve critical mass, the quality of the different type of notes are distinguished,  
+
+1. Fleeting notes -- are only reminders and trashed once processed
+2. Permanent notes -- never thrown away, and stored in the same format in the same structure
+3. Literature notes -- never thrown away, and end up with the reference
+4. Project notes -- relevant to the project, archive with the project.
+
+Keeping these three categories separate, allow you to build critical mass of the slip box. Using a standardized format allows you to facilitate your thinking by removing complications in remembering the variety of storage option and connection decisions.
+
+When you only keep chronological notes, they become harder to review when needed, as your brain needs to remember what you were doing in that time frame. Your brain now has to store certain time stamps to remember your connection to the notes. An example of this is multiple notebook that get filled up as you go about you days.
+
+Another way to keep notes is by project. When you repeat projects, you get a new set of notes, and have to start over. Your brain still has to retain the knowledge of what you did “on the previous” project. You’re brain is now responsible for linking projects and information together. When you start projects, there’s no guarantee that you’ll end up finishing, so you may have a bunch of unfinished projects, now all with scattered.
+
+The third way, is to treat every note as fleeting, and never processing it. You brain must now remember everything, and you are left with a bunch of unprocessed paper that is easier to just throw away, rather then go through the stack.
+
+The major disadvantage of all these techniques, is that it become more unmanageable as the number of notes increase. As you reflect on the different types of notes you write, you realize for how long they are useful.
+
+1. Fleeting notes are only useful with a day or two, you still have a chance of remembering.
+2. Permanent notes are useful for as long as you have your ZKM, so they must be written in a way that you can understand in the future.
+3. Literature notes remind you of your thinking as you were reading the text, they provide you a connection with the text in the future
+4. Project notes carry with the project and archive with the project. Any useful information is stored permanently within ZKM.
+
+Every permanent notes has the potential to become part of something bigger as a publication. These notes do not act as a reminder of a thought or idea, they are the close to written form for publication.
+
+
+# 7 - Nobody Ever Starts from Scratch
+
+The  process of writing doesn't start from a blank page, the decision of the topic shouldn't be the first step, one must already have put some thought into the topic they want to write about. Writing is not a linear process, one must already have read something, and not just about that one topic. The connections and insights **you** gain are what you want to write about.
+
+All intellectual endeavors start from an already existing preconception, which then transformed further and is the starting point of other intellectual endeavors. Writing however still continues to be thought of as a linear process, and that we start from scratch and move forward in a straight line. You really shouldn't have to decide what you're writing about before you start writing.
+
+Making a sound plan to write about a topic is banal, because you still have to force yourself to learn about that topic and then your plan requires you to stick to it and finish that topic. However if you work towards your own intellectual development, topics or questions, you will find the question emerge out of the slip-box and you'll see a list of possible topics to write about. We literally never have to start from scratch again.
+
+Even those who believe they have to start from scratch, really don't, since they too are drawing on an experience. If writing is not accompanied by any previous work, this endeavor becomes something completely new, which is risky, or they have to re-find their notes, which is boring.
+
+Brainstorming is not the origin of most ideas, ideas don't come from inside your brain. They are triggered from the outside, through reading and having discussions. The advice to think about what to write about is either too late, since you've already lost the chance to build up the resources and choose a good topic, or too early if you decide to postpone any content related work until you have chosen a topic.
+
+If you develop your thinking in writing, open question become clearly visible, and give you a broad range of topics to write about. Trying to squeeze a non-linear process into a linear workflow doesn't allow for freedom and dynamic work flows. However what if the workflow is too dynamic?
+
+Analogy is like investing when you are 65 years old, it may be too late to compound the gains over such a short time frame. But if you start building up your ideas and start seeing the clusters earlier, you'll compound for a longer time. If you chose a topic and then it's uninteresting, then you'll lose capitalizing on that interest. As you build up your clusters, you have the ability to make informed decisions of where you should invest in.
+
+A reliable, non-linear, parallel, dynamic structure is paramount to good writing.
+
+
+# 8 - Let the Work Carry you Forward
+
+A good workflow should be like a endergonic reaction, where once the reaction is started, is continues by itself, releasing energy. The dynamics of a good workflow is exactly this. It shouldn't drain our energy.
+
+A good workflow turns into a virtuous circle, that you want to keep coming back to. We shouldn't try to trick ourselves with external rewards, the circle of work and feedback should be enough. Create a satisfying, repeatable experience.
+
+Feedback loops are crucial for the dynamics of motivation and learning process. If we keep motivated, we improve. Seeking feedback is a virtue of someone who wants to grow (growth mindset). Someone who has a fixed mindset, doesn't want to hurt their self image with negative feedback. Further, those who receive a lot of praise, quickly fall behind in performance. Embracing a growth mindset means getting pleasure out of changing and getting better. Fear of failure is called Kakorrhaphiophobia.
+
+A learning system with build in feedback loops is important, and getting quick feedback is crucial to learning. Feynman would try to understand something to a point, where he would lecture on it. Implement many feedback loops, so that you improve as you work.
+
+Reading with a pen in hand, forces us to think about what we read, but it's not enough. We still have to clearly express our understanding, for this system, this is going from fleeting notes, to reference notes. The ability to express understanding in our own words tests our understanding. As we build multiple feedback loops, we will get into that virtuous circle of understanding.
+
+When we go to permanent notes, we get feedback as we try to combine notes. The system shows us contradictions, inconsistencies, and repetitions. There are always there. The slip-box is not a collection of notes, but a system of letting ideas interact.
+
+The slip-box is not just a collection of notes, its a way to establish and see interactions, rather than isolated facts. They notes hang together in a network of ideas. Allowing for easy access of not just notes, but also the interactions.
+
+Our brain and slip-box are in lockstep, unlike a wiki, where the structure is already shown. Building up the structure is part of the learning process.  
+
+
+# 9 - Separate Interlocking Tasks
+
+## 9.1 Giving Each Task Your Undivided Attention
+
+Constant interruptions cut out productivity by at least 40%, and makes us dumber. If what you’re doing gets constantly interrupted you’ll end up making mistakes that may become apparent. This inculcates an attention deficit problem, it’s been proven that watching TV reduces our attention span, further TV soundbites have been reducing in time over the years. *This constant changing may make us feel tired and stressed after watching TV rather than relaxed and refreshed. Especially since we were looking forward to doing it.*
+
+We are surrounded by things wanting to grab our attention, and we are offered less opportunities to train our attention spans. We naturally take to multitasking. Multitasking is trying to look at more than one thing at a time. Multitasking feels more productive, but productivity actually decreases. An extreme case of texting and driving cause fatal accidents and losing work productivity due to constant email checking.  Multitasking actually impairs our ability to deal with more then one thing at a time, since multiple things are grabbing our attention.
+
+## 9.2 Multitasking
+
+Should we expect to become good at something if we don’t focus on it? Can we become good at multitasking? Every shift in tasks we make is a drain on our ability to shift (we only have a limited number of shifts we can do). This shifting impeded our ability to fully getting into focus for the task at hand, we do feel more competent because we get familiar with the task, but familiarity is not the same as skill.
+
+Good writing requires sustained attention on reading, understanding and reflection. Elaboration, generating ideas and making connections between what we’ve read requires attention. Distinguishing concepts, writing, structuring, organizing, editing, correcting, and reviewing all require sustained attention. *There is a flow in here.*
+
+Does focused attention require will-power to sustain? We don’t necessarily need focused attention, but rather sustained attention -- we are distracted by things that sparkle -- avoiding multitasking is to practice sustained attention. Using a space that enables sustained attention is critical. *A good space will help you by removing attraction (Habits, Clear)*
+
+## 9.3 Attention
+
+Different tasks require different kinds of attention -- each requiring a different state of mind. Using distance to switch attention on tasks allows for different characters to not interfere with each other. Don’t let the critic interfere in the creation process, where we need to get our idea down first. Only then can the critic viewpoint actually improve upon them -- or else we’ll always be in our heads, the different characters fighting each other. That makes it hard for completing everything in your head.
+
+Dividing each task and creating a different mindset is required to improve. Anything working working on requires a not only requires a wide spectrum of attention -- sustained attention, but also an alternation between focus and playfulness. *Is this sustained attention?* An external structure is required for us to be flexible, allowing for quick reactions to account for feedback. We don’t want to be stuck on train tracks, rather we should be able to account for the traffic and take a different route.
+
+What to do next depends on the outcome of the previous task (Euler’s Equation), this requires the ability to shift, a dynamic process not a static, linear one. *Looking for linear processes on how to complete tasks is inefficient and makes for undue stress.*
+
+## 9.4 Planning
+
+When you plan, you’re creating a linear process. Become too analytically involved in planning rationally impedes improvements to performance. The moment we stop making plans, is the moment we start to learn. It takes practice to become good at something -- deliberate practice to know how to react dynamically. Like taking the training wheels off your bike. Following linear steps laid out by teachers, self-help books and such, avoids the practice of dynamically moving and avoids conscience decision making. Both of which are part of deliberate practice. Intuition leads to mastery and virtuosity, both of which require deliberate practice. There is no universal rule about which step has to be taken first or next -- it’s more intuition. A linear process requires a lot of “If” statements to account for decision making during planning.
+
+Teachers are bad at spotting experts, because they are biased towards what they teach and tend to like those who follow their rules. Teachers are usually teaching beginners, and misjudge experts from beginners because of this. Once you have internalized the knowledge, so you don’t have to remember what you have to do or make conscious decisions, that gut feeling, then you’re skilled. Deliberate practice with feedback loop allows for this to happen.
+
+Chess players think less and see pattern, they practice based on systemic feedback loops. ZKM gives you a structure and clearly separated tasks that are manageable in time, space and energy, and provide you feedback through the interconnections of the tasks.
+
+## 9.5 Get Closure
+
+Attention span and short term memory are both limited, we need to use external systems for both that don’t waste our brain power. It is predicted that we can hold 5 - 7 thoughts in our short-term memory, and these thoughts constantly seek our attention, coupling this with recency bias, we are usually occupied by some thought or another. We can’t store things temporarily and recall them later, without constantly having to refresh them. We can use memory techniques to help bundle things together, but it is better to either understand and connect to what is in our short term memory or to write it down.
+
+We can either try to sustain our attention on one item, so that we understand it and connect to it. For example a hard concept we are trying to figure out, or a idea that needs ironing out. We also typically try to hold a list of things in our heads that can be easily written down. For example a grocery list, even a short one requires processing power. For each of these types of thoughts, we should try to get closure, so we free up our memory for new thoughts.
+
+ZKM helps in furthering our understanding of ideas, since every entry is accompanied by questions of how it fits into the slip-box and how it connects to preexisting notes. Does the idea support or contradict another idea in our slip-box? Does a idea bridge a gap between two ideas? What are the relationships of the idea between other notes?
+
+Open-ended tasks occupy our short term memory until they are closed. Closure means that we do enough to get the idea out of head and into an external system where we can pick it up later. We keep getting distracted by unfinished tasks, we can remove the pressure of a task by writing it down. This is the concept of GTD (Allen). We need to have a reliable external system to help us process our short-term memory and get those nagging thoughts out of our brains. So we can concentrate on the task at hand. For tasks you can use GTD, but for ideas and connections write them down in ZKM. Use the ZKM to track the outcome of your thinking and possible subsequent steps.
+
+Essentially the ability to pick up thoughts later frees up your mind now to concentrate on the present moment. Processing these thoughts in writing, in a reliable external system, frees up your mind. This lets you give indirect attention to your thoughts and possible solutions. The brain goes into a diffused mode. If we’re not thinking about our grocery list, we can focus on the problem at hand. When we go grocery shopping and process that thought, our brain is still working on a solution to the work problem, but in a indirect and diffused mode.
+
+## 9.6 Make Decision Making Easier
+
+Attention, memory and will power are all limited resources. Have a close relationship with your ZKM and external system, will yield far superior results than sophisticated planning and working through linear steps. A close relationship means you have to spend the time and effort on making the system easy to work with, you have to push work through and let its provide feedback on what needs to change. In short get it out of your head and into your external systems. *You need a external system that tracks, like GTD, processes your ideas and thoughts, like ZKM, and a system that hold your references. What about projects and execution. You want your system to be designed for action.*
+
+Will power is a muscle that depletes the more we use it, and it needs time to recover. By using more and more will power we lose the ability to engage in free will actions. Essentially when our will power is depleted, we tend to shut-down and let the wind take us wherever it wants. Losing control of our action, this increases the pressure on our mind, as to what we have **still** have to get done. This causes us to spend our night, rather than sleeping, thinking about all that we missed today, and what we have to do tomorrow. *When are you using will power to drive your actions? Can you judge this by the amount of effort it takes to start a task?*
+
+Using self control, active decision making, choices, all deplete the ability to freely engage. We need to find a way to do the work, with out using will-power. Using a standard structure that limits the number of decision we have to make during the flow, allows us to dynamically makes decision based on our thought process. If we still have to decide what to do next, we use our will-power, and quickly run out of gas. By using a system that is structured and reduces the decision we can avoid depleting our will-power -- that leaves us with more mental capability to learn and create. *Apply this to music making*
+
+Being able to finish tasks, and take active breaks further replenishes our will power. Once the brain relaxes, and is able to process the information we going into recovery mode. *Can we use the different types of intelligence models to go into active recovery mode?*
+
+# 10 - Reading for Understanding
+
+## Read with a Pen In Hand
+
+When you focus on writing, the goal is to turn a series of notes into a continuous text. If you already have a pen in your hand while you read, you can better understand what you have read. We want to focus on creating a meaningful dialogue with the text we read. This is why we have to translate them into our own language and understanding.
+
+The slip-box is an idea generator as well, and to fill it with good ideas, I need to have good conversations \*use I when highlighting your thoughts in L-Notes". Reading with a pen in hand allows me to jot down my understanding, even though the reading we are doing is not in the context of our slip-box, we are trying to process it so it fits into our context,
+
+Literature notes are closer to the context of the original text, they are still written with respect to our slip box. Its our first interaction with the text, so we try to be as extensive as possible. L-notes are structured the same way the text is structured, but you should be hesitant of adding your notes and interpretations along with the literature (in Zotero, with bibliography).
+
+A literature note should be a tool for understanding and grasping the text. You can take the set of L-notes and place it in your context, by explaining it against your own mental models. Learning something new and having extensive notes is deliberate practice, you are going to go through mental stress as you pick up something new. Your goal is to read through the text and distill it into a few sentences. Usually to distill, you have to reflect on the meaning of the text and let it sink in.
+
+SQ3R/SQ4R treat every text the same, but with ZKM you can treat the notes on the context of your slip-box. So each notes adds to the critical mass. As you move your l-notes to p-notes, the reflection will add more value to your slip-box.
+
+Further taking notes by hand creates a stronger understanding of the content of text. Handwriting is slower and forces you to think about what you read. (IPAD?), capturing the l-notes should be about capturing the essence of the text.
+
+## Keep an Open Mind
+
+Our brains are not smart in selecting information, due to our biases our brains tend towards confirming arguments. The key to smart note-taking is to be equally selective. We should be drawn to everything that makes us feel good.
+
+Confirmation bias is a major force in shaping our insights and reasoning. Nickerson says that the confirmation bias is the single problematic aspect of human reasoning." Darwin forced himself to write down and elaborate on arguments that were against his theory.
+
+We should change the incentives from just finding confirming facts to indiscriminate, or ever dis-confirming facts, Choosing a hypothesis or conclusion is a sure fire way to start with confirmation bias.
+
+Generating insight and confirmation bias are opposites. If you have a confirmation bias, and try to keep solving problems with that bias in place, it's like doing the same thing over and over again, expecting different results. Confirmation bias is a mutiny against your quest for insight. If you success depends on a discovered confirmation bias, then there is something wrong.
+
+In ZKM we postpone on the topic or hypothesis and specifically focus on building critical mass. We want to confirm that we understand the text we have read, and have taken the true account. Then we want to find the relevance of the text based on the connections it makes.
+
+The slip-box is selective in reading and note taking. Being smart about the notes to add to or slip-box, allows us to add to the discussion with the slip-box, and opens up connection or lack of connection to arguments. An addition, or a contradiction adds to the slip-box, questions that agree and facts that disagree. All this enriches the slip-box.
+
+After aligning or interests, we can go further by intentionally looking for disconfirming facts. We are selective, but we not in terms of pros and cons, but rather relevance and irrelevance. We actively go after disconfirming data, because it adds to the slip-box, and our arguments. Adding diverse arguments to the slip-box becomes addictive. Contradictions within the slip-box are discussed and follow-up questions are answered. We are forced to further elaborate on the problem.
+
+The slip-box is agnostic to it's content, it only refers to relevant notes. It is after you've collect the arguments and see how it connects, that you can form a linear argument.
+
+## Get the Gist
+
+We need to have the ability to distinguish between relevant and less relevant information. Deliberate practice repeated multiple times a day is key to gaining this skill. We have to incorporate this into our daily practice. Patterns help us align our mental models again the text. By aligning to mental models we grasp the gist quicker and read more in less time. We need to learn how to spot patterns. Mental models are described as a broad set of tools that help with thinking and understanding, and knowing how to apply them.
+
+Mental models help us spot patterns so we can grasp the gist of the text quicker, and read more in less time. In using mental models or judgement is important. Maturity is the ability to use one’s own understanding without another’s guidance. The ability to use ones mind is a challenge.
+
+Reading academic texts we require not short-term memory, but long term-memory to develop reference points. One has to be extremely selective and extract widespread and connected references. This requires the ability to hold these references in long term memory, as initially connections will be missing. We also need to condense and reformulate the accounts of the text into our own word, so they make sense to us in the future as we build towards understanding over time.
+
+Jotting notes down quickly and finding the right words to express something enhances not just your understanding, but our your ability to explain something clearly, which will in turn spill over into speaking and thinking. People appear more intelligent the more clear and more to the point their expressions are.
+
+The ability to spot patterns is a precondition to critical thinking, fortunately these skills can be learned and taking smarter notes and is deliberate practice to enhancing them. Just reading, highlighting, and taking scattered notes, and hoping to remember and connect are not.
+
+## Learn to Read
+
+Feynman would know if he understood something, if he could do a lecture on the topic. We don't have that opportunity, however permanent are like lectures to your future self. Permanent notes are directed towards a version of our ignorant future self.
+
+If we just explained it to someone our ourselves orally, we get into hand-waving gestures and unfounded claims, like "you know what I mean". You are the easiest person to fool, this is evident by the number of times we have re-read understand something thinking we now "know" it. The mere-exposure effect is that the moment we become familiar with something, we believe we know it. And since its a high, we tend to like the mere exposure effect more. *All of my learning has been just the mere exposure effect.*
+
+Familiarity is not understanding, we don't know something until we have tested ourselves. We happily enjoy the feeling of getting smarter, but we are dumb as we always were. As when needed we are not able to explain in our own words what we read. Struggling with the material is our only change to improve our understanding, learn and move forward. Choose between feeling smarter or becoming smarter. This may feel like a detour, and that all this writing will be a waste of time, but not writing it down for later is a waste of time. Why would you not want something to stick in your brain, so put it in you ZKM.
+
+*Collect a series of notes and readings into "reference" notes? or projeect notes? What is the flow between, f-notes, l-notes, r-notes, z-notes, p-notes? I would really like to use just one program… or two*
+
+Learning is understanding, we have to test ourselves like Feynman, because when we actually start retrieving information will we clearly determine if we understand something or not. Seeing something we have seen before cause an emotion reaction as if we retrieved it ourselves, "I already knew that!". Our brains are biased and terrible teachers, use ZKM to augment them so you can use methods to learn something that is truly available when needed.
+
+Students even when tols that rereading is useless, they still do it even if they know it doesn't work. Exercising is a better use of that time, but even better are small implicit choices that force us to deliberately ##practice and confront us as much as possible.
+
+## Learn by Reading
+
+Learning requires deliberate practice., and learning increases our understanding of the world, not just to pass a test. Deliberate practice is demanding and requires effort, if it wasn't it would be like rereading. Essentially, the one who does the work does the learning. To learn we need to put in an effort to think, understand, retrieve and connect our knowledge. *Does ZKM do all of these?*
+
+ZKM provides us the opportunity to build meaningful connection and make sense of our knowledge. Our ZKM can help us generate ideas that haven't been mentioned yet.
+
+Variation, spacing, contextual interference and testing appear to impede the learning process, but are shown to enhance retention and transfer of the leaning, they support long-term learning, retention and transfer.
+
+Generating questions and answers before reading, help us better understand what we read, even though we had the answer wrong initially. Ever our failed attempt prompted us to learn, even if we failed to retrieve something, that enhanced our learning. Learning strategies do not feel right, and may even disturb us emotionally (*what if I am wrong?),* but they work. Cramming and re-reading does not work. Exercise reduces stress and stress floods our brains with hormones that reduce the learning process. By exercising we actually support the learning process further.
+
+Pure reviewing doesn't make sense and doesn't support our understanding or our learning. Elaborating is when we take ideas and combine them with others. Elaboration means to think about the meaning of what we have read, and it could generate different questions and topics, further how it could combine with other knowledge.
+
+ZKM supports elaboration, by capturing the results, but it can't take thinking and understanding off your shoulders. ZKM helps you store the information so it easily accessible visually and physically, rather then inside your head. This facilitates long term learning. The objection of why we have to slow down the process and take so many notes has been discussed. Elaboration allow you to connect and and question, while deliberate practice enhances understanding. The parallel processing capability of your ZKM, allows you to work on multiple ideas increases productivity and long term retention. Your ZKM also acts as a long term second brain, working in lock-step with your understanding.
+
+
+* Further Research
+# Research
+
+The Dreyfus Model of Skill Acquisition, developed by brothers Stuart and Hubert Dreyfus, outlines five stages through which individuals progress as they acquire and master new skills. The model is widely used in education, training, and professional development. Here are the five stages:
+
+1\. \*\*Novice\*\*
+
+  - \*\*Characteristics\*\*:
+
+    - Beginners who have little or no prior experience.
+
+    - Rely heavily on rules and guidelines provided by others.
+
+    - Have difficulty handling unexpected situations.
+
+  - \*\*Learning Focus\*\*: Learning basic rules, facts, and tasks. Following instructions strictly.
+
+2\. \*\*Advanced Beginner\*\*
+
+  - \*\*Characteristics\*\*:
+
+    - Start to recognize recurring meaningful components in tasks.
+
+    - Begin to apply guidelines in context but still rely on rules.
+
+    - Limited situational perception.
+
+  - \*\*Learning Focus\*\*: Gaining experience and recognizing patterns. Applying rules in context.
+
+3\. \*\*Competent\*\*
+
+  - \*\*Characteristics\*\*:
+
+    - Able to plan and manage tasks effectively.
+
+    - Make decisions based on deliberate choices rather than relying on rules.
+
+    - More aware of long-term goals.
+
+  - \*\*Learning Focus\*\*: Developing problem-solving and decision-making skills. Handling more complex and varied tasks.
+
+4\. \*\*Proficient\*\*
+
+  - \*\*Characteristics\*\*:
+
+    - Perceive situations holistically rather than in terms of individual aspects.
+
+    - Use intuition in decision-making.
+
+    - Able to prioritize and adapt actions based on situational understanding.
+
+  - \*\*Learning Focus\*\*: Enhancing intuitive thinking and situational awareness. Improving the ability to anticipate and respond to changes.
+
+5\. \*\*Expert\*\*
+
+  - \*\*Characteristics\*\*:
+
+    - Perform tasks effortlessly and fluidly.
+
+    - Possess deep understanding and intuition.
+
+    - Innovate and improvise in complex situations.
+
+  - \*\*Learning Focus\*\*: Continuous improvement and innovation. Mentoring and teaching others.
+
+The Dreyfus Model emphasizes the progression from reliance on abstract principles to the use of past concrete experiences as paradigms. This model is particularly useful for understanding the development of professional skills and expertise.
+
+According to Barbara Oakley, the opposite of focused attention is "diffuse mode" thinking. In her work on learning and brain science, particularly in her book "A Mind for Numbers," Oakley describes two primary modes of thinking:
+
+1\. \*\*Focused Mode\*\*: This mode is characterized by concentrated, intense focus on a specific task or problem. It's useful for deep, logical, and analytical thinking, often required for solving detailed problems or learning new material in a structured way.
+
+2\. \*\*Diffuse Mode\*\*: In contrast, the diffuse mode is more relaxed and allows the brain to make broader connections and associations. This mode of thinking is less linear and more holistic, enabling creative problem-solving and the formation of new ideas and insights.
+
+Oakley emphasizes the importance of alternating between these two modes to optimize learning and problem-solving, as each mode complements the other in the cognitive process.
 
 * References
 [cite:@ahrensHowTakeSmart2022]
