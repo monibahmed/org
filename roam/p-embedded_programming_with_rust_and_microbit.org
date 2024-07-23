@@ -1,0 +1,88 @@
+:PROPERTIES:
+:ID:       b1a40edc-d9ed-4ae4-a275-4795496a886a
+:END:
+#+TITLE: Embedded Programming with Rust and Microbit
+
+* Work through Rust Embedded Book
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+** Setup
+*** How do I fix this error:
+
+#+BEGIN_SRC rust 
+
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 9.43s
+    Config default
+    Target C:\Users\mahmed6\discovery\microbit\target\thumbv7em-none-eabihf\debug\rtt-check
+     Error The following devices were found:
+            [0]: BBC micro:bit CMSIS-DAP -- 0d28:0204:99063602000528204BC592478EC634A1000000006E052820 (CMSIS-DAP)
+           [1]: CMSIS-DAP v1 -- 0d28:0204:99063602000528204bc592478ec634a1000000006e052820 (CMSIS-DAP)
+            Use '--probe VID:PID'
+            You can also set the [default.probe] config attribute (in your Embed.toml) to select which probe to use. For usage examples see https://github.com/probe-rs/probe-rs/blob/master/probe-rs-tools/src/bin/probe-rs/cmd/cargo_embed/config/default.toml .
+#+END_SRC
+
+The error is saying that there are multiple devices (probes) detected by the system, and it's not clear which one should be used for debugging. You have two ways to resolve this:
+
+  1. Use the =--probe= option with the =VID:PID= of the desired probe when running your command. The =VID:PID= values can be found in the error message, and it should follow the format =0d28:0204=. For example:
+      cargo embed --probe 0d28:0204
+  2. Alternatively, you can set the =default.probe= config attribute in your =Embed.toml= file with the =VID:PID= of your probe. The =Embed.toml= file would look something like this:
+
+      [default]
+      probe = "0d28:0204"
+      
+  Remember to replace ="0d28:0204"= with your chosen =VID:PID=. Once you make this change and save it, future commands won't require =--probe VID:PID= argument and will use specified probe by default.
+
+
+
+Ok, now I am seeing this:
+#+BEGIN_SRC
+
+Target C:\Users\mahmed6\discovery\microbit\target\thumbv7em-none-eabihf\debug\rtt-check
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0001000: CIDR0 has invalid preamble (expected 0xd, got 0x0)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0001000: CIDR2 has invalid preamble (expected 0x5, got 0x0)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0001000: CIDR3 has invalid preamble (expected 0xb1, got 0x0)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0000000: CIDR0 has invalid preamble (expected 0xd, got 0xb1)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0000000: CIDR1 has invalid preamble (expected 0x0, got 0x1)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0000000: CIDR2 has invalid preamble (expected 0x5, got 0xb1)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0040000: CIDR0 has invalid preamble (expected 0xd, got 0x0)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0040000: CIDR2 has invalid preamble (expected 0x5, got 0x0)
+ WARN probe_rs::architecture::arm::memory::romtable: Component at 0xe0040000: CIDR3 has invalid preamble (expected 0xb1, got 0x0)
+       Error failed attaching to target
+
+             Caused by:
+                 0: Unable to load specification for chip
+                 1: The connected chip could not automatically be determined.
+#+END_SRC
+
+
+
+The error message shows that the system is unable to discern the type of chip connected to it, giving a series of warnings about invalid preamble values in ROMTable Component Integrated Device Resource (CIDR) records.
+
+Here are few things you might want to check:
+
+1. Check whether the hardware is properly connected and powered on.
+2. Ensure that the correct softdevice and toolchain are installed.
+3. Update your probe-rs library as they have slightly better error messages in newer versions.
+4. Review the exact microbit model (v1, v2, etc.) and match it with the target specification in your configuration files.
+5. Try specifying the chip explicitly in your debugging/programming command if possible.
+
+Remember that advice is based on the provided error message, without context about the code and exact hardware setup more precise guidance might not be possible.  
+
+** The MICROBIT:V2 Hardware
+- Microcontroller Unit is the part that runs your code
+- Has an Megnetometer and a Accelerometer
+** Terminology
+| Peripheral Access Crate    | Safe direct interface to the peripherals of the chip. Usually other layers interact with PAC |
+| Hardware Abstraction Layer | Provides an abstraction for the various peripherals                                          |
+| Board Support Crate        | Abstract the whole board providing access to its features, used on top of HAL                |
+| Embedded HAL               | Provide a set of traits that describe behavior which is common across specified HALs |
+
+
+
+
+* References
+https://docs.rust-embedded.org/discovery/microbit/
+https://tech.microbit.org/hardware/
+https://www.youtube.com/watch?v=vLYit_HHPaY
