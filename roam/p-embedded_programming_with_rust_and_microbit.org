@@ -70,16 +70,63 @@ Here are few things you might want to check:
 
 Remember that advice is based on the provided error message, without context about the code and exact hardware setup more precise guidance might not be possible.  
 
+*You need to select correct target in toml file*
+
+*** Install GDB
+How do I install gdb-multiarch on windows?
+
+GDB (GNU Debugger) is typically not directly installed on Windows. Instead, it's used in Windows via a Unix-like environment like Cygwin or MinGW, or on Windows Subsystem for Linux. Here are the steps to install it:
+
+**Option 1: Windows Subsystem for Linux (WSL):**
+
+1. Install WSL on your windows machine. For Windows 10, you can follow the official guide here: https://docs.microsoft.com/en-us/windows/wsl/install-win10.
+
+2. Install a Linux distribution from the Microsoft Store (like Ubuntu).
+
+3. Open a WSL terminal (by searching for your installed Linux like Ubuntu, in the start menu).
+
+4. And run the following command to install gdb-multiarch: =sudo apt-get install gdb-multiarch=
+
+**Option 2: Via Cygwin:**
+
+1. Download the Cygwin setup file from their official website: https://www.cygwin.com/
+
+2. Run the downloaded setup file and follow the on-screen instructions.
+
+3. During installation, you will be asked to select packages to install. You need to select the gdb package under "Devel" category.
+
+Please note that gdb-multiarch specifically might not be available on Cygwin or MinGW, normal gdb will be available.
+
+**Option 3: Via MinGW:**
+
+1. Download and install MinGW from: http://www.mingw.org/
+
+2. Open MinGW Installation Manager (GUI) and install =mingw32-gdb=.
+
+Knowing your specific use-case would help provide a more targeted solution. If you're developing cross-platform applications, especially for embedded systems or different instruction set architectures, you might be better off using a Linux-based development environment or a virtual machine.
+You can install gdb-multiarch on Windows by using the MSYS2 framework. First, install MSYS2 from the official website, then run the MSYS2 terminal and use the package manager to install gdb-multiarch by running =pacman -S mingw-w64-x86_64-gdb=.
+
+*Windows GDB is not working ... moving on*
+
 ** The MICROBIT:V2 Hardware
 - Microcontroller Unit is the part that runs your code
 - Has an Megnetometer and a Accelerometer
 ** Terminology
+|----------------------------+----------------------------------------------------------------------------------------------|
+| Term                       | Definition                                                                                   |
+|----------------------------+----------------------------------------------------------------------------------------------|
 | Peripheral Access Crate    | Safe direct interface to the peripherals of the chip. Usually other layers interact with PAC |
 | Hardware Abstraction Layer | Provides an abstraction for the various peripherals                                          |
 | Board Support Crate        | Abstract the whole board providing access to its features, used on top of HAL                |
-| Embedded HAL               | Provide a set of traits that describe behavior which is common across specified HALs |
+| Embedded HAL               | Provide a set of traits that describe behavior which is common across specified HALs         |
+|----------------------------+----------------------------------------------------------------------------------------------|
+** Flashing and Debugging Process
 
-
+#+BEGIN_SRC 
+#![no_main] // no main to enter the program not command-line based
+#![no_std]  // don't use the std crate that is OS specific, use core crate which is basic set of functionality 
+#[entry]    // this is the main entry point of our program, has a signature fn () -> !; doesn't return or terminate 
+#+END_SRC
 
 
 * References
