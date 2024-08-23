@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       58dfd165-3dd5-49a1-86d4-9f60cded8249
+:END:
+#+TITLE: Project Workflow
+
+* Create an Efficient Project Workflow
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+** Tools
+*** Capturing Tools
+- iPhone capturing video notes, interesting find and documents/shares from other places
+  - Zotero to consumption?
+  - Tracking TODOs and next items?
+  - For concentration music and momentum
+  - Use for note taking and capturing fleeting notes
+    
+- Zotero for reference material and capturing fleeting notes, and reference notes
+- Emacs for capturing my own project notes and ZKM notes
+
+  
+
+
+
+* References
+[[id:2C750130-0F6D-4AFD-9957-664821160AEC][Ahrens, Sönke - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking]]
+
