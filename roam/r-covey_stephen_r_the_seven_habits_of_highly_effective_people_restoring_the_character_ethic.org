@@ -55,7 +55,5 @@ For me proactive would be to realize the potential of Haskell + Clash, and align
 Beginning with the End in Mind, would basically mean that I setup a series of exercises/projects to show alignment to my thinking or not. And then the last habit would be to manage the project and execute. Haskell and Clash are easier to mathematically reason through then a SystemVerilog implementation. 
 
 
-
-
 * References
 [cite:@coveySevenHabitsHighly1989]
