@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       20EAA30B-4D6C-407A-8FE2-3EDC9D1FEB14
+:ROAM_REFS: @coveySevenHabitsHighly1989
+:END:
+#+TITLE: Covey, Stephen R. - The Seven Habits of Highly Effective People: Restoring the Character Ethic
+
+* Creating and Establishing a Personal Identity
+:PROPERTIES:
+:DRAFT:    TRUE
+:END:
+
+Life is a culmination of experiences, creations and attitudes. Life is a series of actions that lead to consequences. If you base your actions on rooted center, then the consequences will be easier for you to accept or better align your actions to. If our life is based on a set of characters, such as justice, integrity, dignity, we can build upon a strong center. This helps us realize the areas where we are dependent, independent and interdependent. 
+
+As we grow through life, we build up mental maps that allow us to make sense of what we see. It is the lens we see the world through. Mental maps are based on self-awareness or social awareness. Our thinking and actions are controlled through genetics, psychology and environments. We inherit some traits from our ancestors, we are raised by our parents and than affected by the environment we grow up in. 
+
+Habits are established through life, they are the culmination of the knowledge, skills and desires to achieve a particular goals. Habits are formed using framework or system that allows you to efficiently spend your time, space and energy within a system. You use the goose to acquire golden eggs. This is a relationship between the productions and production assets. Habits are the production asset, and the golden eggs are their outcomes. 
+
+The goal of this books, is to help establish a center and through interdependent relationships, affect a change within your circle of concern and influence. As you move through these habits, they should appear as one, and meld into each other.
+
+** Be Proactive
+Using an inside-out approach, be proactive. Not reactive or inactive. Don't let the outside-in sway you from your center. By establishing your center you understand what your circle of concern and influence are, and hopefully you can expand them using character building techniques. These are the areas where you can effectively focus you time and energy. The circle of concern is what you are concerned about, the areas where you want to make a change. The circle of influence is the areas where we have control of inflicting a change. The CoI may be small or may be big, but there are a few ways to influence change.
+
+- Direct Control : Influence involving our own behaviors.
+- Indirect Control : Influence involving other people
+- No Control : Outside our area of influence. 
+
+If we are proactive, we can use techniques to expand our circle of influence so it covers our circle of concern, and maybe even goes beyond it. Thinking from in the inside out, we can affect change without being affected by the norm of the situation. We are free to choose our actions, we must understand the consequences of our action. And if they don't align with our character, we'll feel at unease.
+
+** Begin with the End in Mind
+Starting with a clear understanding of your destination, allows you to realize that all things are created twice. Once in your imagination and the second time in the physical realm. Having a vision in mind allows us to lead towards a direction. We use our inner compass to be effective and efficiently expend our efforts towards that vision.
+
+* Let's Apply this to Haskell
+This is a private victory, we're going to learn Haskell to understand software programming better. 
+** Thinking Inside-Out
+/Work through mental blocks/. We can be proactive by looking at the topics of Haskell, by using generation and pre-learning. We can start to create a structure of what the programming language consists of. Lets do that now:
+
+1. Variables and Lists
+2. Data Types
+3. Type Classes
+4. Structuring Programs
+5. Functors
+6. Applicatives
+7. Monads
+8. Working with Heterogeneous Data
+9. Efficient and Parallel Computation
+
+
+Or could being Proactive mean that you're thinking of the goal and vision? or are you thinking about how it aligns to your values?
+** Think Alignment to Values
+Assuming my values is "efficient execution", Haskell will add a new dimension to hardware design. Because of its higher level approach, modular and functional paradigms (which seems to align with your values), you'll be able to align systems and implementations.
+
+
+For me proactive would be to realize the potential of Haskell + Clash, and align it to my values of efficient execution. Simple enough, to make sense, and doesn't need to be expanded. /How does Emacs align to your values ... re-evaluate everything???/
+
+Beginning with the End in Mind, would basically mean that I setup a series of exercises/projects to show alignment to my thinking or not. And then the last habit would be to manage the project and execute. Haskell and Clash are easier to mathematically reason through then a SystemVerilog implementation. 
+
+
+
+
+* References
+[cite:@coveySevenHabitsHighly1989]
